@@ -1,174 +1,174 @@
 {
   "Ascension": {
-    "NAME": "Ascension",
+    "NAME": "Успињање",
     "DESCRIPTIONS": [
-      "+5% score per Ascension Level."
+      "+5% скора по нивоу Успињања."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "Елита убијених у Вани",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Bosses Slain",
+    "NAME": "Убијених Чувара",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "Елита убијених у Граду",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "Елита убијених у Прелудијуму",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Champion",
+    "NAME": "Шампион",
     "DESCRIPTIONS": [
-      "Defeat an Elite without taking damage."
+      "Порази Елиту без претрпљивања штете."
     ]
   },
   "Perfect": {
-    "NAME": "Perfect",
+    "NAME": "Савршен",
     "DESCRIPTIONS": [
-      "Defeat a Boss without taking damage."
+      "Порази Чувара без претрпљивања штете."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Beyond Perfect",
+    "NAME": "Пресавршен",
     "DESCRIPTIONS": [
-      "Defeat 3 bosses without taking damage."
+      "Порази 3 Чувара без претпљивања штете."
     ]
   },
   "Overkill": {
-    "NAME": "Overkill",
+    "NAME": "Прекољ",
     "DESCRIPTIONS": [
-      "Deal 99 damage with a single attack."
+      "Начини 99 штете једним нападом."
     ]
   },
   "Combo": {
-    "NAME": "C-c-c-combo",
+    "NAME": "К-к-к-комбо",
     "DESCRIPTIONS": [
-      "Play 20 cards in a single turn."
+      "Одиграј 20 карата у једном потезу."
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "Гованцљив",
     "DESCRIPTIONS": [
-      "Received the Spirit Poop."
+      "Примио Гованце Вилењака."
     ]
   },
   "Cheater": {
-    "NAME": "Cheater",
+    "NAME": "Варалица",
     "DESCRIPTIONS": [
-      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
+      "Ухваћен у варању. У случају другог хватања, твој скор више никад неће бити постављен на Табелу."
     ]
   },
   "Speedster": {
-    "NAME": "Speedster",
+    "NAME": "Брзиша",
     "DESCRIPTIONS": [
-      "Victory in under 60 minutes."
+      "Победи испод 60 минута."
     ]
   },
   "Light Speed": {
-    "NAME": "Light Speed",
+    "NAME": "Светлосном Брзином",
     "DESCRIPTIONS": [
-      "Victory in under 45 minutes."
+      "Победи испод 45 минута."
     ]
   },
   "Money Money": {
-    "NAME": "Money Money",
+    "NAME": "Паре Паре Паре",
     "DESCRIPTIONS": [
-      "Accrued 1,000 gold."
+      "Нагомилао 1000 златника."
     ]
   },
   "Raining Money": {
-    "NAME": "Raining Money",
+    "NAME": "Лова Се Бере Са Дрвета",
     "DESCRIPTIONS": [
-      "Accrued 2,000 gold."
+      "Нагомилао 2000 златника."
     ]
   },
   "I Like Gold": {
-    "NAME": "I Like Gold",
+    "NAME": "Волим Злато",
     "DESCRIPTIONS": [
-      "Accrued 3,000 gold."
+      "Нагомилао 3000 златника."
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalist",
+    "NAME": "Минималиста",
     "DESCRIPTIONS": [
-      "Removed 5+ cards from your deck."
+      "Уклонио 5+ карата из шпила."
     ]
   },
   "Highlander": {
-    "NAME": "Highlander",
+    "NAME": "Брђанин",
     "DESCRIPTIONS": [
-      "Your deck contains no duplicates (excluding starter cards)."
+      "Твој шпил не садржи дупликате (искључујући почетне карте)."
     ]
   },
   "Shiny": {
-    "NAME": "I Like Shiny",
+    "NAME": "Волим Кад Шљашти",
     "DESCRIPTIONS": [
-      "Have 25+ relics."
+      "Поседуј 25+ реликвија."
     ]
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "Колекционар",
     "DESCRIPTIONS": [
-      "Have 4 copies of any non-starter card."
+      "Поседуј 4 копије било које не-почетне карте."
     ]
   },
   "Pauper": {
-    "NAME": "Pauper",
+    "NAME": "Сиромах",
     "DESCRIPTIONS": [
-      "Have 0 rare cards."
+      "Поседуј 0 ретких карата."
     ]
   },
  "Librarian": {
-    "NAME": "Librarian",
+    "NAME": "Библиотекар",
     "DESCRIPTIONS": [
-      "Deck size greater than 35 cards."
+      "Величина шпила је већа од 35 карата."
     ]
   },
   "Encyclopedian": {
-    "NAME": "Encyclopedian",
+    "NAME": "Енциклопедиста",
     "DESCRIPTIONS": [
-      "Deck size greater than 50 cards."
+      "Величина шпила је већа од 50 карата."
     ]
   },
   "Well Fed": {
-    "NAME": "Well Fed",
+    "NAME": "Нахрањен",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 15+."
+      "Повећао своје Макс. ЗП за 15+."
     ]
   },
   "Stuffed": {
-    "NAME": "Stuffed",
+    "NAME": "Наждран",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 30+."
+      "Повећао своје Макс. ЗП за 30+."
     ]
   },
   "Curses": {
-    "NAME": "Curses!",
+    "NAME": "Судбо клета!",
     "DESCRIPTIONS": [
-      "Your deck contains 5 curses."
+      "Шпил ти садржи 5 клетви."
     ]
   },
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "Алхемичар",
     "DESCRIPTIONS": [
-      "Bought 5 potions."
+      "Купио 5 напитака."
     ]
   },
   "Mystery Machine": {
-    "NAME": "Mystery Machine",
+    "NAME": "Mystery Machine (ТРЕБА ПРЕВЕСТИ)",
     "DESCRIPTIONS": [
-      "Traveled to 15+ ? rooms."
+      "Посетио 15+ ? соба."
     ]
   },
   "On My Own Terms": {
-    "NAME": "On My Own Terms",
+    "NAME": "On My Own Terms (ТРЕБА ПРЕВЕСТИ)",
     "DESCRIPTIONS": [
-      "Killed yourself."
+      "Убио се се."
     ]
   }
 }

@@ -1,148 +1,148 @@
 {
   "Ironclad": {
 	"NAMES": [
-		"The Ironclad"
-	], 
+		"Железни"
+	],
     "TEXT": [
-		"The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
+		"Једини преостали витез из одреда Железних. NL Трампио своју душу за ђавоље моћи."
 	]
   },
   "Crowbot": {
 	"NAMES": [
 		"Crowbot"
-	], 
+	],
     "TEXT": [
 		"BEEP BOOP"
 	]
   },
   "Silent": {
 	"NAMES": [
-		"The Silent"
-	], 
+		"Нема"
+	],
     "TEXT": [
-		"A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
+		"Смртоносни ловац из маглом опасаних земаља. NL Своје непријатеље истребљује бодежима и отровом."
 	]
   },
   "Neow Event": {
 	"NAMES": [
-		"Neow"
-	], 
+		"Њов"
+	],
     "TEXT": [
-		"~Greetings...~ NL ~I..~ ~am~ ~Neow...~",
-		"~Hello...~ NL ~Again..~",
-		"~Greetings...~",
-		"~Another~ NL ~try...?~",
-		"~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
-		"~At~ ~least...~ ~confront~ NL ~the~ ~first~ ~boss...~",
-		"~I~ ~brought~ ~you~ ~back...~",
-		"~Choose...~",
-		"~Granted...~",
-		"~Risk...~ NL ~..reward....~"
+		"~Поздрав...~ NL ~Ја..~ ~сам~ ~Њов...~",
+		"~Здраво...~ NL ~Поново..~",
+		"~Подзрав...~",
+		"~Још~ ~један~ NL ~покушај...?~",
+		"~Стигни~ ~до~ ~чувара...~ NL ~ако~ ~желиш~ ~мој..~ ~благослов...~",
+		"~За~ ~почетак~ ~се...~ ~барем~ ~суочи~ NL ~са~ ~првим~ ~чуваром...~",
+		"~Вратио~ ~сам~ ~те...~",
+		"~Бирај...~",
+		"~Подато...~",
+		"~Рескирај...~ NL ~..убирај....~"
 	],
 	"OPTIONS": [
-		"[Continue]",
-		"[Talk]",
-		"[Skip]",
-		"[Leave]"
+		"[Настави]",
+		"[Разговарај]",
+		"[Прескочи]",
+		"[Пођи]"
 	]
   },
   "Neow Reward": {
 	"NAMES": [
-	
-	], 
+
+	],
     "TEXT": [
-		"[ #gChoose #ga #gCard #gto #gobtain ]",
-		"[ #gObtain #ga #grandom #grare #gCard ]",
-		"[ #gRemove #ga #gCard #gfrom #gyour #gdeck ]",
-		"[ #gUpgrade #ga #gCard ]",
-		"[ #gTransform #ga #gCard ]",
-		"[ #gObtain #g3 #grandom #gPotions ]",
-		"[ #gObtain #ga #grandom #gcommon #gRelic ]",
-		"[ #gMax #gHP #g+",
-		"[ #gObtain #g",
-		" #gGold ]",
-		"#gRemove #g2 #gCards ]",
-		"#gObtain #ga #grandom #grare #gRelic ]",
-		"#gChoose #ga #grare #gCard #gto #gobtain ]",
-		"#gGain #g",
-		" #gGold ]",
-		"#gTransform #g2 #gCards ]",
-		"#gMax #gHP #g+",
-		"[ #rLose #r",
-		" #rMax #rHP ",
-		"[ #rLose #rall #rGold ",
-		"[ #rObtain #ra #rCurse ",
-		"[ #rLose #r50% #rof #ryour #rcurrent #rHP ",
-		"Choose a Card",
-		"Select a Card to Remove",
-		"Select 2 Cards to Remove",
-		"Select a Card to Transform",
-		"Select 2 Cards to Transform",
-		"Select a Card to Upgrade",
-		"[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]"
+		"[ #gИзабери #gКарту ]",
+		"[ #gСтекни #gретку #gнасумичну #gКарту ]",
+		"[ #gУклони #gКарту ]",
+		"[ #gПобољшај #gКарту ]",
+		"[ #gЗамени #gКарту ]",
+		"[ #gСтекни #g3 #gнасумична #gНапитка ]",
+		"[ #gСтекни #gобичну #gнасумичну #gРеликвију ]",
+		"[ #gМакс. #gПЗ #g+",
+		"[ #gСтекни #g",
+		" #gЗлато ]",
+		"#gУклони #g2 #gКарте ]",
+		"#gСтекни #gретку #gнасумичну #gРеликвију ]",
+		"#gИзабери #gретку #gКарту ]",
+		"#gСтекни #g",
+		" #gЗлато ]",
+		"#gЗамени #g2 #gКарте ]",
+		"#gМакс. #gЗП #g+",
+		"[ #rЖртвуј #r",
+		" #rМакс. #rЗП ",
+		"[ #rОдбаци #rсве #rЗлато ",
+		"[ #rСтекни #rКлетву ",
+		"[ #rЖртвуј #r50% #rтренутних #rЗП ",
+		"Изабери Карту",
+		"Уклони Карту",
+		"Уклони 2 Карте",
+		"Замени Карту",
+		"Замени 2 Карте",
+		"Побољшај Карту",
+		"[ #gПротивници #gу #gследеће #gтри #gборбе #gће #gимати #gпо #g1 #gЗП ]"
 	],
 	"UNIQUE_REWARDS": [
-		"[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"
+		"[ #rОдбаци #rпочетну #rРеликвију #gСтекни #gнасумичну #gчуварску #gРеликвију ]"
 	]
   },
   "Merchant": {
 	"NAMES": [
-		"Proceed",
-		"~Welcome!~"
-	], 
+		"Настави",
+		"~Добар дан!~"
+	],
     "TEXT": [
-		"Hi! NL Buy something! NL Buy buy buy!",
-		"I like your haircut",
-		"Do you have the time?",
-		"Are you a dog person or a cat person?",
-		"You look ~dangerous,~ NL hehe...",
-		"Take your time... NL ..... NL ... or not",
-		"Do you like this rug? NL It's not for sale",
-		"Support small business!",
-		"Masks are cool, I would know!",
-		"Hmm... NL ...hmm... NL Oh!",
-		"Stay awhile and listen!",
-		"It's dangerous to go alone! Give me all your gold!",
-		"Buy somethin'",
-		"~*YAWN*~",
-		"I like gold.",
-		"My favorite color is blue. NL How bout you?"
+		"Ћао! NL Купи нешто! NL Купи купи купи!",
+		"Свиђа ми се твоја фризура",
+		"Имаш ли мало времена?",
+		"Јел више волиш куце или маце?",
+		"Изгледаш ~опасно,~ NL хехе...",
+		"Полако, без журбе... NL ..... NL ... или са",
+		"Јел ти се свиђа овај тепих? NL Није на продају",
+		"Подржи мале предузетнике!",
+		"Маске су кул, први бих знао!",
+		"Хмм... NL ...хмм... NL O!",
+		"Подивани и послушај!",
+		"Опасно је лутати сам! Повери ми све своје злато!",
+		"Купи неш'",
+		"~*ЗЕВ*~",
+		"Волим злато.",
+		"Моја омиљена боја је плава. NL Твоја?"
 	]
   },
   "Shop Screen": {
 	"NAMES": [
-		"~Welcome~ NL ~welcome!~",
-		"Hey now, NL you need NL more #rGold.",
-		"Hey buddy, you got no #rMoney!",
-		"You broke?",
-		"You don't got enough #rGold.",
-		"You can't afford that.",
-		"This isn't a charity.",
-		"~Thaaaanks~",
-		"Another sale... NL hohoho! NL Cha - @Ching!@",
-		"@SOLD!@",
-		"No Refunds.",
-		"Have a nice day.",
-		"Leave",
-		"Select a card to remove from your deck."
-	], 
+		"~Здраво~ NL ~здраво!~",
+		"'Ајде сад, NL треба ти NL још #rЗлата.",
+		"'Еј другар, немаш довољно #rНовца!",
+		"Шворц?",
+		"Нем'ш довољно #rЗлата.",
+		"То не можеш да приуштиш.",
+		"Овде не донирамо.",
+		"~Хваааала~",
+		"Још једна продаја... NL хохохо! NL Звец - @ЗВЕЦ!@",
+		"@ПРОДАТО!@",
+		"Нема повраћаја.",
+		"Пријатан дан.",
+		"Пођи",
+		"Уклони карту из шпила."
+	],
     "TEXT": [
-		"Hi! NL Buy something! NL Buy buy buy!",
-		"I like your haircut",
-		"Do you have the time?",
-		"Are you a dog person or a cat person?",
-		"You look ~dangerous,~ NL hehe...",
-		"Take your time... NL ..... NL ... or not",
-		"Do you like this rug? NL It's not for sale",
-		"Support small business!",
-		"Masks are cool, I would know!",
-		"Have you seen my courier?",
-		"Stay awhile and listen!",
-		"It's dangerous to go alone! Give me all your gold!",
-		"Buy somethin'",
-		"~*YAWN*~",
-		"I like gold.",
-		"My favorite color is blue. NL How bout you?"
+		"Ћао! NL Купи нешто! NL Купи купи купи!",
+		"Свиђа ми се твоја фризура",
+		"Имаш ли мало времена?",
+		"Јел више волиш куце или маце?",
+		"Изгледаш ~опасно,~ NL хехе...",
+		"Полако, без журбе... NL ..... NL ... или са",
+		"Јел ти се свиђа овај тепих? NL Није на продају",
+		"Подржи мале предузетнике!",
+		"Маске су кул, први бих знао!",
+		"Јел си видео мог курира?",
+		"Подивани и послушај!",
+		"Опасно је лутати сам! Повери ми све своје злато!",
+		"Купи неш'",
+		"~*ЗЕВ*~",
+		"Волим злато.",
+		"Моја омиљена боја је плава. NL Твоја?"
 	]
   }
 }

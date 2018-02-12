@@ -1,358 +1,358 @@
 {
   "MerchantImageTextNotInGame": {
     "TEXT": [
-		"Card Removal Service",
-		"SALE",
-		"Not for Sale",
-		"Sold Out",
-		"Oh no!"
+		"Сервис за уклањање карата",
+		"ПОПУСТ",
+		"Није на продају",
+		"Распродато",
+		"O не!"
 	]
   },
   "Cancel Button": {
     "TEXT": [
-		"Delete Save"	
+		"Избриши поход"
 	]
   },
   "Confirm Button": {
     "TEXT": [
-		"Confirm"
+		"Потврди"
 	]
   },
   "End Turn Button": {
     "TEXT": [
-		"End Turn",
-		"Enemy Turn"
+		"Заврши потез",
+		"Непријатељ"
 	]
   },
   "RunHistoryScreen": {
     "TEXT": [
-		"The Ironclad",
-		"The Silent",
+		"Железни",
+		"Нема",
 		"",
-		"Return",
-		"No run histories found. NL Go Slay the Spire!",
-		"Ascension Level: ",
-		"Slain on Floor %1$d by %2$s",
-		"Abandoned Run on Floor %d",
-		"Victory!",
-		"Cards",
-		"Relics",
-		"Starter",
-		"Common",
-		"Uncommon",
-		"Rare",
-		"Special",
-		"Curse",
-		"Boss",
-		"Shop",
-		"Unknown",
+		"Назад",
+		"Нема пређашњих похода. NL Покољи Торањ!",
+		"Ниво Успињања: ",
+		"Убијен на %1$d. спрату, од стране: %2$s",
+		"Поход напуштен на %d. спрату",
+		"Победа!",
+		"Карте",
+		"Реликвије",
+		"– урођена",
+		"– обична",
+		"– неуобичајена",
+		"– ретка",
+		"– специјална",
+		"– клетва",
+		"– легендарна",
+		"Тржница",
+		"Непознато",
 		"%1$d %2$s",
 		"%1$s (%2$d):",
-		"Score: %d",
-		"All Characters",
-		"Wins and Losses",
-		"Wins",
-		"Losses"
+		"Поена: %d",
+		"Сви ликови",
+		"Победе и губици",
+		"Победе",
+		"Губици"
     ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
-        "Return",
-        "Filters",
-        "Character",
-        "Region",
-        "Type",
-        "View My Score",
-        "Rank",
-        "Name",
-        "Score",
-        "Retrieving Data...",
-        "Leaderboards (NOTE: Will be reset weekly)",
-        "Not Connected to Steam",
-        "No Scores Available \n Go Slay the Spire!"
+        "Назад",
+        "Филтери",
+        "Ликови",
+        "Ко",
+        "Тип",
+        "Погледај мој резултат",
+        "Ранг",
+        "Име",
+        "Резултат",
+        "Преузимам податке...",
+        "Табела (НАПОМЕНА: Брише се недељно)",
+        "Steam није повезан",
+        "Нема резултата \n Покољи Торањ!"
 	]
   },
   "LeaderboardFilters": {
     "TEXT": [
-        "Ironclad",
-        "The Silent",
+        "Железни",
+        "Нема",
         "3rd Char. DO NOT TRANSLATE",
-        "Average Floor Reached (Last 20 Attempts)",
-        "Average Score (Last 20 Attempts)",
-        "Best Win Streak",
-        "Fastest Victory",
-        "High Score",
+        "Последњи спрат у просеку (Последњих 20 покушаја)",
+        "Просечан резултат (Последњих 20 покушаја)",
+        "Највише узастопних победа",
+        "Најбржа победа",
+        "Најбољи резултат",
         "Option 6. DO NOT TRANSLATE",
-        "Friends",
-        "Global"
+        "Пријатељи",
+        "Сви"
 	]
   },
   "LanguageDropdown": {
     "TEXT": [
-		"Brazilian Portugese",
-		"Chinese (Simplified)",
-		"Chinese (Traditional)",
-		"English",
-		"French",
-		"German",
-		"Italian",
-		"Japanese",
-		"Korean",
-		"Polish",
-		"Russian",
-		"Spanish",
-		"Hebrew",
-		"Turkish",
-		"Swedish"
+		"Бразилски португалски",
+		"Кинески (Поједностављен)",
+		"Кинески (Традиционални)",
+		"Енглески",
+		"Француски",
+		"Немачки",
+		"Италијански",
+		"Јапански",
+		"Корејски",
+		"Пољски",
+		"Руски",
+		"Шпански",
+		"Хебрејски",
+		"Турски",
+		"Шведски"
 	]
   },
   "Proceed Button": {
     "TEXT": [
-		"Proceed"	
+		"Настави"
 	]
   },
   "GamblingChipAction": {
     "TEXT": [
-		"Replace (Gambling Chip)"
+		"Замени (Коцкарски чип)"
 	]
   },
   "RetainCardsAction": {
     "TEXT": [
-		"Retain"
+		"Задржи"
 	]
   },
   "AbstractChest": {
     "TEXT": [
-		"Proceed"
+		"Настави"
 	]
   },
   "BossChest": {
     "TEXT": [
-		"Proceed"
+		"Настави"
 	]
   },
   "ShopRoom": {
     "TEXT": [
-		"Skip Merchant"
+		"Прескочи Трговца"
 	]
   },
   "TreasureRoom": {
     "TEXT": [
-		"Skip Chest"
+		"Прескочи ковчег"
 	]
   },
   "TreasureRoomBoss": {
     "TEXT": [
-		"Skip Chest"
+		"Прескочи ковчег"
 	]
   },
   "SetupAction": {
     "TEXT": [
-		"put on top of your draw pile."
+		"стави на врх шпила."
 	]
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-		"Choose a Skill to Add to Your Hand"
+		"Изабери вештину коју ћеш додати у руку"
 	]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-		"Choose a Card to Put on Top of Your Draw Pile."
+		"Изабери карту коју ћеш ставити на врх шпила."
 	]
   },
   "Legend": {
     "TEXT": [
-		"Unknown",
+		"Непознато",
 		"???",
-		"An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
-		"Merchant",
-		"Shops",
-		"A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
-		"Treasure",
-		"Treasure Rooms",
-		"#yRelics and #yGold can be found in these coveted rooms.",
-		"Rest",
-		"Rest Sites",
-		"Stop by these rooms to #gHeal some HP or #yUpgrade a card.",
-		"Enemy",
-		"Enemies",
-		"Hostile enemies reside in these rooms.",
-		"Elite",
-		"Elites",
-		"Powerful foes are in these rooms. NL NL Defeating them will reward you a Relic.",
-		"Legend"
+		"Мистерија. NL NL Може да крије чудовишта, блага, тржницу, или нешто потпуно четврто.",
+		"Трговац",
+		"Тржнице",
+		"Мистериозни трговац овде продаје своју робу. NL NL Место где ћеш потрошити своје крвљу зарађено #yзлато!",
+		"Благо",
+		"Собе са благом",
+		"У овим врло траженим собама се могу наћи #yреликвије и #yзлато.",
+		"Одмор",
+		"Одмаралиште",
+		"Наврати до ових соба како би #gзалечио нешто ЗПа или #yпобољшао карту.",
+		"Непријатељ",
+		"Непријатељи",
+		"У овим собама пребивају непријатељи.",
+		"Елита",
+		"Елите",
+		"Моћни противници се налазе у овим собама. NL NL Порази их и бићеш награђен реликвијом.",
+		"Легенда"
 	]
   },
   "Unlock Confirm Button": {
     "TEXT": [
-		"Continue"	
+		"Настави"
 	]
   },
   "Dig Option": {
     "TEXT": [
-		"Dig",
-		"Dig up a random relic."
+		"Копај",
+		"Ископај насумичну реликвију."
 	]
   },
   "Lift Option": {
     "TEXT": [
-		"Lift",
-		"Start battles with +1 Strength. (Up to 3)"
+		"Вежбај",
+		"Борбе започињеш са +1 на Снагу. (До највише 3)"
 	]
   },
   "Rest Option": {
     "TEXT": [
-		"Rest",
-		"Heal for 20% of your Max HP (",
-		" HP from ",
-		"Heal for 30% of your Max HP ("	
+		"Одмори се",
+		"Залечи се за 20% макс. ЗП (",
+		" ЗП од ",
+		"Залечи се за 30% макс. ЗП ("
 	]
   },
   "Smith Option": {
     "TEXT": [
-		"Smith",
-		"Upgrade a card in your deck.",
-		"No upgradeable cards."
+		"Искуј",
+		"Побољшај карту из шпила.",
+		"Нема карата које би се могле побољшати."
 	]
   },
   "Toke Option": {
     "TEXT": [
-		"Toke",
-		"Remove a card from your deck."
+		"Испућкај",
+		"Уклони карту из шпила."
 	]
   },
   "DiscardPilePanel": {
     "TEXT": [
-		"My Discard Pile is #rempty."	
+		"#rНемам одбачених карата."
 	]
   },
   "DrawPilePanel": {
     "TEXT": [
-		"My Draw Pile is #rempty."
+		"Шпил је #rпразан."
 	]
   },
   "PotionPopUp": {
     "TEXT": [
-		"Throw",
-		"Drink",
-		"Discard",
-		"I cannot use potions!",
-		"I can't do that in combat!"
+		"Баци",
+		"Испиј",
+		"Баци",
+		"Не могу да користим напитке!",
+		"Не у сред борбе!"
 	]
   },
   "RenamePanel": {
     "TEXT": [
-		"<no name>",
-		"Enter  Your  Name",
-		"Confirm",
-		"Cancel"
+		"<нема имена>",
+		"Унеси  своје  име",
+		"Потврди",
+		"Откажи"
 	]
   },
   "AbstractCard": {
     "TEXT": [
-		"Locked",
-		"Unknown"
+		"Закључано",
+		"Непознато"
 	]
   },
   "AbstractPlayer": {
     "TEXT": [
-		"Blocked",
-		"the Ironclad",
-		"the Silent",
+		"Блокирано",
+		"Железни",
+		"Нема",
 		"the Gunner"
 	]
   },
   "AbstractCreature": {
     "TEXT": [
-		"Dead",
-		"Blocked",
-		"Max HP +",
-		"Stunned!",
-		"Interrupted!"
+		"Мртав",
+		"Блокирано",
+		"Макс. ЗП +",
+		"Ошамућен!",
+		"Прекинут!"
 	]
   },
   "TopPanel": {
     "TEXT": [
-		" Floor",
-		" - Ascension ",
-		" (Max Level)"
+		" Спрат",
+		" - Успињање ",
+		" (Макс. Ниво)"
 	]
   },
   "UnlockCharacterScreen": {
     "TEXT": [
-		"Cards Unlocked!",
+		"Откључане карте!",
 		"",
-		"Relics Unlocked!",
-		"New Character",
-		"Note: Unlocked cards show up in future runs.",
-		"Note: Unlocked relics show up in future runs."
+		"Откључане реликвије!",
+		"Нови лик",
+		"Напомена: Откључане карте се појављују у будућим походима.",
+		"Напомена: Откључане реликвије се појављују у будућим походима."
 	]
   },
   "UnlockScreen": {
     "TEXT": [
-		"Cards Unlocked!",
-		"Relics Unlocked!",
-		"New Character",
-		"Note: Unlocked cards show up in future runs.",
-		"Note: Unlocked relics show up in future runs."
+		"Откључане карте!",
+		"Откључане реликвије!",
+		"Нови лик",
+		"Напомена: Откључане карте се појављују у будућим походима.",
+		"Напомена: Откључане реликвије се појављују у будућим походима."
 	]
   },
   "StorePotion": {
     "TEXT": [
-		"You have no space for this"
+		"Немаш довољно места"
 	]
   },
   "AbstractRoom": {
     "TEXT": [
-		"Mugged..."
+		"Опљачкан..."
 	]
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-		"Boss",
-		"Common",
-		"Deprecated",
-		"Rare",
-		"Shop",
-		"Event",
-		"Starter",
-		"Uncommon",
-		"Locked",
-		"Unknown",
-		" Relic",
-		"This relic has yet to be unlocked.",
-		"This relic remains to be seen."
+		"Легендарна",
+		"Обична",
+		"Избачена",
+		"Ретка",
+		"Трговчева",
+		"Догађајем стечена",
+		"Урођена",
+		"Неуобичајена",
+		"Закључана",
+		"Непозната",
+		" реликвија",
+		"Ова реликвија тек треба да се откључа.",
+		"На ову реликвију тек треба наићи."
 	]
   },
   "SingleCardViewPopup": {
     "TEXT": [
-		"Attack",
-		"Skill",
-		"Power",
-		"Curse",
-		"Locked",
-		"Unknown",
-		"View Upgrade",
-		"Status",
-		"Ammo",
-		"I can only play cards on my turn.",
-		"I'm #rEntangled! NL Can't play Attacks",
-		"Not enough #rEnergy.",
-		"Not enough #rCharge.",
-		"I can't play NL this card"
+		"Напад",
+		"Умеће",
+		"Моћ",
+		"Клетва",
+		"Закључана",
+		"Непозната",
+		"Погледај побољшану",
+		"Стање",
+		"Муниција",
+		"Карте могу да одиграм само у свом потезу.",
+		"#rУпетљан сам! NL Не могу да одиграм нападе",
+		"Немам довољно #rенергије.",
+		"Немам довољно #rнапона.",
+		"Не могу да одиграм NL ову карту"
 	]
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-		"You start each combat with all the cards in here.",
-		"Return"
+		"Борбе почињеш са свим овим картама.",
+		"Назад"
 	]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-		"These cards were exhausted this combat.",
-		"Return"
+		"Карте које су исцрпљене у овој борби.",
+		"Назад"
 	]
   },
   "DungeonTransitionScreen": {
@@ -372,105 +372,105 @@
   },
   "DungeonMapScreen": {
     "TEXT": [
-		"Select a Starting Room",
-		"Return"		
+		"Изабери почетну собу",
+		"Назад"
 	]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-		"Cards are drawn from here at the start of each turn.",
-		"(Cards shown are sorted by rarity)",
-		"Return",
-		"Draw Pile"
+		"Одавде се вуку карте на почетку сваког потеза.",
+		"(Приказане карте су поређане по реткости)",
+		"Назад",
+		"Шпил"
 	]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-		"Cards here are shuffled into your draw pile when it runs out of cards.",
-		"Return",
-		"Discard Pile"
+		"Ове карте се мешају и састављају у нови шпил када се исти испразни.",
+		"Назад",
+		"Одбачене карте"
 	]
   },
   "CopyAction": {
     "TEXT": [
-		"Copy"
+		"Копирај"
 	]
   },
   "DiscardAction": {
     "TEXT": [
-		"Discard"
+		"Одбаци"
 	]
   },
   "ArmamentsAction": {
     "TEXT": [
-		"Upgrade"
+		"Побошљај"
 	]
   },
 	"DualWieldAction": {
 		"TEXT": [
-			"Duplicate"
+			"Дуплирај"
 		]
 	},
 	"HiddenChamberAction": {
 		"TEXT": [
-			"Duplicate"
+			"Дуплирај"
 		]
 	},
   "DeathScreenUi": {
     "TEXT": [
-    	"Ascension Mode Level ",
-    	" Unlocked!"
+    	"Ниво Успињања ",
+    	" Откључано!"
     ]
   },
   "DeathScreen": {
     "TEXT": [
-		"Continue",
-		"Victory?",
-		"Floors Climbed",
-		"Bosses Defeated",
-		"Play Time",
-		"Play Time",
-		"Score",
-		"Conquered",
-		"Death...",
-		"Defeat",
-		"Defeated!",
-		"Desecrated",
-		"Devastation",
-		"Vanquished",
-		"You are Slain!",
-		"A familiar feeling.",
-		"A nap sounds good.",
-		"As you sow, so you shall reap.",
-		"Went the wrong way.",
-		"I wasn't prepared for this.",
-		"I'll try again tomorrow.",
-		"I'm going to need a new map.",
-		"Inadequately prepared.",
-		"Inconceivable!",
-		"Is this my true potential?",
-		"Just my luck...",
-		"Not like this...",
-		"Not quite the top.",
-		"The Spire consumes another...",
-		"Your consciousness fades...",
-		"Defeat",
-		"Acceptance",
-		"Continue",
-		"Retry",
-		"Main Menu",
-		"Proceed",
-		"Unlock",
-		"Main Menu",
-		"Retry",
-		"Proceed",
-		"Unlock",
-		"Unlocks Remaining: ",
-		"Unlock Remaining: ",
-		"Enemies Slain",
-		"Elites Killed",
-		"Unspent Gold",
-		"HP Bonus"
+		"Настави",
+		"Победа?",
+		"Попетих спратова",
+		"Побеђених вођа",
+		"Време",
+		"Време",
+		"Укупно поена",
+		"Освојен",
+		"Смрт...",
+		"Пораз",
+		"Поражен си!",
+		"Оскрнављен",
+		"Пустош",
+		"Савладан",
+		"Заклан си!",
+		"Добро познат осећај.",
+		"Дремка неће да шкоди.",
+		"Како сејеш, тако ћеш и жњати.",
+		"Погрешан пут.",
+		"Нисам био припремљен.",
+		"Сутра ћу покушати поново.",
+		"Требаће ми нова мапа.",
+		"Лоше припремљен.",
+		"Немогуће!",
+		"Да ли је ово мој прави потенцијал?",
+		"Толико о срећи...",
+		"Не овако...",
+		"Тешко да је врх.",
+		"Торањ прождире још једног...",
+		"Твоја свест ишчежњава...",
+		"Пораз",
+		"Мирење са судбином",
+		"Настави",
+		"Покушај поново",
+		"Почетна",
+		"Настави",
+		"Откључај",
+		"Почетна",
+		"Покушај поново",
+		"Настави",
+		"Откључај",
+		"Преосталих напредовања: ",
+		"Преосталих напредовања: ",
+		"Покланих непријатеља",
+		"Убијених елита",
+		"Непотрошеног злата",
+		"Бонус ЗП"
 	],
 	"EXTRA_TEXT": [
 		"Exordium Elites Killed",
@@ -515,7 +515,7 @@
   },
   "ChooseOneScreen": {
     "TEXT": [
-		"Choose One"	
+		"Choose One"
 	]
   },
   "TwitchVoter": {
@@ -562,7 +562,7 @@
   },
   "AbandonRunButton": {
     "TEXT": [
-		"Abandon Run"	
+		"Abandon Run"
 	]
   },
   "ConfirmPopup": {

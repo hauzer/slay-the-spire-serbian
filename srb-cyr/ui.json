@@ -21,7 +21,7 @@
   "End Turn Button": {
     "TEXT": [
 		"Заврши потез",
-		"Непријатељ"
+		"Браниш се!"
 	]
   },
   "RunHistoryScreen": {
@@ -30,7 +30,7 @@
 		"Нема",
 		"",
 		"Назад",
-		"Нема пређашњих похода. NL Покољи Торањ!",
+		"Нема пређашњих похода. NL Иди Покољи Торањ!",
 		"Ниво Успињања: ",
 		"Убијен на %1$d. спрату, од стране: %2$s",
 		"Поход напуштен на %d. спрату",
@@ -61,7 +61,7 @@
         "Филтери",
         "Ликови",
         "Ко",
-        "Тип",
+        "Категорија",
         "Погледај мој резултат",
         "Ранг",
         "Име",
@@ -69,7 +69,7 @@
         "Преузимам податке...",
         "Табела (НАПОМЕНА: Брише се недељно)",
         "Steam није повезан",
-        "Нема резултата \n Покољи Торањ!"
+        "Нема резултата \n Иди Покољи Торањ!"
 	]
   },
   "LeaderboardFilters": {
@@ -168,7 +168,7 @@
 		"Мистерија. NL NL Може да крије чудовишта, блага, тржницу, или нешто потпуно четврто.",
 		"Трговац",
 		"Тржнице",
-		"Мистериозни трговац овде продаје своју робу. NL NL Место где ћеш потрошити своје крвљу зарађено #yзлато!",
+		"Мистериозни трговац овде продаје своју робу. NL NL Овде потроши своје крвљу зарађено #yзлато!",
 		"Благо",
 		"Собе са благом",
 		"У овим врло траженим собама се могу наћи #yреликвије и #yзлато.",
@@ -274,7 +274,7 @@
   },
   "TopPanel": {
     "TEXT": [
-		" Спрат",
+		" – тренутни спрат",
 		" - Успињање ",
 		" (Макс. Ниво)"
 	]
@@ -315,14 +315,14 @@
 		"Избачена",
 		"Ретка",
 		"Трговчева",
-		"Догађајем стечена",
+		"Кроз догађај стечена",
 		"Урођена",
 		"Неуобичајена",
-		"Закључана",
-		"Непозната",
+		"Закључано",
+		"Непознато",
 		" реликвија",
 		"Ова реликвија тек треба да се откључа.",
-		"На ову реликвију тек треба наићи."
+		"Ова реликвија и даље није виђена."
 	]
   },
   "SingleCardViewPopup": {
@@ -331,8 +331,8 @@
 		"Умеће",
 		"Моћ",
 		"Клетва",
-		"Закључана",
-		"Непозната",
+		"Закључано",
+		"Непознато",
 		"Погледај побољшану",
 		"Стање",
 		"Муниција",
@@ -345,29 +345,29 @@
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-		"Борбе почињеш са свим овим картама.",
+		"Борбе започињеш са свим картама које се овде налазе.",
 		"Назад"
 	]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-		"Карте које су исцрпљене у овој борби.",
+		"Ове карте су исцрпљене током ове борбе.",
 		"Назад"
 	]
   },
-  "DungeonTransitionScreen": {
+	"DungeonTransitionScreen": {
     "TEXT": [
-		"Tutorials",
-		"Do you wish to see gameplay hints as you play the game?",
-		"Act 1",
-		"Exordium",
-		"Act 2",
-		"The City",
-		"Act 3",
-		"The Beyond",
-		"Act ?",
+		"Водич",
+		"Да ли желиш да ти се приказују савети током играња игре?",
+		"Акт 1",
+		"Прелудијум",
+		"Акт 1",
+		"Град",
+		"Акт 1",
+		"Вани",
+		"Акт ?",
 		"???",
-		"Click Anywhere to Continue"
+		"Кликни било где како би наставио"
 	]
   },
   "DungeonMapScreen": {
@@ -465,282 +465,282 @@
 		"Покушај поново",
 		"Настави",
 		"Откључај",
-		"Преосталих напредовања: ",
-		"Преосталих напредовања: ",
+		"Преостала откључавања: ",
+		"Преостало откључавања: ",
 		"Покланих непријатеља",
 		"Убијених елита",
 		"Непотрошеног злата",
 		"Бонус ЗП"
 	],
 	"EXTRA_TEXT": [
-		"Exordium Elites Killed",
-		"City Elites Killed",
-		"Beyond Elites Killed",
-		"Speedster",
-		"Light Speed",
-		"Highlander",
-		"Collection",
-		"Full Set",
-		"Pauper",
-		"Librarian",
-		"Encyclopedia",
-		"Well Fed",
-		"Stuffed",
-		"Curses!",
-		"On My Own Terms",
-		"Champion",
-		"Perfect",
-		"Beyond Perfect",
-		"Overkill",
-		"C-c-c-combo",
+		"Убијених елита – Вани",
+		"Убијених елита – Град",
+		"Убијених елита – Прелудијум",
+		"Брзиша",
+		"Светлостном брзином",
+		"Брђанин",
+		"Колекција",
+		"Сет",
+		"Сиромах",
+		"Библиотекар",
+		"Енциклопедија",
+		"Нахрањен",
+		"Наждран",
+		"Судбо клета!",
+		"On My Own Terms (ТРЕБА ПРЕВЕСТИ)",
+		"Шампион",
+		"Савршен",
+		"Пресавршен",
+		"Прекољ",
+		"К-к-к-комбо",
 		""
 	]
   },
   "CombatRewardScreen": {
     "TEXT": [
-		"Proceed",
-		"Skip Card",
-		"Skip Gold",
-		"Skip Potion",
-		"Skip Relic",
-		"Skip Rewards",
-		"Close",
-		"Treasure!",
-		"What's  Inside?",
-		"Rewards!",
-		"Spoils!",
-		"Loot!",
-		"Tip: "
+		"Настави",
+		"Прескочи карту",
+		"Прескочи злато",
+		"Прескочи напитак",
+		"Прескочи реликвију",
+		"Прескочи награде",
+		"Затвори",
+		"Благо!",
+		"Шта ли је унутра?",
+		"Награде!",
+		"Плен!",
+		"Роба!",
+		"Савет: "
 	]
   },
   "ChooseOneScreen": {
     "TEXT": [
-		"Choose One"
+		"Изабери једно"
 	]
   },
   "TwitchVoter": {
     "TEXT": [
-		"VOTE NOW: "
+		"ГЛАСАЈ: "
     ]
   },
   "CardRewardScreen": {
     "TEXT": [
-		"Skip",
-		"Choose a Card",
-		"+2 Max HP",
-		"VOTE NOW: ",
-		"s left."
+		"Прескочи",
+		"Изабери карту",
+		"+2 макс. ЗП",
+		"ГЛАСАЈ: ",
+		"с преостало."
 	]
   },
   "BossRelicSelectScreen": {
     "TEXT": [
-		"Confirm",
-		"Confirm Your Selection",
-		"Choose a Relic",
-		"Skip",
-		"VOTE NOW: ",
-		"s left."
+		"Потврди",
+		"Потврди одабир",
+		"Изабери реликвију",
+		"Прескочи",
+		"ГЛАСАЈ: ",
+		"с преостало."
 	]
   },
   "GridCardSelectScreen": {
     "TEXT": [
-		"Confirm",
-		"Cancel",
-		"Confirm Your Selection",
-		"Leave"
+		"Потврди",
+		"Откажи",
+		"Потврди одабир",
+		"Пођи"
 	]
   },
   "HandCardSelectScreen": {
     "TEXT": [
-		"Confirm Card to ",
-		"Confirm Cards to ",
-		"Choose ",
-		" Cards to ",
-		"Choose Any Number of Cards to ",
-		"Choose a Card to "
+		"Потврди карту коју ћеш ",
+		"Потврди карте које ћеш ",
+		"Изабери ",
+		" Карте које ћеш ",
+		"Изабери било који број карата које ћеш ",
+		"Изабери карту коју ћеш "
 	]
   },
   "AbandonRunButton": {
     "TEXT": [
-		"Abandon Run"
+		"Одустани од похода"
 	]
   },
   "ConfirmPopup": {
     "TEXT": [
-		"Return",
-		"Delete Save",
-		"Yes",
-		"No"
+		"Назад",
+		"Избриши поход",
+		"Да",
+		"Не"
 	]
   },
   "ExitGameButton": {
     "TEXT": [
-		"Exit Game"
+		"Изађи из игре"
 	]
   },
   "OptionsPanel": {
     "TEXT": [
 		"",
-		"Game Menu",
-		"Graphics",
-		"Resolution: NL Max Framerate:",
-		"Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
-		"Sound",
-		"Master Volume NL Music Volume NL Effects Volume",
-		"Ambient Sound Effects",
-		"Preferences",
-		"Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
-		"Fast Mode",
+		"Подешавања",
+		"Графика",
+		"Резолуција: NL Макс. ФПС:",
+		"Пун екран NL Пун прозор без оквира (препоручљиво) NL Дрмање екрана",
+		"Звук",
+		"Главна јачина NL Јачина музике NL Јачина ефеката",
+		"Амбијентални звучни ефекти",
+		"Опције",
+		"Прикажи укупну штету у златном NL Прикажи блокирану штету у плавом NL Без потврде при одабиру 1 карте",
+		"Убрзај игру",
 		"",
-		"Miscellaneous",
-		"Language:",
-		"Upload gameplay data #b(?)",
-		"Exit Game",
-		"Save & Quit",
-		"NL NL VSync",
-		"Playtester Art Mode"
+		"Остало",
+		"Језик:",
+		"Шаљи податке о походима #b(?)",
+		"Изађи из игре",
+		"Запамти & изађи",
+		"NL NL ВСинх",
+		"Помагала за развој графичких елемената"
 	]
   },
   "SettingsScreen": {
     "TEXT": [
-		"Are you sure?",
-		"Your progress is automatically saved.",
-		"Abandoning the game will result in a loss.",
-		"WARNING:\nProgress NOT saved.\n\nReach the next floor to save this current run.",
-		"Return",
-		"Progress is NOT saved for daily runs."
+		"Сигурно?",
+		"Твој напредак је аутоматски запамћен.",
+		"Напуштање игре ће резултирати губитком.",
+		"УПОЗОРЕЊЕ:\nНапредак НИЈЕ запамћен.\n\nСтигни до следећег спрата како би запамтио овај поход.",
+		"Назад",
+		"Напредак се НЕ ЧУВА за дневне походе."
 	]
   },
   "CardLibraryScreen": {
     "TEXT": [
-		"Return",
-		"Red",
-		"Green",
-		"Blue",
-		"Colorless",
-		"Curses",
-		"Statuses",
-		"View Upgrade"
+		"Назад",
+		"Црвене",
+		"Зелене",
+		"Плаве",
+		"Безбојне",
+		"Клетве",
+		"Стања",
+		"Прикажи побољшане"
 	]
   },
   "CardLibSortHeader": {
     "TEXT": [
-		"Rarity",
-		"Type",
-		"A-Z"
+		"Раритет",
+		"Тип",
+		"А-З (абецедно)"
 	]
   },
   "EarlyAccessPopup": {
     "TEXT": [
-		"What's Early Access?",
-		"What's an Open Beta?",
-		"Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
-		"Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-		"Click anywhere to Start"
+		"Шта је Рани Приступ?",
+		"Шта је Отворена Бета?",
+		"Покољи Торањ је још увек у активном развоју! NL Многе ствари, карте, и непријатељи се и даље мењају. NL NL Ако налетиш на проблеме или ако имаш неке примедбе или идеје, слободно нам их стави до знања #bСтим #bстраници #bза #bдискусију. NL NL Али доста са читањем. Баци се на пењање, јер торањ те жељно ишчекује!",
+		"Покољи Торањ је још увек у активном развоју! NL Поврх тога, ово је бета верзија игре. NL NL Слободно нас извести о било каквом проблему током играња, мада немој бити изненађен привременим графичким елементима намењеним надолазећем садржају. NL NL Али доста са читањем. Баци се на пењање, јер торањ те жељно ишчекује!",
+		"Кликни било где да почнеш"
 	]
   },
   "MainMenuScreen": {
     "TEXT": [
-		"#yBuild: ",
-		"Embark",
-		"Return",
-		"click to edit"
+		"#yВерзија: ",
+		"Отисни се",
+		"Назад",
+		"кликни да промениш"
 	]
   },
   "MenuButton": {
     "TEXT": [
-		"Card Library",
-		"Play",
-		"Daily Challenge",
-		"Relic Collection",
-		"Continue",
-		"Leaderboards",
-		"Statistics",
-		"Credits",
-		"Quit",
-		"Patch Notes",
-		"Abandon Run",
-		"Abandon Run (click again to confirm)",
-		"Settings",
-		"Run History"
+		"Библиотека карата",
+		"Играј",
+		"Дневни изазов",
+		"Колекција реликвија",
+		"Настави",
+		"Табеле",
+		"Статистика",
+		"Заслуге",
+		"Изађи",
+		"Белешке о изменама",
+		"Напусти поход",
+		"Напусти поход (кликни потврдиш)",
+		"Подешавања",
+		"Историја похода"
 	]
   },
   "CreditsScreen": {
     "TEXT": [
-		"click again to exit"
+		"Кликни поново да изађеш"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
-		"Return",
-		"#yPatch #yNotes",
-		" NL (TEMPORARY: Use arrow keys to navigate through older logs)"
+		"Назад",
+		"#yБелешке #yо #yзакрпи",
+		" NL (ПРИВРЕМЕНО: Користи стрелице да идеш кроз старије записе)"
 	]
   },
   "RelicViewScreen": {
     "TEXT": [
-		"Return",
-		"Starter:",
-		"Characters can start with these relics.",
-		"Common:",
-		"Weak relics that are found commonly.",
-		"Uncommon:",
-		"Stronger relics which appear less often than common relics.",
-		"Rare:",
-		"Unique and powerful relics which are rarely seen.",
-		"Boss:",
-		"Relics found only within Boss chests.",
-		"Event:",
-		"Relics which can only be obtained through events.",
-		"Shop:",
-		"Relics which can only be purchased from the Merchant."
+		"Назад",
+		"Урођене:",
+		"Реликвије са којима ликови могу почети.",
+		"Обичне:",
+		"Слабе реликвије које се често срећу.",
+		"Неуобичајене:",
+		"Јаче реликвије које се ређе срећу од обичних.",
+		"Ретке:",
+		"Јединствене и моћне реликвије, ретко виђене.",
+		"Легендарне:",
+		"Реликвије које се налазе само у ковчезима Вођа.",
+		"Из догађаја:",
+		"Реликвије до којих се може доћи само кроз неки догађај.",
+		"Тржница:",
+		"До ових реликвија се може доћи само куповином од Трговца."
 	]
   },
   "CharacterOption": {
     "TEXT": [
-		"Locked",
-		"This character is unlocked by completing a single run.",
-		"This character is still unavailable in Early Access.",
-		"This character is unlocked by reaching the top of the Spire.",
-		"HP: ",
-		"Gold: ",
-		" Unlocks Remaining",
-		"Unknown",
+		"Закључано",
+		"Овај лик се откључава завршавањем једног похода.",
+		"Овај лик и даље није доступан у Раном Приступу.",
+		"Овај лик се откључава стизањем до врха Торња.",
+		"ЗП: ",
+		"Злато: ",
+		" – број преосталих откључавања",
+		"Непознато",
 		"???",
-		" To Next Unlock"
+		" до следећег откључавања"
 	]
   },
   "CharacterSelectScreen": {
     "TEXT": [
-		"Choose Your Character",
-		"Embark",
-		"The Ironclad",
-		"The Silent",
+		"Изабери лика",
+		"Отисни се",
+		"Железни",
+		"Нема",
 		"Crowbot",
-		"Back",
-		"Ascension",
-		"Level ",
-		"Ascension Mode",
-		"Runs get harder as you win... (Winstreaks are unaffected)"
+		"Назад",
+		"Успињање",
+		"Ниво ",
+		"Мод Успињања",
+		"Походи постају тежи са сваком победом... (Узастопне победе се не дирају)"
 	]
   },
   "AscensionModeDescriptions": {
   	"TEXT": [
-		"Elites spawn more often.",
-		"Normal enemies are deadlier.",
-		"Elites are deadlier.",
-		"Bosses are deadlier.",
-		"Heal less after Boss battles.",
-		"Start each run damaged.",
-		"Normal enemies are tougher.",
-		"Elites are tougher.",
-		"Bosses are tougher.",
-		"Parasite!",
-		"Potions are less potent.",
-		"Upgraded cards appear less often.",
-		"Poor bosses.",
-		"Lower Max HP.",
-		"(Max Level) Unfavorable Events."
+		"Елите се чешће појављују.",
+		"Нормални непријатељи су смртоноснији.",
+		"Елите су смртоносније.",
+		"Вође су смртоносније.",
+		"Мање се залечујеш после борби са вођама.",
+		"Почињеш сваки поход већ озлеђен.",
+		"Нормални непријатељи су издржљивији.",
+		"Елите су издржљивије.",
+		"Вође су издржљивије.",
+		"Паразит!",
+		"Напици су мање делотворни.",
+		"Побољшане карте се ређе појављују.",
+		"Сиромашне вође.",
+		"Нижи макс. ЗП.",
+		"(Макс. ниво) Неповољни догађаји."
 	]
   },
   "AbstractMonster": {

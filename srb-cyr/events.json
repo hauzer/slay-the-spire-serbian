@@ -20,7 +20,6 @@
 			"[Leave]",
 			"Choose a Card to Upgrade",
 			"[Locked] Requires: Upgradeable Cards"
-			
     ]
   },
   "Bonfire Elementals": {
@@ -247,7 +246,7 @@
 			" Gold] #rLose #rall #rGold. #gGain #ga #gRelic.",
 			"[Leave]"
     ]
-  },  
+  },
   "Winding Halls": {
 	"NAME": "Winding Halls",
     "DESCRIPTIONS": [
@@ -381,7 +380,7 @@
 			" #rHP.",
 			"[Leave It] #rLose #r",
 			" #rGold.",
-			"[Leave]"	
+			"[Leave]"
     ]
   },
   "Liars Game": {
@@ -399,7 +398,7 @@
 			"[Continue]",
 			"[Leave]"
     ]
-  },  
+  },
   "Living Wall": {
 	"NAME": "Living Wall",
     "DESCRIPTIONS": [
@@ -524,7 +523,7 @@
 			"[Leave]",
 			"Select a Card to Remove."
     ]
-  },  
+  },
   "Cursed Tome": {
 	"NAME": "Cursed Tome",
     "DESCRIPTIONS": [
@@ -592,7 +591,7 @@
 			"\"DRINK UP!\" NL You obtain a potion.",
 			"\"PERHAPS THIS WILL HELP?\" NL You obtain a card.",
 			"\"YOU MORTALS NEVER CHANGE. IT IS DONE.\" NL #yGold rains down on you!",
-			"\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."	
+			"\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."
 	],
     "OPTIONS": [
 			"[Continue]",
@@ -681,7 +680,7 @@
 			"[Sleep] #gHeal #g",
 			" #gHP.",
 			"[Leave]",
-			"Add a card to your deck."	
+			"Add a card to your deck."
     ]
   },
   "The Mausoleum": {
@@ -697,7 +696,7 @@
 			"%: #rBecome #rCursed #r- #rWrithe.",
 			"[Leave]"
     ]
-  },  
+  },
   "Vampires": {
 	"NAME": "Vampires(?)",
     "DESCRIPTIONS": [

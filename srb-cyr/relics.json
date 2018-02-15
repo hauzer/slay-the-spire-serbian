@@ -3,8 +3,8 @@
 	"NAME": "Anchor",
 	"FLAVOR": "Holding this miniature trinket, you feel heavier and more stable.",
     "DESCRIPTIONS": [
-	"Start each combat with #b", 
-	" #yBlock." 
+	"Start each combat with #b",
+	" #yBlock."
 	]
   },
   "Art of War": {
@@ -12,8 +12,8 @@
 	"FLAVOR": "This ancient manuscript contains wisdom from a past age.",
     "DESCRIPTIONS": [
 	"If you do not play any #yAttacks during your turn, gain an extra ",
-	"[R] next turn.", 
-	"[G] next turn.", 
+	"[R] next turn.",
+	"[G] next turn.",
 	"[B] next turn."
 	]
   },
@@ -37,7 +37,7 @@
 	"NAME": "Bag of Preparation",
 	"FLAVOR": "Oversized adventurer's pack. Has many pockets and straps.",
     "DESCRIPTIONS": [
-	"At the start of each combat, draw #b", 
+	"At the start of each combat, draw #b",
 	" additional cards."
 	]
   },
@@ -45,7 +45,7 @@
 	"NAME": "Bird-Faced Urn",
 	"FLAVOR": "This urn shows the crow god Mazaleth looking mischievous.",
     "DESCRIPTIONS": [
-	"Whenever you play a #yPower, heal #b", 
+	"Whenever you play a #yPower, heal #b",
 	" HP."
 	]
   },
@@ -53,7 +53,7 @@
 	"NAME": "Black Blood",
 	"FLAVOR": "The rage grows darker.",
     "DESCRIPTIONS": [
-	"Replaces #rBurning #rBlood. At the end of combat, heal #b", 
+	"Replaces #rBurning #rBlood. At the end of combat, heal #b",
 	" HP."
 	]
   },
@@ -68,7 +68,7 @@
 	"NAME": "Blood Vial",
 	"FLAVOR": "A vial containing the blood of a pure and elder vampire.",
     "DESCRIPTIONS": [
-	"At the start of each combat, heal #b", 
+	"At the start of each combat, heal #b",
 	" HP."
 	]
   },
@@ -76,7 +76,7 @@
 	"NAME": "Bloody Idol",
 	"FLAVOR": "The idol now weeps a constant stream of blood.",
     "DESCRIPTIONS": [
-	"Whenever you gain #yGold, heal #b", 
+	"Whenever you gain #yGold, heal #b",
 	" HP."
 	]
   },
@@ -122,7 +122,7 @@
 	"NAME": "Bronze Scales",
 	"FLAVOR": "The sharp scales of the Guardian. Rearranges itself to protect its user. ",
     "DESCRIPTIONS": [
-	"Whenever you take damage, deal #b", 
+	"Whenever you take damage, deal #b",
 	" damage back."
 	]
   },
@@ -130,7 +130,7 @@
 	"NAME": "Burning Blood",
 	"FLAVOR": "Your body's own blood burns with an undying rage.",
     "DESCRIPTIONS": [
-	"At the end of combat, heal #b", 
+	"At the end of combat, heal #b",
 	" HP."
 	]
   },
@@ -157,14 +157,14 @@
 	"FLAVOR": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
     "DESCRIPTIONS": [
 	"When obtained, brews #b5 random potions.",
-	"Blup blip bloop...!"	
+	"Blup blip bloop...!"
 	]
   },
   "Centennial Puzzle": {
 	"NAME": "Centennial Puzzle",
 	"FLAVOR": "Upon solving the puzzle you feel a powerful warmth in your chest.",
     "DESCRIPTIONS": [
-	"The first time you lose HP each combat, draw #b", 
+	"The first time you lose HP each combat, draw #b",
 	" cards."
 	]
   },
@@ -179,7 +179,7 @@
 	"NAME": "Champion Belt",
 	"FLAVOR": "Only the greatest may wear this belt.",
     "DESCRIPTIONS": [
-	"Whenever you apply #yVulnerable, also apply #b", 
+	"Whenever you apply #yVulnerable, also apply #b",
 	" #yWeak."
 	]
   },
@@ -187,7 +187,7 @@
 	"NAME": "Charon's Ashes",
 	"FLAVOR": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.",
     "DESCRIPTIONS": [
-	"Whenever you #yExhaust a card, deal #b", 
+	"Whenever you #yExhaust a card, deal #b",
 	" damage to ALL enemies."
 	]
   },
@@ -258,9 +258,9 @@
 	"FLAVOR": "A doll devised to gain strength from malicious energy.",
     "DESCRIPTIONS": [
 	"For each #yCurse in your deck, start each combat with #b",
-	" additional #yStrength.", 
-	" You have no #yCurses.", 
-	" You have #b", 
+	" additional #yStrength.",
+	" You have no #yCurses.",
+	" You have #b",
 	" #yCurses."
 	]
   },
@@ -269,7 +269,7 @@
 	"FLAVOR": "This blob of slime and energy seems to pulse with life.",
     "DESCRIPTIONS": [
 	" You can no longer gain #yGold.",
-	"Gain [R] at the start of each turn.", 
+	"Gain [R] at the start of each turn.",
 	"Gain [G] at the start of each turn.",
 	"Gain [B] at the start of each turn."
 	]
@@ -306,9 +306,9 @@
 	"NAME": "Eternal Feather",
 	"FLAVOR": "This feather appears to be completely indestructible. What bird does this possibly come from? ",
     "DESCRIPTIONS": [
-	"For every #b", 
+	"For every #b",
 	" cards in your deck, heal #b",
-	" HP whenever you enter a Rest Site." 
+	" HP whenever you enter a Rest Site."
 	]
   },
   "Frozen Egg": {
@@ -351,9 +351,9 @@
 	"NAME": "Gremlin Horn",
 	"FLAVOR": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
     "DESCRIPTIONS": [
-	"Whenever an enemy dies, gain ", 
+	"Whenever an enemy dies, gain ",
 	"[R] and draw #b1 card.",
-	"[G] and draw #b1 card.", 
+	"[G] and draw #b1 card.",
 	"[B] and draw #b1 card."
 	]
   },
@@ -361,7 +361,7 @@
 	"NAME": "Happy Flower",
 	"FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
     "DESCRIPTIONS": [
-	"Every #b", 
+	"Every #b",
 	" turns, gain [R] .",
 	" turns, gain [G] .",
 	" turns, gain [B] ."
@@ -385,7 +385,7 @@
 	"NAME": "Kunai",
 	"FLAVOR": "A blade favored by assassins for its lethality at range.",
     "DESCRIPTIONS": [
-	"Every time you play #b", 
+	"Every time you play #b",
 	" #yAttacks in a single turn, gain #b",
 	" #yDexterity."
 	]
@@ -394,9 +394,9 @@
 	"NAME": "Lantern",
 	"FLAVOR": "An eerie lantern which illuminates only for the wielder.",
     "DESCRIPTIONS": [
-	"Gain ", 
-	"[R] ", 
-	"[G] ", 
+	"Gain ",
+	"[R] ",
+	"[G] ",
 	"[B] ",
 	"on the first turn of each combat."
 	]
@@ -456,7 +456,7 @@
   "Meat on the Bone": {
 	"NAME": "Meat on the Bone",
 	"FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
-    "DESCRIPTIONS": [ 
+    "DESCRIPTIONS": [
 	"If your HP is at or below #b50% at the end of combat, heal #b",
 	" HP."
 	]
@@ -479,7 +479,7 @@
 	"NAME": "Mercury Hourglass",
 	"FLAVOR": "An enchanted hourglass that endlessly drips.",
     "DESCRIPTIONS": [
-	"At the start of your turn, deal #b", 
+	"At the start of your turn, deal #b",
 	" damage to ALL enemies."
 	]
   },
@@ -495,7 +495,7 @@
 	"NAME": "Mummified Hand",
 	"FLAVOR": "Frequently twitches, especially when your pulse is high.",
     "DESCRIPTIONS": [
-	"Whenever you play a #yPower, a random card in your hand costs #b0 for the turn." 
+	"Whenever you play a #yPower, a random card in your hand costs #b0 for the turn."
 	]
   },
   "Necronomicon": {
@@ -503,7 +503,7 @@
 	"FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
     "DESCRIPTIONS": [
 	"The first #yAttack played each turn that costs #b",
-	" or more is played twice. When you take this relic, become #rCursed.", 
+	" or more is played twice. When you take this relic, become #rCursed.",
 	" or more is played twice."
 	]
   },
@@ -520,7 +520,7 @@
     "DESCRIPTIONS": [
 	"When you would die, heal to full HP instead. NL (Works #b9 times)",
 	"When you would die, heal to full HP instead. NL (No more lives)",
-	"When you would die, heal to full HP instead. NL (Works #b", 
+	"When you would die, heal to full HP instead. NL (Works #b",
 	" more times)"
 	]
   },
@@ -528,7 +528,7 @@
 	"NAME": "Ninja Scroll",
 	"FLAVOR": "Contains the secrets of assassination.",
     "DESCRIPTIONS": [
-	"Start each combat with #b", 
+	"Start each combat with #b",
 	" #yShivs in hand."
 	]
   },
@@ -550,7 +550,7 @@
 	"NAME": "Oddly Smooth Stone",
 	"FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
     "DESCRIPTIONS": [
-	"At the start of each combat, gain #b", 
+	"At the start of each combat, gain #b",
 	" #yDexterity."
 	]
   },
@@ -572,16 +572,16 @@
 	"NAME": "Omamori",
 	"FLAVOR": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
     "DESCRIPTIONS": [
-	"Negate the next #b2 #rCurses you obtain.", 
-	"Negate the next #rCurse you obtain.", 
-	"This relic is all used up." 
+	"Negate the next #b2 #rCurses you obtain.",
+	"Negate the next #rCurse you obtain.",
+	"This relic is all used up."
 	]
   },
   "Orichalcum": {
 	"NAME": "Orichalcum",
 	"FLAVOR": "A green tinted metal of an unknown origin. Seemingly indestructible.",
     "DESCRIPTIONS": [
-	"If you end your turn without #yBlock, gain #b", 
+	"If you end your turn without #yBlock, gain #b",
 	" #yBlock."
 	]
   },
@@ -597,7 +597,7 @@
 	"NAME": "Orrery",
 	"FLAVOR": "\"Once you understand the universe...\" - Zoroth",
     "DESCRIPTIONS": [
-	"Choose and add #b5 cards to your deck.", 
+	"Choose and add #b5 cards to your deck.",
 	"Knowledge!"
 	]
   },
@@ -613,7 +613,7 @@
 	"NAME": "Pantograph",
 	"FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
     "DESCRIPTIONS": [
-	"At the start of boss combats, heal #b", 
+	"At the start of boss combats, heal #b",
 	" HP."
 	]
   },
@@ -657,7 +657,7 @@
 	"FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
     "DESCRIPTIONS": [
 	" ALL enemies start with #b2 #yStrength.",
-	"Gain [R] at the start of each turn.", 
+	"Gain [R] at the start of each turn.",
 	"Gain [G] at the start of each turn.",
 	"Gain [B] at the start of each turn."
 	]
@@ -687,7 +687,7 @@
 	"NAME": "Red Mask",
 	"FLAVOR": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
     "DESCRIPTIONS": [
-	"At the start of each combat, apply #b", 
+	"At the start of each combat, apply #b",
 	" #yWeak to ALL enemies."
 	]
   },
@@ -703,7 +703,7 @@
 	"NAME": "Regal Pillow",
 	"FLAVOR": "Now you can get a proper night's rest.",
     "DESCRIPTIONS": [
-	"Heal an additional #b", 
+	"Heal an additional #b",
 	" HP when you #yRest."
 	]
   },
@@ -727,8 +727,8 @@
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
 	"at the start of each turn. You can no longer see enemy #bIntents.",
-	"Gain [R] ", 
-	"Gain [G] ", 
+	"Gain [R] ",
+	"Gain [G] ",
 	"Gain [B] "
 	]
   },
@@ -736,8 +736,8 @@
 	"NAME": "Runic Pyramid",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"At the end of your turn, you no longer discard your hand. NL Draw #b", 
-	" less card each turn." 
+	"At the end of your turn, you no longer discard your hand. NL Draw #b",
+	" less card each turn."
 	]
   },
   "Self Forming Clay": {
@@ -759,7 +759,7 @@
 	"NAME": "Shuriken",
 	"FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
     "DESCRIPTIONS": [
-	"Every time you play #b", 
+	"Every time you play #b",
 	" #yAttacks in a single turn, gain #b",
 	" #yStrength."
 	]
@@ -783,7 +783,7 @@
 	"NAME": "Ring of the Snake",
 	"FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
     "DESCRIPTIONS": [
-	"At the start of each combat, draw #b", 
+	"At the start of each combat, draw #b",
 	" additional cards."
 	]
   },
@@ -798,7 +798,7 @@
 	"NAME": "Snecko Skull",
 	"FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
     "DESCRIPTIONS": [
-	"Whenever you apply #yPoison, apply an additional #b", 
+	"Whenever you apply #yPoison, apply an additional #b",
 	" #yPoison."
 	]
   },
@@ -807,7 +807,7 @@
 	"FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
     "DESCRIPTIONS": [
 	" You can no longer use potions. ",
-	"Gain [R] at the start of each turn.", 
+	"Gain [R] at the start of each turn.",
 	"Gain [G] at the start of each turn.",
 	"Gain [B] at the start of each turn."
 	]
@@ -837,7 +837,7 @@
 	"NAME": "Sundial",
 	"FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
     "DESCRIPTIONS": [
-	"Every #b", 
+	"Every #b",
 	" times you shuffle your deck, gain [R] [R] .",
 	" times you shuffle your deck, gain [G] [G] .",
 	" times you shuffle your deck, gain [B] [B] ."
@@ -856,7 +856,7 @@
 	"NAME": "War Paint",
 	"FLAVOR": "Missing description.",
     "DESCRIPTIONS": [
-	"Upon pick up, #yUpgrade #b", 
+	"Upon pick up, #yUpgrade #b",
 	" random #ySkills."
 	]
   },
@@ -871,7 +871,7 @@
 	"NAME": "Test 1",
 	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
     "DESCRIPTIONS": [
-	"Whenever you use a potion, gain ", 
+	"Whenever you use a potion, gain ",
 	" [R] .",
 	" [G] .",
 	" [B] ."
@@ -909,7 +909,7 @@
 	"NAME": "Test 5",
 	"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
     "DESCRIPTIONS": [
-	"Upon pick up, #yUpgrade #b", 
+	"Upon pick up, #yUpgrade #b",
 	" random #ySkills."
 	]
   },
@@ -940,14 +940,14 @@
 	"NAME": "The Specimen",
 	"FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
     "DESCRIPTIONS": [
-	"Whenever an enemy dies, transfer any #yPoison it has to a random enemy." 
+	"Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
 	]
   },
   "Thread and Needle": {
 	"NAME": "Thread and Needle",
 	"FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
     "DESCRIPTIONS": [
-	"At the start of each combat, gain #b", 
+	"At the start of each combat, gain #b",
 	" #yPlated #yArmor."
 	]
   },
@@ -973,7 +973,7 @@
 	"FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
     "DESCRIPTIONS": [
 	"Obtain #b1 potion. NL Gain #b",
-	" #yGold. NL Raise your Max HP by #b", 
+	" #yGold. NL Raise your Max HP by #b",
 	". NL Obtain #b1 card. NL Upgrade #b1 random card.",
 	"Tiny House!"
 	]
@@ -1013,7 +1013,7 @@
 	"NAME": "Toy Ornithopter",
 	"FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
     "DESCRIPTIONS": [
-	"Whenever you use a potion, heal #b", 
+	"Whenever you use a potion, heal #b",
 	" HP."
 	]
   },
@@ -1028,7 +1028,7 @@
 	"NAME": "Vajra",
 	"FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
     "DESCRIPTIONS": [
-	"At the start of each combat, gain #b", 
+	"At the start of each combat, gain #b",
 	" #yStrength."
 	]
   },
@@ -1036,11 +1036,11 @@
 	"NAME": "Velvet Choker",
 	"FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
     "DESCRIPTIONS": [
-	"You cannot play more than #b", 
+	"You cannot play more than #b",
 	" cards per turn.",
-	"Gain [R] at the start of each turn. ", 
+	"Gain [R] at the start of each turn. ",
 	"Gain [G] at the start of each turn. ",
-	"Gain [B] at the start of each turn. ", 
+	"Gain [B] at the start of each turn. ",
 	"I can only play up to NL #r"
 	]
   },
@@ -1048,7 +1048,7 @@
 	"NAME": "Lee's Waffle",
 	"FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
     "DESCRIPTIONS": [
-	"Raise your Max HP by #b", 
+	"Raise your Max HP by #b",
 	" and heal all of your HP."
 	]
   },
@@ -1056,7 +1056,7 @@
 	"NAME": "Whetstone",
 	"FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
     "DESCRIPTIONS": [
-	"Upon pick up, #yUpgrade #b", 
+	"Upon pick up, #yUpgrade #b",
 	" random #yAttacks."
 	]
   },

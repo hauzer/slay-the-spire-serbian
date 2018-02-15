@@ -49,7 +49,7 @@
     "NAME": "Underhanded Strike",
     "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, deal !D! damage to a random enemy.",
     "EXTENDED_DESCRIPTION": [
-    	"I can't play this card."	
+    	"I can't play this card."
     ]
   },
   "Anger": {
@@ -136,7 +136,7 @@
     "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
     "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
-    	"I can't play this card."	
+    	"I can't play this card."
     ]
   },
   "Bane": {
@@ -260,7 +260,7 @@
     "NAME": "Clash",
     "DESCRIPTION": "Can only be played if every card in your hand is an Attack. NL Deal !D! damage.",
     "EXTENDED_DESCRIPTION": [
-    	"I have non-attack cards in my hand."	
+    	"I have non-attack cards in my hand."
     ]
   },
   "Thunderclap": {
@@ -567,7 +567,7 @@
     "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! card.",
     "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
     "EXTENDED_DESCRIPTION": [
-    	"I can't play this card."	
+    	"I can't play this card."
     ]
   },
   "Sentinel": {
@@ -691,7 +691,7 @@
     "DESCRIPTION": "Choose a card. NL Next turn, add !M! copies of that card into your hand. Exhaust.",
     "EXTENDED_DESCRIPTION": [
     	"I can only use NL ",
-    	" NL once per turn."	
+    	" NL once per turn."
     ]
   },
   "Bloodletting": {
@@ -755,7 +755,7 @@
     	"Unplayable. NL You cannot play more than ",
     	" cards per turn.",
 		" cards per turn. NL You have played ",
-		" card this turn."	
+		" card this turn."
     ]
   },
   "Accuracy": {

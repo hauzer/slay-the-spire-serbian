@@ -1,93 +1,93 @@
 {
   "Grand Finale": {
-    "NAME": "Grand Finale",
-    "DESCRIPTION": "Can only be played if there are no cards in your draw pile. NL Deal !D! damage to ALL enemies.",
-	"UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
+    "NAME": "Велико финале",
+    "DESCRIPTION": "Може се одиграти само ако на гомили за одбацивање нема карата. NL Нанеси !D! штете СВИМ непријатељима.",
+	"UPGRADE_DESCRIPTION": "Гомила за одбацивање NL мора бити #rпразна."
   },
   "Immolate": {
-    "NAME": "Immolate",
-    "DESCRIPTION": "Exhaust 1 card. If the chosen card was a Status or Curse, deal !D! damage to ALL enemies."
+    "NAME": "Сажежи",
+    "DESCRIPTION": "Исцрпи једну карту. Ако је била Стање или Клетва, оштети СВЕ непријатеље за !D! ."
   },
   "Regret": {
-    "NAME": "Regret",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, lose 1 HP for each card in your hand."
+    "NAME": "Ожалошћен",
+    "DESCRIPTION": "Неодигрива. NL На крају потеза изгуби један ЗП за сваку карту која ти остане у руци."
   },
   "Crippling Poison": {
-    "NAME": "Crippling Poison",
-    "DESCRIPTION": "Apply !M! Poison. NL Apply !M! Weak."
+    "NAME": "Онеспособљујући отров",
+    "DESCRIPTION": "Отруј за !M! . NL Раслаби за !M! ."
   },
   "A Thousand Cuts": {
-    "NAME": "A Thousand Cuts",
-    "DESCRIPTION": "Whenever you play a card, deal !M! damage to ALL enemies."
+    "NAME": "Хиљаду резова",
+    "DESCRIPTION": "Сваки пут кад одиграш карту, оштети СВЕ непријатеље за !M! ."
   },
   "Spot Weakness": {
-    "NAME": "Spot Weakness",
-    "DESCRIPTION": "If an enemy intends to attack, gain !M! Strength."
+    "NAME": "Откри слабост",
+    "DESCRIPTION": "Ако непријатељ намерава да нападне, Ојачај се за !M! ."
   },
   "Wound": {
-    "NAME": "Wound",
-    "DESCRIPTION": "Unplayable."
+    "NAME": "Рањен",
+    "DESCRIPTION": "Неодигрива."
   },
   "Writhe": {
-    "NAME": "Writhe",
-    "DESCRIPTION": "Unplayable. NL Innate."
+    "NAME": "У грчу",
+    "DESCRIPTION": "Неодигрива. NL Урођена."
   },
   "Dark Shackles": {
-    "NAME": "Dark Shackles",
-    "DESCRIPTION": "Enemy loses !M! Strength for the rest of this turn. NL Exhaust."
+    "NAME": "Мрачни окови",
+    "DESCRIPTION": "Раслаби непријатеља за !M! до краја ове рунде. NL Исцрпи."
   },
   "Glass Knife": {
-    "NAME": "Glass Knife",
-    "DESCRIPTION": "Deal !D! damage twice. Glass Knife's damage is lowered by 2 this combat."
+    "NAME": "Стаклени нож",
+    "DESCRIPTION": "Оштети двапут за !D! . Убојитост Стакленог ножа је смањена за два у овој борби."
   },
   "Cloak And Dagger": {
-    "NAME": "Cloak And Dagger",
-    "DESCRIPTION": "Gain !B! Block. NL Add !M! Shiv to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add !M! Shivs to your hand."
+    "NAME": "Плашт и бодеж",
+    "DESCRIPTION": "Брани се за !B! . NL Додај !M! Нож у руку.",
+    "UPGRADE_DESCRIPTION": "Брани се за !B! . NL Додај !M! Ножа у руку."
   },
   "Underhanded Strike": {
-    "NAME": "Underhanded Strike",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, deal !D! damage to a random enemy.",
+    "NAME": "Подвучен ударац",
+    "DESCRIPTION": "Неодигрива. NL Ако је ова карта одбачена из руке, оштети насумичног непријатеља за !D! .",
     "EXTENDED_DESCRIPTION": [
-    	"I can't play this card."
+    	"Не могу да одиграм ову карту."
     ]
   },
   "Anger": {
-    "NAME": "Anger",
-    "DESCRIPTION": "Deal !D! damage. NL Place a copy of this card into your discard pile."
+    "NAME": "Гнев",
+    "DESCRIPTION": "Нанеси !D! штете. NL Баци копију ове карте на гомилу за одбацивање."
   },
   "Storm of Steel": {
-    "NAME": "Storm of Steel",
-    "DESCRIPTION": "Discard your hand. NL Add 1 Shiv to your hand for each card discarded.",
-    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
+    "NAME": "Олуја челика",
+    "DESCRIPTION": "Одбаци руку. NL За сваку одбачену карту, додај један Нож у руку.",
+    "UPGRADE_DESCRIPTION": "Одбаци руку. NL За сваку одбачену карту, додај један побољшан Нож у руку."
   },
   "Cleave": {
-    "NAME": "Cleave",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+    "NAME": "Располути",
+    "DESCRIPTION": "Оштети СВЕ непријатеље за !D! ."
   },
   "Inflame": {
-    "NAME": "Inflame",
-    "DESCRIPTION": "Gain !M! Strength."
+    "NAME": "Распламсавање",
+    "DESCRIPTION": "Оснажи се за !M! ."
   },
   "Wraith Form": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Whenever you play a Skill, deal !M! damage to a random enemy."
+    "NAME": "Утвара",
+    "DESCRIPTION": "Сваки пут када одиграш Умеће, оштети насумичног непријатеља за !M! ."
   },
   "Sadistic Nature": {
-    "NAME": "Sadistic Nature",
-    "DESCRIPTION": "Whenever you apply a Debuff to an enemy, they take !M! damage."
+    "NAME": "Рођени садиста",
+    "DESCRIPTION": "Кад год непријатељу нанесеш негативан статус, оштети га за !M! ."
   },
   "J.A.X.": {
-    "NAME": "J.A.X.",
-    "DESCRIPTION": "Lose 3 HP. NL Gain !M! Strength . NL Exhaust."
+    "NAME": "Џ.Е.К.С.",
+    "DESCRIPTION": "Жртвуј три ЗПа. NL Оснажи се за !M! . NL Исцрпи."
   },
   "Offering": {
-    "NAME": "Offering",
-    "DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "NAME": "Принос",
+    "DESCRIPTION": "Жртвуј четири ЗПа. NL Задоби [R] [R]. NL Вуци карте ( !M! ). NL Исцрпи."
   },
   "Exhume": {
-    "NAME": "Exhume",
-    "DESCRIPTION": "Choose an exhausted card and put it in your hand. NL Exhaust."
+    "NAME": "Ексхумирај",
+    "DESCRIPTION": "Изабери исцрпљену карту и стави је у руку. NL Исцрпи."
   },
   "Power Through": {
     "NAME": "Power Through",

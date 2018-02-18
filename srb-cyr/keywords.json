@@ -2,231 +2,150 @@
   "Game Dictionary": {
   	"ARTIFACT": {
 		"NAMES":[
-			"artifact",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"artifact"
 		],
 		"DESCRIPTION": "Negates the next debuff."
 	},
 	"BLOCK": {
 		"NAMES":[
-			"block",
-			"blocks",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"одбрана",
+			"одбране",
+			"брани"
 		],
-		"DESCRIPTION": "Until next turn, prevents damage."
+		"DESCRIPTION": "Спречава штету до следећег потеза."
 	},
 	"CURSE": {
 		"NAMES":[
-			"curse",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"клетва"
 		],
-		"DESCRIPTION": "Curse cards are negative cards that stay in your deck."
+		"DESCRIPTION": "Клетве су негативне карте које се задржавају у шпилу."
 	},
 	"DEXTERITY": {
 		"NAMES":[
-			"dexterity",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"dexterity"
 		],
 		"DESCRIPTION": "Dexterity improves Block gained from cards."
 	},
 	"ETHEREAL": {
 		"NAMES":[
-			"ethereal",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"ethereal"
 		],
 		"DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
 	},
 	"EXHAUST": {
 		"NAMES":[
-			"exhaust",
-			"exhausted",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"исцрпи",
+			"исцрпљену"
 		],
-		"DESCRIPTION": "Removed until end of combat."
+		"DESCRIPTION": "Уклоњена до краја борбе."
 	},
 	"INNATE": {
 		"NAMES":[
-			"innate",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"урођена"
 		],
-		"DESCRIPTION": "Start each combat with this card in your hand."
+		"DESCRIPTION": "Борбе започињеш са овом картом у руци."
 	},
 	"LOCKED": {
 		"NAMES":[
-			"locked",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"locked"
 		],
 		"DESCRIPTION": "This card has yet to be unlocked."
 	},
 	"POISON": {
 		"NAMES":[
-			"poison",
-			"poisoned",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"отров",
+			"отрова",
+			"отруј"
 		],
-		"DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
+		"DESCRIPTION": "Отрована створења губе ЗП на почетку свог потеза. Отров се смањује за #b1 сваки круг."
 	},
 	"RETAIN": {
 		"NAMES":[
-			"retain",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"retain"
 		],
 		"DESCRIPTION": "Retained cards are not discarded at the end of turn."
 	},
 	"SHIV": {
 		"NAMES":[
-			"shiv",
-			"shivs",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"Нож",
+			"Ножа"
 		],
-		"DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+		"DESCRIPTION": "Ножеви су Потрошни Напади који коштају #b0."
 	},
 	"STATUS": {
 		"NAMES":[
-			"status",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"стање"
 		],
-		"DESCRIPTION": "Status cards are removed at the end of combat."
+		"DESCRIPTION": "Стања су уклоњена на крају борбе."
 	},
 	"STRENGTH": {
 		"NAMES":[
-			"strength",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"снага",
+			"снаге",
+			"снагу",
+			"оснажи"
 		],
-		"DESCRIPTION": "Strength adds additional damage to attacks."
+		"DESCRIPTION": "Већом снагом наносиш више штете нападима."
 	},
 	"TRANSFORM": {
 		"NAMES":[
-			"transform",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"transform"
 		],
 		"DESCRIPTION": "Transformed cards become a random card of any rarity."
 	},
 	"UNKNOWN": {
 		"NAMES":[
-			"unknown",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"unknown"
 		],
 		"DESCRIPTION": "This card has yet to be encountered."
 	},
 	"UNPLAYABLE": {
 		"NAMES":[
-			"unplayable",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"неодигрива"
 		],
-		"DESCRIPTION": "Unplayable cards cannot be played from your hand."
+		"DESCRIPTION": "Неодигриве карте се не могу одиграти из руке."
 	},
 	"UPGRADE": {
 		"NAMES":[
-			"upgrade",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"upgrade"
 		],
 		"DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
 	},
 	"VULNERABLE": {
 		"NAMES":[
-			"vulnerable",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"vulnerable"
 		],
 		"DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
 	},
 	"WEAK": {
 		"NAMES":[
-			"weak",
-			"weaken",
-			"weakened",
-			"weakens",
-			"UNUSED_RESERVE"
+			"слабост",
+			"раслаби"
 		],
-		"DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks."
+		"DESCRIPTION": "Напади ослабљених створења оштећују #b25% мање."
 	},
 	"WOUND": {
 		"NAMES":[
 			"wound",
-			"wounds",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"wounds"
 		],
 		"DESCRIPTION": "Wounds are unplayable status cards."
 	},
 	"FRAIL": {
 		"NAMES":[
-			"frail",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"frail"
 		],
 		"DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
 	},
 	"STRIKE": {
 		"NAMES":[
-			"strike",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"strike"
 		],
 		"DESCRIPTION": "Any card with the word \"Strike\" in its name."
 	},
 	"CONFUSED": {
 		"NAMES":[
-			"confused",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE",
-			"UNUSED_RESERVE"
+			"confused"
 		],
 		"DESCRIPTION": "Whenever you draw a card, randomize its cost."
 	},

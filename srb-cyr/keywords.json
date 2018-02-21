@@ -2,15 +2,17 @@
   "Game Dictionary": {
   	"ARTIFACT": {
 		"NAMES":[
-			"artifact"
+			"заштита",
+			"заштиту"
 		],
-		"DESCRIPTION": "Negates the next debuff."
+		"DESCRIPTION": "Негира следећи негативан статус."
 	},
 	"BLOCK": {
 		"NAMES":[
 			"одбрана",
-			"одбране",
-			"брани"
+			"одбрану",
+			"одбрани",
+			"одбране"
 		],
 		"DESCRIPTION": "Спречава штету до следећег потеза."
 	},
@@ -28,13 +30,14 @@
 	},
 	"ETHEREAL": {
 		"NAMES":[
-			"ethereal"
+			"оноприродна"
 		],
-		"DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
+		"DESCRIPTION": "Ако ова карта остане у руци на крају потеза, исцрпи је. Исцрпљене карте су уклоњене до краја борбе."
 	},
 	"EXHAUST": {
 		"NAMES":[
 			"исцрпи",
+			"исцрпиш",
 			"исцрпљену"
 		],
 		"DESCRIPTION": "Уклоњена до краја борбе."
@@ -43,7 +46,7 @@
 		"NAMES":[
 			"урођена"
 		],
-		"DESCRIPTION": "Борбе започињеш са овом картом у руци."
+		"DESCRIPTION": "Прва рука гарантовано садржи ову карту."
 	},
 	"LOCKED": {
 		"NAMES":[
@@ -55,15 +58,15 @@
 		"NAMES":[
 			"отров",
 			"отрова",
-			"отруј"
+			"затрован"
 		],
 		"DESCRIPTION": "Отрована створења губе ЗП на почетку свог потеза. Отров се смањује за #b1 сваки круг."
 	},
 	"RETAIN": {
 		"NAMES":[
-			"retain"
+			"Задржи"
 		],
-		"DESCRIPTION": "Retained cards are not discarded at the end of turn."
+		"DESCRIPTION": "Задржане карте се не одбацују на крају потеза."
 	},
 	"SHIV": {
 		"NAMES":[
@@ -82,8 +85,7 @@
 		"NAMES":[
 			"снага",
 			"снаге",
-			"снагу",
-			"оснажи"
+			"снагу"
 		],
 		"DESCRIPTION": "Већом снагом наносиш више штете нападима."
 	},
@@ -113,23 +115,24 @@
 	},
 	"VULNERABLE": {
 		"NAMES":[
-			"vulnerable"
+			"рањивост",
+			"рањивости"
 		],
-		"DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
+		"DESCRIPTION": "Рањива створења примају #b50% више штете од Напада."
 	},
 	"WEAK": {
 		"NAMES":[
 			"слабост",
-			"раслаби"
+			"слабости"
 		],
 		"DESCRIPTION": "Напади ослабљених створења оштећују #b25% мање."
 	},
 	"WOUND": {
 		"NAMES":[
-			"wound",
-			"wounds"
+			"Рана",
+			"Рану"
 		],
-		"DESCRIPTION": "Wounds are unplayable status cards."
+		"DESCRIPTION": "Ране су неодигрива Стања."
 	},
 	"FRAIL": {
 		"NAMES":[

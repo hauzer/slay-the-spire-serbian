@@ -2,7 +2,7 @@
   "Grand Finale": {
     "NAME": "Велико финале",
     "DESCRIPTION": "Може се одиграти само ако на гомили за одбацивање нема карата. NL задај !D! штете СВИМ непријатељима.",
-	"UPGRADE_DESCRIPTION": "Гомила за одбацивање NL мора бити #rпразна."
+	  "UPGRADE_DESCRIPTION": "Гомила за одбацивање NL мора бити #rпразна."
   },
   "Immolate": {
     "NAME": "Сажежи",
@@ -383,7 +383,7 @@
   "Warcry": {
     "NAME": "Поклич",
     "DESCRIPTION": "Вуци !M! карту. NL Стави једну карту из руке на врх гомиле за вучење. NL Исцрпи.",
-	"UPGRADE_DESCRIPTION": "Вуци !M! карте. NL Стави једну карту из руке на врх гомиле за вучење. NL Исцрпи."
+	  "UPGRADE_DESCRIPTION": "Вуци !M! карте. NL Стави једну карту из руке на врх гомиле за вучење. NL Исцрпи."
   },
   "PiercingWail": {
     "NAME": "Крик",
@@ -396,10 +396,10 @@
   "Secret Technique": {
     "NAME": "Тајна техника",
     "DESCRIPTION": "Изабери Умеће из гомиле за вучење и додај га у руку. NL Исцрпи.",
-	"UPGRADE_DESCRIPTION": "Изабери Умеће из гомиле за вучење и додај га у руку.",
-	"EXTENDED_DESCRIPTION": [
-    	"Нема Умећа у NL гомили за вучење."
-    ]
+    "UPGRADE_DESCRIPTION": "Изабери Умеће из гомиле за вучење и додај га у руку.",
+    "EXTENDED_DESCRIPTION": [
+        "Нема Умећа у NL гомили за вучење."
+      ]
   },
   "Calculated Gamble": {
     "NAME": "Прорачунати ризик",
@@ -710,7 +710,7 @@
   "Flechettes": {
     "NAME": "Flechettes",
     "DESCRIPTION": "Deal !D! damage for each Skill in your hand.",
-	"EXTENDED_DESCRIPTION": [
+	  "EXTENDED_DESCRIPTION": [
     	" NL (You have ",
     	" Skill).",
     	" Skills)."

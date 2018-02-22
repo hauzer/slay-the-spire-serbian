@@ -24,13 +24,14 @@
 	},
 	"DEXTERITY": {
 		"NAMES":[
-			"dexterity"
+			"окретност",
+			"окретности"
 		],
-		"DESCRIPTION": "Dexterity improves Block gained from cards."
+		"DESCRIPTION": "Окретност побољшава Одбрану задобијену од карата."
 	},
 	"ETHEREAL": {
 		"NAMES":[
-			"оноприродна"
+			"етерска"
 		],
 		"DESCRIPTION": "Ако ова карта остане у руци на крају потеза, исцрпи је. Исцрпљене карте су уклоњене до краја борбе."
 	},
@@ -50,9 +51,9 @@
 	},
 	"LOCKED": {
 		"NAMES":[
-			"locked"
+			"Закључана"
 		],
-		"DESCRIPTION": "This card has yet to be unlocked."
+		"DESCRIPTION": "Ова карта тек треба да се откључа."
 	},
 	"POISON": {
 		"NAMES":[
@@ -64,14 +65,14 @@
 	},
 	"RETAIN": {
 		"NAMES":[
-			"Задржи"
+			"задржи"
 		],
 		"DESCRIPTION": "Задржане карте се не одбацују на крају потеза."
 	},
 	"SHIV": {
 		"NAMES":[
-			"Нож",
-			"Ножа"
+			"нож",
+			"ножа"
 		],
 		"DESCRIPTION": "Ножеви су Потрошни Напади који коштају #b0."
 	},
@@ -91,15 +92,15 @@
 	},
 	"TRANSFORM": {
 		"NAMES":[
-			"transform"
+			"преобрази"
 		],
-		"DESCRIPTION": "Transformed cards become a random card of any rarity."
+		"DESCRIPTION": "Преображене карте постају насумичне карте било које вредности."
 	},
 	"UNKNOWN": {
 		"NAMES":[
-			"unknown"
+			"непозната"
 		],
-		"DESCRIPTION": "This card has yet to be encountered."
+		"DESCRIPTION": "На ову карту тек треба наићи."
 	},
 	"UNPLAYABLE": {
 		"NAMES":[
@@ -109,9 +110,13 @@
 	},
 	"UPGRADE": {
 		"NAMES":[
-			"upgrade"
+			"побољшање",
+			"побољшан",
+			"побољшај",
+			"побољшати",
+			"побољшаних"
 		],
-		"DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+		"DESCRIPTION": "Побољшавање карата их чини моћнијим. Карте се могу побољшати само једанпут."
 	},
 	"VULNERABLE": {
 		"NAMES":[
@@ -129,28 +134,28 @@
 	},
 	"WOUND": {
 		"NAMES":[
-			"Рана",
-			"Рану"
+			"рана",
+			"рану"
 		],
 		"DESCRIPTION": "Ране су неодигрива Стања."
 	},
 	"FRAIL": {
 		"NAMES":[
-			"frail"
+			"оронуо"
 		],
-		"DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
+		"DESCRIPTION": "Као Оронуо, задобијаш #b25% мање #yОдбране од карата."
 	},
 	"STRIKE": {
 		"NAMES":[
-			"strike"
+			"напад"
 		],
-		"DESCRIPTION": "Any card with the word \"Strike\" in its name."
+		"DESCRIPTION": "Свака карта која садржи \"Напад\" у имену."
 	},
 	"CONFUSED": {
 		"NAMES":[
-			"confused"
+			"растројен"
 		],
-		"DESCRIPTION": "Whenever you draw a card, randomize its cost."
+		"DESCRIPTION": "Цена сваке карте коју вучеш је насумична."
 	},
 	"FIRE": {
 		"NAMES":[
@@ -173,7 +178,7 @@
 		"DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
 	},
     "TEXT": [
-		"Energy is used to play cards from your hand."
+		"Енергија се користи за одигравање карата из руке."
 	]
   }
 }

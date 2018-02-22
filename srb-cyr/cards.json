@@ -22,7 +22,7 @@
   },
   "Spot Weakness": {
     "NAME": "Откри слабост",
-    "DESCRIPTION": "Ако непријатељ намерава да нападне, повећај своју Снагу за !M!."
+    "DESCRIPTION": "Ако непријатељ намерава да нападне, повећај своју NL Снагу за !M!."
   },
   "Wound": {
     "NAME": "Рана",
@@ -67,7 +67,7 @@
   },
   "Inflame": {
     "NAME": "Распламсај",
-    "DESCRIPTION": "Повећај своју Снагу за !M!."
+    "DESCRIPTION": "Повећај своју NL Снагу за !M!."
   },
   "Wraith Form": {
     "NAME": "Утвара",
@@ -79,7 +79,7 @@
   },
   "J.A.X.": {
     "NAME": "Џ.Е.К.С.",
-    "DESCRIPTION": "Изгуби три ЗП-а. NL Повећај своју Снагу за !M!. NL Исцрпи."
+    "DESCRIPTION": "Изгуби три ЗП-а. NL Повећај своју NL Снагу за !M!. NL Исцрпи."
   },
   "Offering": {
     "NAME": "Принос",
@@ -183,7 +183,7 @@
     "DESCRIPTION": "Задоби !B! Одбране. NL Задај !D! штете."
   },
   "Reckless Charge": {
-    "NAME": "Бахати јуриш",
+    "NAME": "Несмотрени јуриш",
     "DESCRIPTION": "Нанеси себи 1 Рањивост. NL Задај !D! штете."
   },
   "Decay": {
@@ -257,7 +257,7 @@
     "DESCRIPTION": "Задоби !B! Одбране. NL Вуци 1 карту."
   },
   "Clash": {
-    "NAME": "Обрачун",
+    "NAME": "Сукоб",
     "DESCRIPTION": "Може се одиграти само ако су све карте у руци Напади. NL Задај !D! штете.",
     "EXTENDED_DESCRIPTION": [
     	"У руци имам карте које нису Напади."
@@ -296,7 +296,7 @@
     "DESCRIPTION": "На крају потеза, задоби !M! Одбране."
   },
   "Pommel Strike": {
-    "NAME": "Ударац балчаком",
+    "NAME": "Напад балчаком",
     "DESCRIPTION": "Задај !D! штете. NL Вуци !M! карту.",
     "UPGRADE_DESCRIPTION": "Задај !D! штете. NL Вуци !M! карте."
   },
@@ -446,15 +446,15 @@
     "UPGRADE_DESCRIPTION": "На крају потеза, Задржи највише !M! карте."
   },
   "Defend_R": {
-    "NAME": "Одбрани",
+    "NAME": "Одбрана",
     "DESCRIPTION": "Задоби !B! Одбране."
   },
   "Defend_G": {
-    "NAME": "Одбрани",
+    "NAME": "Одбрана",
     "DESCRIPTION": "Задоби !B! Одбране."
   },
     "Defend_B": {
-    "NAME": "Одбрани",
+    "NAME": "Одбрана",
     "DESCRIPTION": "Задоби !B! Одбране."
   },
   "Seeing Red": {
@@ -479,7 +479,7 @@
   },
   "Dazed": {
     "NAME": "Ошамућен",
-    "DESCRIPTION": "Неодигрива. NL Оноприродна."
+    "DESCRIPTION": "Неодигрива. NL Етерска."
   },
   "Barricade": {
     "NAME": "Забарикадирај",
@@ -515,7 +515,7 @@
     "DESCRIPTION": "Не можеш да изгубиш ЗП до почетка следећег потеза. NL Исцрпи."
   },
   "Corruption": {
-    "NAME": "Огреховљен",
+    "NAME": "Подлост",
     "DESCRIPTION": "Умећа коштају 0. NL Сваки пут када одиграш Умеће, Исцрпи га."
   },
   "Heel Hook": {
@@ -588,7 +588,7 @@
     "DESCRIPTION": "Кошта 1 мање [G] NL за сваку одбачену карту овај потез. NL Задај !D! штете трипут."
   },
   "Flash of Steel": {
-    "NAME": "Одблесак",
+    "NAME": "Одблесак оштрице",
     "DESCRIPTION": "Задај !D! штете. NL Вуци 1 карту."
   },
   "Battle Trance": {
@@ -597,11 +597,11 @@
   },
   "Heavy Blade": {
     "NAME": "Густо сечиво",
-    "DESCRIPTION": "Задај !D! штете. NL Снага утиче на Густо сечиво !M! пута."
+    "DESCRIPTION": "Задај !D! штете. NL Снага утиче на Густо сечиво !M! пута више."
   },
   "Clumsy": {
     "NAME": "Трапав",
-    "DESCRIPTION": "Неодигрива. NL Оноприродна."
+    "DESCRIPTION": "Неодигрива. NL Етерска."
   },
   "Searing Blow": {
     "NAME": "Спржи",
@@ -646,12 +646,12 @@
     "DESCRIPTION": "Задај !D! штете. NL Урођена. NL Исцрпи."
   },
   "Step Through Time": {
-    "NAME": "Step Through Time (ПРЕВЕСТИ)",
+    "NAME": "Step Through Time",
     "DESCRIPTION": "COST: 2 Charge. NL Your HP returns to the value it was last turn. NL Exhaust."
   },
   "Feed": {
     "NAME": "Поједи",
-    "DESCRIPTION": "Задај !D! штете. NL Ако ово убије непријатеља не-поданика, трајно задоби !M! макс. ЗП-а. Исцрпи."
+    "DESCRIPTION": "Задај !D! штете. Ако ово убије непријатеља не-поданика, трајно задоби !M! макс. ЗП-а. Исцрпи."
   },
   "Rupture": {
     "NAME": "Кидисање",
@@ -799,15 +799,15 @@
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
   },
   "Strike_R": {
-    "NAME": "Нападни",
+    "NAME": "Напад",
     "DESCRIPTION": "Задај !D! штете."
   },
   "Strike_G": {
-    "NAME": "Нападни",
+    "NAME": "Напад",
     "DESCRIPTION": "Задај !D! штете."
   },
   "Strike_B": {
-    "NAME": "Нападни",
+    "NAME": "Напад",
     "DESCRIPTION": "Задај !D! штете."
   },
   "Evolve": {
@@ -825,7 +825,7 @@
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
   },
   "Double Tap": {
-    "NAME": "Double Tap",
+    "NAME": "Је'н, два",
     "DESCRIPTION": "This turn, your next Attack is played twice.",
     "UPGRADE_DESCRIPTION": "This turn, your next !M! Attacks are played twice."
   },

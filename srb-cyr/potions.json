@@ -1,105 +1,105 @@
 {
   "Ancient Potion": {
-	"NAME": "Ancient Potion",
+	"NAME": "Древни напитак",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" #yArtifact."
+			"Задоби #b",
+			" #yЗаштиту."
 	]
   },
   "Block Potion": {
-	"NAME": "Block Potion",
+	"NAME": "Напитак одбране",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" #yBlock."
+			"Задоби #b",
+			" #yОдбране."
 	]
   },
   "Dexterity Potion": {
-	"NAME": "Dexterity Potion",
+	"NAME": "Напитак окретности",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" #yDexterity."
+			"Задоби #b",
+			" #yОкретности."
 	]
   },
   "Elixir": {
-	"NAME": "Elixir",
+	"NAME": "Еликсир",
     "DESCRIPTIONS": [
 			"",
 			"",
-			"#yExhaust all #yStatus and #yCurse cards from your hand.",
+			"#yИсцрпи све #yСтатусе и #yКлетве из руке.",
 			"",
-			"It had no effect..."
+			"Није имало ефекта..."
 	]
   },
   "Energy Potion": {
-	"NAME": "Energy Potion",
+	"NAME": "Енергетски напитак",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" Energy."
+			"Задоби #b",
+			" Енергије."
 	]
   },
   "Explosive Potion": {
-	"NAME": "Explosive Potion",
+	"NAME": "Експлозивни напитак",
     "DESCRIPTIONS": [
-			"Deal #b",
-			" damage to ALL enemies."
+			"Задај #b",
+			" штете СВИМ непријатељима."
 	]
   },
   "Fire Potion": {
-	"NAME": "Fire Potion",
+	"NAME": "Ватрени напитак",
     "DESCRIPTIONS": [
-			"Deal #b",
-			" damage."
+			"Задај #b",
+			" штете."
 	]
   },
   "Health Potion": {
-	"NAME": "Health Potion",
+	"NAME": "Напитак здравља",
     "DESCRIPTIONS": [
-			"Heal #b",
-			" HP."
+			"Зацели #b",
+			" ЗП-а."
 	]
   },
   "Poison Potion": {
-	"NAME": "Poison Potion",
+	"NAME": "Напитак отрова",
     "DESCRIPTIONS": [
-			"Apply #b",
-			" #yPoison."
+			"Нанеси #b",
+			" #yОтрова."
 	]
   },
   "Potion Slot": {
-	"NAME": "Potion Slot",
+	"NAME": "Појас за напитке",
     "DESCRIPTIONS": [
-			"Use potions during combat to gain #gbonuses or #rhinder enemies.",
-			"Potion Slot"
+			"Током борбе се напицима #gпобољшај или #rомети непријатеље.",
+			"Појас за напитке"
 	]
   },
     "Regen Potion": {
-	"NAME": "Regen Potion",
+	"NAME": "Напитак зацељивања",
     "DESCRIPTIONS": [
-			"Heal #b",
-			" #yHP at the end of each turn for #b",
-			" turns."
+			"Зацели #b",
+			" #yЗП-а на крају сваког потеза следећих #b",
+			" потеза."
 	]
   },
   "Strength Potion": {
-	"NAME": "Strength Potion",
+	"NAME": "Напитак снаге",
     "DESCRIPTIONS": [
 			"Gain #b",
 			" #yStrength."
 	]
   },
   "Swift Potion": {
-	"NAME": "Swift Potion",
+	"NAME": "Напитак брзине",
     "DESCRIPTIONS": [
 			"",
-			"Draw #b",
-			" cards."
+			"Вуци #b",
+			" карте."
 	]
   },
     "Weak Potion": {
-	"NAME": "Weak Potion",
+	"NAME": "Напитак слабости",
     "DESCRIPTIONS": [
-			"Apply #b",
-			" #yWeak."
+			"Нанеси #b",
+			" #yСлабости."
 	]
   }
 }

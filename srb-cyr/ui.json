@@ -620,7 +620,8 @@
 		" NL NL  #yШпил: NL ",
 		" NL NL  #yРеликвије: NL  ",
 		" NL Данашњи изазов: NL TAB #yЛик: NL TAB ",
-		" NL TAB #yМодификације: "
+		" NL #yИзмене: ",
+		" NL TAB #yИзмене: "
 	]
 	},
   "SettingsScreen": {

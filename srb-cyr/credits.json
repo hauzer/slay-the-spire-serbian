@@ -1,63 +1,63 @@
 {
 	"DEV": {
-		"HEADER": "Development & Design",
+		"HEADER": "Развој & дизајн",
 		"NAMES": [
 			"Anthony Giovannetti",
 			"Casey Yano"
 		]
 	},
 	"OPS": {
-		"HEADER": "Operations & Metrics",
+		"HEADER": "Операције & метрика",
 		"NAMES": [
 			"Danielle Jenkins",
 			"Jake Rabinowitz"
 		]
 	},
 	"SOUND": {
-		"HEADER": "Music & Sounds",
+		"HEADER": "Музика & звук",
 		"NAMES": [
 			"Clark Aboud"
 		]
 	},
 	"VOICE": {
-		"HEADER": "Voice Talent",
+		"HEADER": "Гласовна глума",
 		"NAMES": [
 			"Tamara Ryan",
 			"Michael Schwalbe"
 		]
 	},
 	"PORTRAITS": {
-		"HEADER": "Card Portraits & Event Art",
+		"HEADER": "Визуелни дизајн карата & догађаја",
 		"NAMES": [
 			"Anailis Dorta"
 		]
 	},
 	"ANIMATION": {
-		"HEADER": "Character Animation",
+		"HEADER": "Анимација ликова",
 		"NAMES": [
 			"Julio Duque Montero",
 			"Jon Sandler"
 		]
 	},
 	"ILLUSTRATION": {
-		"HEADER": "Promo & Background Illustration",
+		"HEADER": "Промо & позадинска илустрација",
 		"NAMES": [
 			"Bruce Brenneise"
 		]
 	},
 	"LOC_ZHS": {
-		"HEADER": "Chinese (Simplified) Localization",
+		"HEADER": "Кинески (поједностављен) превод",
 		"NAMES": [
 			"Sound of Mystery"
 		]
 	},
 	"LOC_ZHT": {
-		"HEADER": "Chinese (Traditional) Localization",
+		"HEADER": "Кинески (традиционалан) превод",
 		"NAMES": [
 		]
 	},
 	"LOC_FRA": {
-		"HEADER": "French Localization",
+		"HEADER": "Француски превод",
 		"NAMES": [
 			"Xavier \"Blagatt\" Dupont",
 			"Malik \"Devexia\" Leonarski",
@@ -71,13 +71,13 @@
 		]
 	},
 	"LOC_DEU": {
-		"HEADER": "German Localization",
+		"HEADER": "Немачки превод",
 		"NAMES": [
 			"Joshua \"Joshipon\" Wiegand "
 		]
 	},
 	"LOC_ITA": {
-		"HEADER": "Italian Localization",
+		"HEADER": "Италијански превод",
 		"NAMES": [
 			"Hob",
 			"Mero Marco",
@@ -85,39 +85,39 @@
 		]
 	},
 	"LOC_JPN": {
-		"HEADER": "Japanese Localization",
+		"HEADER": "Јапански превод",
 		"NAMES": [
 			"Grezzz"
 		]
 	},
 	"LOC_KOR": {
-		"HEADER": "Korean Localization",
+		"HEADER": "Корејски превод",
 		"NAMES": [
-			"Translation Manager:",
+			"Руководицал превода:",
 			"Eteriny",
-			"Translation:",
+			"Превод:",
 			"Simcoding",
 			"DesFrog",
 			"insight",
 			"K4lium",
 			"hina",
-			"Steam Page Translation:",
+			"Превод Стим странице:",
 			"GyeRyak"
 		]
 	},
 	"LOC_POL": {
-		"HEADER": "Polish Localization",
+		"HEADER": "Пољски превод",
 		"NAMES": [
 		]
 	},
 	"LOC_RUS": {
-		"HEADER": "Russian Localization",
+		"HEADER": "Руски превод",
 		"NAMES": [
-			"Translation and Coordination:",
+			"Превод и руководство:",
 			"Ivan \"Ingrett\" Khoroshunenko",
-			"Translation and Repository:",
+			"Превод и спремиште:",
 			"Vladislav \"Vlad-00003\" Bolshakov",
-			"Suggestions and Feedback:",
+			"Предлози и повратне информације:",
 			"Mikhail \"Outmind\" Dyuzhev",
 			"Bohdan \"DarkRosse\" Kalytiuk",
 			"Sergey \"lol10801lol\" K.",
@@ -128,19 +128,19 @@
 		]
 	},
 	"LOC_TUR": {
-		"HEADER": "Turkish Localization",
+		"HEADER": "Турски превод",
 		"NAMES": [
 			"Erdem Gürbüz"
 		]
 	},
 	"LOC_ADDITIONAL": {
-		"HEADER": "Additional Translations",
+		"HEADER": "Остали преводи",
 		"NAMES": [
 			"MoGi Group"
 		]
 	},
 	"TEST": {
-		"HEADER": "Playtesters",
+		"HEADER": "Испитивачи",
 		"NAMES": [
 			"Agari",
 			"Daria Anderson",
@@ -172,7 +172,7 @@
 		]
 	},
 	"SPECIAL": {
-		"HEADER": "Special Thanks",
+		"HEADER": "Посебна захвалност",
 		"NAMES": [
 			"Harry Rabinowitz",
 			"Kevin \"Billy\" Matheson",
@@ -186,7 +186,7 @@
 		]
 	},
 	"THANKS_MSG": {
-		"HEADER": "...and thank YOU for playing!",
+		"HEADER": "...и хвала ТЕБИ на игрању!",
 		"NAMES": [
 		]
 	}

@@ -7,40 +7,40 @@
     ]
   },
   "Accuracy": {
-    "NAME": "Accuracy",
+    "NAME": "Прецизност",
     "DESCRIPTIONS": [
-	"#yShivs deal #b",
-	" additional damage."
+	"#yНожеви задају #b",
+	" додатне штете."
     ]
   },
   "After Image": {
-    "NAME": "After Image",
+    "NAME": "Обриси",
     "DESCRIPTIONS": [
-	"Whenever you play a card, gain #b",
-	" #yBlock."
+	"Сваки пут када одиграш карту, задоби #b",
+	" #yОдбране."
     ]
   },
   "Anger": {
-    "NAME": "Enrage",
+    "NAME": "Разбеснео",
     "DESCRIPTIONS": [
-	"Whenever you play a #ySkill, gains #b",
-	" #yStrength."
+	"Сваки пут кад одиграш #yУмеће, повећава му се #yСнага за #b.",
+	""
     ]
   },
   "Angry": {
-    "NAME": "Angry",
+    "NAME": "Љут",
     "DESCRIPTIONS": [
-	"Whenever ",
-	" takes #yAttack damage, it gains #b",
-	" #yStrength."
+	"Сваки пут када ",
+	" прими штету од #yНапада, #yСнага му се повећава за #b.",
+	""
     ]
   },
   "Artifact": {
-    "NAME": "Artifact",
+    "NAME": "Заштита",
     "DESCRIPTIONS": [
-	"Negates #b",
-	" debuff.",
-	" debuffs."
+	"Негира #b",
+	" негативан статус.",
+	" негативна статуса."
     ]
   },
   "Attack Burn": {
@@ -53,58 +53,58 @@
     ]
   },
   "Barricade": {
-    "NAME": "Barricade",
+    "NAME": "Забарикадиран",
     "DESCRIPTIONS": [
-	"#yBlock is not removed at the start of your turn.",
-	"#yBlock is not removed at the start of turn."
+	"#yОдбрана се не уклања на почетку потеза.",
+	"#yОдбрана се не уклања на почетку потеза."
     ]
   },
   "Blur": {
-    "NAME": "Blur",
+    "NAME": "У трку",
     "DESCRIPTIONS": [
-	"#yBlock is not removed at the start of your next turn.",
-	"#yBlock is not removed at the start of your next #b",
-	" turns."
+	"#yОдбрана се не уклања на почетку следећег потеза.",
+	"#yОдбрана се не уклања на почетку наредних потеза ( #b ).",
+	""
     ]
   },
   "Brutality": {
-    "NAME": "Brutality",
+    "NAME": "Бруталност",
     "DESCRIPTIONS": [
-	"At the start of your turn, lose #b",
-	" HP and draw #b",
-	" card.",
-	"At the start of your turn, lose #b",
-	" HP and draw #b",
-	" cards."
+	"На почетку потеза, изгуби #b",
+	" ЗП-а и вуци #b",
+	" карту.",
+	"На почетку потеза, изгуби #b",
+	" ЗП-а и вуци #b",
+	" карте."
     ]
   },
   "Burst": {
-    "NAME": "Burst",
+    "NAME": "Навала",
     "DESCRIPTIONS": [
-	"On this turn, play your next #ySkill twice.",
-	"On this turn, play your next ",
-	" #ySkills twice."
+	"Овај потез, следеће #yУмеће одиграј двапут.",
+	"Овај потез, следеће #yУмеће ",
+	" одиграј двапут."
     ]
   },
   "Choked": {
-    "NAME": "Choked",
+    "NAME": "Дављен",
     "DESCRIPTIONS": [
-	"Loses #b",
-	" HP whenever you play a card this turn."
+	"Губи #b",
+	" ЗП-а сваки пут када овај потез одиграш карту."
     ]
   },
   "Combust": {
-    "NAME": "Combust",
+    "NAME": "Сагоревање",
     "DESCRIPTIONS": [
-	"At the end of your turn, lose #b",
-	" HP and deal #b",
-	" damage to ALL enemies."
+	"На крају потеза, изгуби #b",
+	" ЗП-а и задај #b",
+	" штете СВИМ непријатељима."
     ]
   },
   "Confusion": {
-    "NAME": "Confusion",
+    "NAME": "Збуњеност",
     "DESCRIPTIONS": [
-	"Whenever you draw a card, randomize its cost."
+	"Свака карта коју вучеш добија насумични трошак."
     ]
   },
   "Constricted": {

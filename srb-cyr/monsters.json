@@ -11,7 +11,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Corrupt Heart",
+    "NAME": "Искварено срце",
     "DIALOG": [
       ""
     ]
@@ -20,7 +20,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Nemesis",
+    "NAME": "Осветник",
     "DIALOG": [
       ""
     ]
@@ -29,44 +29,44 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Chosen",
+    "NAME": "Одабрани",
     "DIALOG": [
-      "~Suffer...~"
+      "~Пати...~"
     ]
   },
   "Byrd": {
     "MOVES": [
       ""
     ],
-    "NAME": "Byrd",
+    "NAME": "Птиц",
     "DIALOG": [
-      "@CAW!@ NL @CAAAW@",
+      "@КРА!@ NL @КРААА@",
       ""
     ]
   },
   "Snecko": {
     "MOVES": [
-      "Perplexing Glare",
-      "Tail Whip",
-      "Bite"
+      "Збуњујући поглед",
+      "Шибање репом",
+      "Ујед"
     ],
-    "NAME": "Snecko",
+    "NAME": "Змијко",
     "DIALOG": [
       ""
     ]
   },
   "GremlinWizard": {
     "MOVES": [
-      "Charging",
-      "Ultimate Blast"
+      "Припрема",
+      "Крајњи прасак"
     ],
-    "NAME": "Gremlin Wizard",
+    "NAME": "Гремлин чаробњак",
     "DIALOG": [
       "",
-      "Charging up!",
-      "~Here~ ~it~ ~comes!!~",
-      "@I...@ @get...@ NL @help...!@",
-      "~too...~ NL ~dangerous...~ NL ~bye...~"
+      "Мућка се!",
+      "~Ево~ ~га~ ~стиже!!~",
+      "@Пристиже...@ NL @помоћ..!@",
+      "~превише...~ NL ~опасно...~ NL ~идем...~"
     ]
   },
   "BanditChild": {
@@ -80,29 +80,29 @@
   },
   "Orb Walker": {
     "MOVES": [
-	  "Strength Up"
+	  "Оснаживање"
 	],
-    "NAME": "Orb Walker",
+    "NAME": "Ходајућа сфера",
     "DIALOG": [
-      "Initiating NL shields."
+      "Покрећем NL штитове."
     ]
   },
   "TheGuardian": {
     "MOVES": [
-      "Defensive Mode",
-      "Fierce Bash",
+      "Одбрамбени став",
+      "Жестоки удар",
       "Roll",
-      "Twin Slam",
-      "Whirlwind",
-      "Charging Up",
-      "Vent Steam"
+      "Двоструки тресак",
+      "Ковитлац",
+      "Загревање",
+      "Отпуштање паре"
     ],
-    "NAME": "The Guardian",
+    "NAME": "Чувар",
     "DIALOG": [
-      "#b~..COOLING...~ NL #b~...DOWN...~",
-      "Defending...",
-      "#r@DESTROY@ NL #r@DESTROY@ NL #r@DESTROY@",
-      "#r@DANGER@ NL #r@DANGER@ NL #r@DANGER@"
+      "#b~..ХЛАЂЕЊЕ...~ NL #b~...СИСТЕМА...~",
+      "Браним...",
+      "#r@УНИШТИ@ NL #r@УНИШТИ@ NL #r@УНИШТИ@",
+      "#r@ОПАСНОСТ@ NL #r@ОПАСНОСТ@ NL #r@ОПАСНОСТ@"
     ]
   },
   "TheGuardianOrb": {
@@ -114,64 +114,64 @@
     "MOVES": [
       "Claw"
     ],
-    "NAME": "Mad Gremlin",
+    "NAME": "Љути гремлин",
     "DIALOG": [
       "",
-      "@Gonna@ @go@ NL @get@ @help!@",
-      "I'm outta here!"
+      "@Идем@ @по@ NL @помоћ!@",
+      "Бежим одавде!"
     ]
   },
   "GremlinThief": {
     "MOVES": [
       ""
     ],
-    "NAME": "Sneaky Gremlin",
+    "NAME": "Лукави гремлин",
     "DIALOG": [
       "",
-      "@I'll@ @go@ NL @get@ @help!@ ",
-      "@What@ @the!?@"
+      "@Отићи@ @ћу@ NL @по@ @помоћ!@ ",
+      "@Шта@ @дођавола!?@"
     ]
   },
   "Cultist": {
     "MOVES": [
       "",
       "",
-      "Incantation"
+      "Бајање"
     ],
-    "NAME": "Cultist",
+    "NAME": "Култиста",
     "DIALOG": [
-      "@MY@ @POWER@ @IS@ NL @UNMATCHED!@",
-      "@YOU@ @DO@ @NOT@ NL @BELONG@ @HERE!@",
-      "~My~ ~powers~ NL ~were~ ~matched...~"
+      "@МОЈА@ @МОЋ@ @ЈЕ@ NL @НЕНАДМАШИВА!@",
+      "@НЕ@ @ПРИПАДАШ@ NL @ОВОМ@ @МЕСТУ!@",
+      "~Моје~ ~моћу~ NL ~су~ ~надмашене...~"
     ]
   },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
-    "NAME": "Flame Bruiser",
+    "NAME": "Пламени снагатор",
     "DIALOG": [
       ""
     ]
   },
   "GremlinLeader": {
     "MOVES": [
-      "Rally!"
+      "Постројте се!"
     ],
-    "NAME": "Gremlin Leader",
+    "NAME": "Гремлин предводник",
     "DIALOG": [
-      "Don't ever give up!",
-      "We're not done yet!",
-      "Get em boys!",
-      "@Retreat@ NL @Retreaaat!@",
-      "@Ruuuuuuun!@"
+      "Нема одустајања!",
+      "Још нисмо готови!",
+      "На њих, момци!",
+      "@Повлачење@ NL @Повлачењеее!@",
+      "@Бееежииии!@"
     ]
   },
   "Centurion": {
     "MOVES": [
       ""
     ],
-    "NAME": "Centurion",
+    "NAME": "Центурион",
     "DIALOG": [
       ""
     ]
@@ -180,12 +180,12 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Giant Head",
+    "NAME": "Џиновска глава",
     "DIALOG": [
-      "~It~ ~is~ ~time~",
-      "~Good~ ~Bye~",
-      "~Tick~ ~Tock~ NL ~Tick~ ~Tock~",
-      "~Why~ ~are~ ~you~ NL ~still~ ~here?~"
+      "~Сада~ ~је~ ~време~",
+      "~З~ ~богом~",
+      "~Тик~ ~так~ NL ~Тик~ ~так~",
+      "~Зашто~ ~си~ ~и~ NL ~даље~ ~овде?~"
     ]
   },
   "BanditBear": {
@@ -210,9 +210,9 @@
   },
   "SpikeSlime_M": {
     "MOVES": [
-      "Lick"
+      "Лиз"
     ],
-    "NAME": "Spike Slime (M)",
+    "NAME": "Шиљаста слуз (С)",
     "DIALOG": [
       ""
     ]
@@ -220,56 +220,56 @@
   "SpikeSlime_S": {
     "MOVES": [
     ],
-    "NAME": "Spike Slime (S)",
+    "NAME": "Шиљаста слуз (М)",
     "DIALOG": [
       ""
     ]
   },
   "Mugger": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Трзај",
+      "Пљачка"
     ],
-    "NAME": "Mugger",
+    "NAME": "Пљачкаш",
     "DIALOG": [
-      "Hand it over!",
-      "I'm outta here!"
+      "Дај то овамо!",
+      "Палим ја!"
     ]
   },
   "TimeEater": {
     "MOVES": [
       ""
     ],
-    "NAME": "Time Eater",
+    "NAME": "Гутач времена",
     "DIALOG": [
-      "~Ah...~ NL ~..company...~",
-      "~Foolish..~ NL @FOOOLISH!@"
+      "~А...~ NL ~..друштво...~",
+      "~Будаласто..~ NL @БУУДАЛАСТО!@"
     ]
   },
   "TheCollector": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Collector",
+    "NAME": "Колекционар",
     "DIALOG": [
-      "@You@ @are@ @mine!@"
+      "@Сада@ @те@ @поседујем!@"
     ]
   },
   "TorchHead": {
     "MOVES": [
       ""
     ],
-    "NAME": "Torch Head",
+    "NAME": "Гориоглави",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Corrosive Spit",
-      "Lick"
+      "Нагризајући попљув",
+      "Лиз"
     ],
-    "NAME": "Acid Slime (M)",
+    "NAME": "Кисела слуз (С)",
     "DIALOG": [
       ""
     ]
@@ -277,7 +277,7 @@
   "AcidSlime_S": {
     "MOVES": [
     ],
-    "NAME": "Acid Slime (S)",
+    "NAME": "Кисела слуз (М)",
     "DIALOG": [
       ""
     ]
@@ -293,36 +293,36 @@
   },
   "Champ": {
     "MOVES": [
-      "Defensive Stance",
-      "Execute",
-      "Face Slap"
+      "Одбрамбени став",
+      "Смакнуће",
+      "Шамар"
     ],
-    "NAME": "The Champ",
+    "NAME": "Шампион",
     "DIALOG": [
-      "You call that a weapon?",
-      "Come at me!",
-      "Do your worst! NL @HAHAHA!@",
-      "Have a free shot! NL Futile weakling!",
-      "~You've~ ~done~ ~it~ ~now...~",
-      "@DEFEAT??@ NL @IMPOSSIBLE!!@",
-      "~DIE~ ~.~ ~.~ ~.~",
-      "Face my wrath!"
+      "То зовеш оружјем?",
+      "'Ајде!",
+      "Do your worst! NL @ХАХАХА!@",
+      "Ево ти бесплатног покушаја! NL Бескорисни слабићу!",
+      "~Сад~ ~си~ ~награбусио...~",
+      "@ПОРАЗ??@ NL @НЕМОГУЋЕ!!@",
+      "~УМРИ~ ~.~ ~.~ ~.~",
+      "Осети мој бес!"
     ]
   },
   "Exploder": {
     "MOVES": [
       ""
     ],
-    "NAME": "Exploder",
+    "NAME": "Минер",
     "DIALOG": [
       ""
     ]
   },
   "FungiBeast": {
     "MOVES": [
-      "Grow"
+      "Раст"
     ],
-    "NAME": "Fungi Beast",
+    "NAME": "Гљивна звер",
     "DIALOG": [
       ""
     ]
@@ -331,7 +331,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spiker",
+    "NAME": "Бушилица",
     "DIALOG": [
       ""
     ]
@@ -340,7 +340,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Taskmaster",
+    "NAME": "Наредбодавач",
     "DIALOG": [
       ""
     ]
@@ -349,47 +349,47 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Repulsor",
+    "NAME": "Одбијач",
     "DIALOG": [
       ""
     ]
   },
   "Looter": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Трзај",
+      "Пљачка"
     ],
     "NAME": "Looter",
     "DIALOG": [
-      "Give me your gold!",
-      "@NOOOoooo!@",
-      "Where's my smoke bomb... Let's see here...",
-      "Thanks for the money, hehe"
+      "Дај злато!",
+      "@НЕЕЕееее!@",
+      "Где ми је димна бомба... Да видимо овде...",
+      "Хвала за лову, хехе"
     ]
   },
   "Sentry": {
     "MOVES": [
-      "Disintegrate"
+      "Дезинтеграција"
     ],
-    "NAME": "Sentry",
+    "NAME": "Стражар",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseDefensive": {
     "MOVES": [
-      "Spit Web"
+      "Пљување мреже"
     ],
-    "NAME": "Louse",
+    "NAME": "Уш",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseNormal": {
     "MOVES": [
-      "Grow"
+      "Раст"
     ],
-    "NAME": "Louse",
+    "NAME": "Уш",
     "DIALOG": [
       ""
     ]
@@ -398,7 +398,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Puppeteer",
+    "NAME": "Луткар",
     "DIALOG": [
       ""
     ]
@@ -407,7 +407,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Shelled Parasite",
+    "NAME": "Оклопљени паразит",
     "DIALOG": [
       ""
     ]
@@ -416,18 +416,18 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Orb",
+    "NAME": "Сфера",
     "DIALOG": [
       ""
     ]
   },
   "Hexaghost": {
     "MOVES": [
-      "Inflame",
-      "Sear",
-      "Inferno"
+      "Распламсавање",
+      "Жигосање",
+      "Пакао"
     ],
-    "NAME": "Hexaghost",
+    "NAME": "Шестодух",
     "DIALOG": []
   },
   "HexaghostBody": {
@@ -442,17 +442,17 @@
   },
   "SlaverRed": {
     "MOVES": [
-      "Scrape",
-      "Entangle"
+      "Гребање",
+      "Упетљавање"
     ],
-    "NAME": "Slaver",
+    "NAME": "Тлачитељ",
     "DIALOG": [
       ""
     ]
   },
   "SlaverBlue": {
     "MOVES": [
-      "Rake"
+      "Грабуљање"
     ],
     "NAME": "Slaver",
     "DIALOG": [
@@ -461,45 +461,45 @@
   },
   "SlimeBoss": {
     "MOVES": [
-      "Slam",
-      "Preparing",
-      "Split",
-      "Goop Spray"
+      "Тресак",
+      "Припрема",
+      "Деоба",
+      "Прскање глиби"
     ],
-    "NAME": "Slime Boss",
+    "NAME": "Велика слуз",
     "DIALOG": [
-      "~Slime...~ NL #r~CRUSH!!!~",
+      "~Слуз...~ NL #r~СМРСКА!!!~",
       ""
     ]
   },
   "AcidSlime_L": {
     "MOVES": [
-      "Corrosive Spit",
-      "Split",
-      "Lick"
+      "Нагризајући попљув",
+      "Деоба",
+      "Лиз"
     ],
-    "NAME": "Acid Slime (L)",
+    "NAME": "Кисела слуз (В)",
     "DIALOG": [
       ""
     ]
   },
   "GremlinTsundere": {
     "MOVES": [
-      "Protect",
-      "Shield Bash"
+      "Заштита",
+      "Удар штитом"
     ],
-    "NAME": "Shield Gremlin",
+    "NAME": "Гремлин штитоноша",
     "DIALOG": [
       "",
-      "~Good~ ~bye...~",
-      "This is no good..."
+      "~Видимо~ ~се...~",
+      "Ово не иде на добро..."
     ]
   },
   "Lagavulin": {
     "MOVES": [
-      "Siphon Soul"
+      "Црпљење душе"
     ],
-    "NAME": "Lagavulin",
+    "NAME": "Лагавулин",
     "DIALOG": [
       "",
       "... NL .....",
@@ -512,16 +512,16 @@
       "Bellow",
       "Thrash"
     ],
-    "NAME": "Jaw Worm",
+    "NAME": "Црв чељушчар",
     "DIALOG": [
       ""
     ]
   },
   "Donu": {
     "MOVES": [
-      "Circle of Power"
+      "Круг моћи"
     ],
-    "NAME": "Donu",
+    "NAME": "Крофно",
     "DIALOG": [
       ""
     ]
@@ -530,16 +530,16 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Serpent",
+    "NAME": "Змија",
     "DIALOG": [
       ""
     ]
   },
   "BronzeAutomaton": {
     "MOVES": [
-      "HYPER BEAM"
+      "ХИПЕРЗРАК"
     ],
-    "NAME": "Bronze Automaton",
+    "NAME": "Бронзани аутоматон",
     "DIALOG": [
       ""
     ]
@@ -548,27 +548,27 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Mystic",
+    "NAME": "Мистик",
     "DIALOG": [
       ""
     ]
   },
   "GremlinFat": {
     "MOVES": [
-      "Smash"
+      "Слупавање"
     ],
-    "NAME": "Fat Gremlin",
+    "NAME": "Дебели гремлин",
     "DIALOG": [
       "",
       "",
-      "@Oh@ @no,@ NL @oh@ @no,@ NL @oH@ @NO!@"
+      "@О@ @не,@ NL @о@ @не,@ NL @О@ @НЕ!@"
     ]
   },
   "Deca": {
     "MOVES": [
       ""
     ],
-    "NAME": "Deca",
+    "NAME": "Каедра",
     "DIALOG": [
       ""
     ]
@@ -577,30 +577,30 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Book of Stabbing",
+    "NAME": "Књига убадања",
     "DIALOG": [
       ""
     ]
   },
   "AwakenedOne": {
     "MOVES": [
-      "Soul Strike",
-      "Dark Echo",
-      "Cleanse",
-      "Sludge"
+      "Ду",
+      "Мрачни одјек",
+      "Прочишћење",
+      "Муљ"
     ],
-    "NAME": "Awakened One",
+    "NAME": "Пробуђени",
     "DIALOG": [
-      "~Grr~ ~.~ ~.~ ~.~",
-      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
+      "~Грр~ ~.~ ~.~ ~.~",
+      "~Не~ ~.~ ~.~ ~.~ ~не~ ~.~ ~.~ NL ~.~ ~.~ ~не~ ~.~ ~.~ ~.~"
     ]
   },
   "SpikeSlime_L": {
     "MOVES": [
-      "Lick",
-      "Split"
+      "Лиз",
+      "Деоба"
     ],
-    "NAME": "Spike Slime (L)",
+    "NAME": "Шиљаста слуз (В)",
     "DIALOG": [
       ""
     ]
@@ -609,7 +609,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Fire Orb",
+    "NAME": "Пламена сфера",
     "DIALOG": [
       ""
     ]
@@ -618,37 +618,37 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spheric Guardian",
+    "NAME": "Сферни стражар",
     "DIALOG": [
-      "~Outsider~ NL ~Detected~"
+      "~Туђинац~ NL ~Откривен~"
     ]
   },
   "Darkling": {
     "MOVES": [
-      "Chomp! Chomp!"
+      "Згом! Згом!"
     ],
-    "NAME": "Darkling",
+    "NAME": "Мрки",
     "DIALOG": [
-      "Regrowing..."
+      "Обнављање..."
     ]
   },
   "Maw": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Maw",
+    "NAME": "Чељуст",
     "DIALOG": [
-      "@RRrrohrrRGHhh!!@"
+      "@РРррохррРГХхх!!@"
     ]
   },
   "GremlinNob": {
     "MOVES": [
-      "Skull Bash",
-      "Bull Rush"
+      "Улубљивање лобање",
+      "Сивоњски налет"
     ],
-    "NAME": "Gremlin Nob",
+    "NAME": "Гремлин ноб",
     "DIALOG": [
-      "@RRrroohrrRGHHhhh!!@"
+      "@РРрроохррРГХХххх!!@"
     ]
   }
 }

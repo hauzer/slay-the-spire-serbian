@@ -1,105 +1,105 @@
 {
-  "Ancient Potion": {
-	"NAME": "Древни напитак",
-    "DESCRIPTIONS": [
+	"Ancient Potion": {
+		"NAME": "Древни напитак",
+		"DESCRIPTIONS": [
 			"Задоби #b",
 			" #yЗаштиту."
-	]
-  },
-  "Block Potion": {
-	"NAME": "Напитак одбране",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Block Potion": {
+		"NAME": "Напитак одбране",
+		"DESCRIPTIONS": [
 			"Задоби #b",
 			" #yОдбране."
-	]
-  },
-  "Dexterity Potion": {
-	"NAME": "Напитак окретности",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Dexterity Potion": {
+		"NAME": "Напитак окретности",
+		"DESCRIPTIONS": [
 			"Задоби #b",
 			" #yОкретности."
-	]
-  },
-  "Elixir": {
-	"NAME": "Еликсир",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Elixir": {
+		"NAME": "Еликсир",
+		"DESCRIPTIONS": [
 			"",
 			"",
 			"#yИсцрпи све #yСтатусе и #yКлетве из руке.",
 			"",
 			"Није имало ефекта..."
-	]
-  },
-  "Energy Potion": {
-	"NAME": "Енергетски напитак",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Energy Potion": {
+		"NAME": "Енергетски напитак",
+		"DESCRIPTIONS": [
 			"Задоби #b",
 			" Енергије."
-	]
-  },
-  "Explosive Potion": {
-	"NAME": "Експлозивни напитак",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Explosive Potion": {
+		"NAME": "Експлозивни напитак",
+		"DESCRIPTIONS": [
 			"Задај #b",
 			" штете СВИМ непријатељима."
-	]
-  },
-  "Fire Potion": {
-	"NAME": "Ватрени напитак",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Fire Potion": {
+		"NAME": "Ватрени напитак",
+		"DESCRIPTIONS": [
 			"Задај #b",
 			" штете."
-	]
-  },
-  "Health Potion": {
-	"NAME": "Напитак здравља",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Health Potion": {
+		"NAME": "Напитак здравља",
+		"DESCRIPTIONS": [
 			"Зацели #b",
 			" ЗП-а."
-	]
-  },
-  "Poison Potion": {
-	"NAME": "Отровни напитак",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Poison Potion": {
+		"NAME": "Отровни напитак",
+		"DESCRIPTIONS": [
 			"Нанеси #b",
 			" #yОтрова."
-	]
-  },
-  "Potion Slot": {
-	"NAME": "Појас за напитке",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Potion Slot": {
+		"NAME": "Појас за напитке",
+		"DESCRIPTIONS": [
 			"Напицима се током борбе #gпобољшај или #rомети непријатеље.",
 			"Појас за напитке"
-	]
-  },
-    "Regen Potion": {
-	"NAME": "Напитак зацељивања",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Regen Potion": {
+		"NAME": "Напитак зацељивања",
+		"DESCRIPTIONS": [
 			"Зацели #b",
 			" #yЗП-а на крају сваког потеза следећих #b",
 			" потеза."
-	]
-  },
-  "Strength Potion": {
-	"NAME": "Напитак снаге",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Strength Potion": {
+		"NAME": "Напитак снаге",
+		"DESCRIPTIONS": [
 			"Gain #b",
 			" #yStrength."
-	]
-  },
-  "Swift Potion": {
-	"NAME": "Напитак брзине",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Swift Potion": {
+		"NAME": "Напитак брзине",
+		"DESCRIPTIONS": [
 			"",
 			"Вуци #b",
 			" карте."
-	]
-  },
-    "Weak Potion": {
-	"NAME": "Напитак слабости",
-    "DESCRIPTIONS": [
+		]
+	},
+	"Weak Potion": {
+		"NAME": "Напитак слабости",
+		"DESCRIPTIONS": [
 			"Нанеси #b",
 			" #yСлабости."
-	]
-  }
+		]
+	}
 }

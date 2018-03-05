@@ -1,7 +1,6 @@
 {
   "Apology Slime": {
-    "MOVES": [
-    ],
+    "MOVES": [],
     "NAME": "Apology Slime",
     "DIALOG": [
       ""
@@ -80,8 +79,8 @@
   },
   "Orb Walker": {
     "MOVES": [
-	  "Оснаживање"
-	],
+      "Оснаживање"
+    ],
     "NAME": "Ходајућа сфера",
     "DIALOG": [
       "Покрећем NL штитове."
@@ -218,8 +217,7 @@
     ]
   },
   "SpikeSlime_S": {
-    "MOVES": [
-    ],
+    "MOVES": [],
     "NAME": "Шиљаста слуз (М)",
     "DIALOG": [
       ""
@@ -275,8 +273,7 @@
     ]
   },
   "AcidSlime_S": {
-    "MOVES": [
-    ],
+    "MOVES": [],
     "NAME": "Кисела слуз (М)",
     "DIALOG": [
       ""

@@ -1,39 +1,39 @@
 {
   "Accuracy": {
-    "NAME": "Прецизност",
+    "NAME": "Accuracy",
     "DESCRIPTIONS": [
-      "#yНожеви задају #b",
-      " додатне штете."
+      "#yShivs deal #b",
+      " additional damage."
     ]
   },
   "After Image": {
-    "NAME": "Обриси",
+    "NAME": "After Image",
     "DESCRIPTIONS": [
-      "Сваки пут када одиграш карту, задоби #b",
-      " #yОдбране."
+      "Whenever you play a card, gain #b",
+      " #yBlock."
     ]
   },
   "Anger": {
-    "NAME": "Разбеснео",
+    "NAME": "Enrage",
     "DESCRIPTIONS": [
-      "Сваки пут кад одиграш #yУмеће, повећава му се #yСнага за #b.",
-      ""
+      "Whenever you play a #ySkill, gains #b",
+      " #yStrength."
     ]
   },
   "Angry": {
-    "NAME": "Љут",
+    "NAME": "Angry",
     "DESCRIPTIONS": [
-      "Сваки пут када ",
-      " прими штету од #yНапада, #yСнага му се повећава за #b.",
-      ""
+      "Whenever ",
+      " takes #yAttack damage, it gains #b",
+      " #yStrength."
     ]
   },
   "Artifact": {
-    "NAME": "Заштита",
+    "NAME": "Artifact",
     "DESCRIPTIONS": [
-      "Негира #b",
-      " негативан статус.",
-      " негативна статуса."
+      "Negates #b",
+      " debuff.",
+      " debuffs."
     ]
   },
   "Attack Burn": {
@@ -46,58 +46,58 @@
     ]
   },
   "Barricade": {
-    "NAME": "Забарикадиран",
+    "NAME": "Barricade",
     "DESCRIPTIONS": [
-      "#yОдбрана се не уклања на почетку потеза.",
-      "#yОдбрана се не уклања на почетку потеза."
+      "#yBlock is not removed at the start of your turn.",
+      "#yBlock is not removed at the start of turn."
     ]
   },
   "Blur": {
-    "NAME": "У трку",
+    "NAME": "Blur",
     "DESCRIPTIONS": [
-      "#yОдбрана се не уклања на почетку следећег потеза.",
-      "#yОдбрана се не уклања на почетку наредних потеза ( #b ).",
-      ""
+      "#yBlock is not removed at the start of your next turn.",
+      "#yBlock is not removed at the start of your next #b",
+      " turns."
     ]
   },
   "Brutality": {
-    "NAME": "Бруталност",
+    "NAME": "Brutality",
     "DESCRIPTIONS": [
-      "На почетку потеза, изгуби #b",
-      " ЗП-а и вуци #b",
-      " карту.",
-      "На почетку потеза, изгуби #b",
-      " ЗП-а и вуци #b",
-      " карте."
+      "At the start of your turn, lose #b",
+      " HP and draw #b",
+      " card.",
+      "At the start of your turn, lose #b",
+      " HP and draw #b",
+      " cards."
     ]
   },
   "Burst": {
-    "NAME": "Навала",
+    "NAME": "Burst",
     "DESCRIPTIONS": [
-      "Овај потез, следеће #yУмеће одиграј двапут.",
-      "Овај потез, следеће #yУмеће ",
-      " одиграј двапут."
+      "On this turn, play your next #ySkill twice.",
+      "On this turn, play your next ",
+      " #ySkills twice."
     ]
   },
   "Choked": {
-    "NAME": "Дављен",
+    "NAME": "Choked",
     "DESCRIPTIONS": [
-      "Губи #b",
-      " ЗП-а сваки пут када овај потез одиграш карту."
+      "Loses #b",
+      " HP whenever you play a card this turn."
     ]
   },
   "Combust": {
-    "NAME": "Сагоревање",
+    "NAME": "Combust",
     "DESCRIPTIONS": [
-      "На крају потеза, изгуби #b",
-      " ЗП-а и задај #b",
-      " штете СВИМ непријатељима."
+      "At the end of your turn, lose #b",
+      " HP and deal #b",
+      " damage to ALL enemies."
     ]
   },
   "Confusion": {
-    "NAME": "Збуњеност",
+    "NAME": "Confusion",
     "DESCRIPTIONS": [
-      "Свака карта коју вучеш добија насумични трошак."
+      "Whenever you draw a card, randomize its cost."
     ]
   },
   "Constricted": {
@@ -215,14 +215,6 @@
       " turns."
     ]
   },
-  "Electric Field": {
-    "NAME": "Electric Field",
-    "DESCRIPTIONS": [
-      "When attacked, deal #b1 damage for every #b",
-      " Charge you have.",
-      "When attacked, deal #b1 damage for every Charge you have."
-    ]
-  },
   "Energized": {
     "NAME": "Energized",
     "DESCRIPTIONS": [
@@ -256,8 +248,10 @@
   "Explosive": {
     "NAME": "Explosive",
     "DESCRIPTIONS": [
-      "On death, deals #b",
-      " damage to you."
+      "In #b",
+      " turns, explodes dealing #b",
+	  " damage.",
+	  "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {
@@ -317,13 +311,6 @@
       " [B] ."
     ]
   },
-  "Generator": {
-    "NAME": "Generator",
-    "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
-      " #yCharge."
-    ]
-  },
   "Hex": {
     "NAME": "Hex",
     "DESCRIPTIONS": [
@@ -337,13 +324,6 @@
       "You cannot take damage until the start of your next turn.",
       "You cannot take damage for #b",
       " turns."
-    ]
-  },
-  "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " Charge."
     ]
   },
   "Infinite Blades": {

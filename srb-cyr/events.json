@@ -728,8 +728,8 @@
       "[Buy 3 Potions] #y",
       " #yGold.",
       "[Leave]",
-      "[Leave] #rПрими #r",
-      " #rштете"
+      "[Leave] #rTake #r",
+      " #rDamage."
     ]
   }
 }

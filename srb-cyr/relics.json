@@ -1,1086 +1,1086 @@
 {
-	"Anchor": {
-		"NAME": "Сидро",
-		"FLAVOR": "Држећи ову минијатурну дрангулију, осећаш се теже и стабилније.",
-		"DESCRIPTIONS": [
-			"Започни сваку борбу са #b",
-			" #yОдбране."
-		]
-	},
-	"Art of War": {
-		"NAME": "Умеће ратовања",
-		"FLAVOR": "Овај древни рукопис садржи мудрост из минулих времена.",
-		"DESCRIPTIONS": [
-			"Ако не одиграш ниједан #yНапад током свог потеза, задоби додатну ",
-			"[R] следећи потез.",
-			"[G] следећи потез.",
-			"[B] следећи потез."
-		]
-	},
-	"Astrolabe": {
-		"NAME": "Астролаб",
-		"FLAVOR": "Алатка којом се од звезда дознаје непроцењиво знање.",
-		"DESCRIPTIONS": [
-			"При узимању, изабери и #yПреобрази #b3 карте, а потом их #yПобољшај.",
-			"Изабери 3 карте за "
-		]
-	},
-	"Bag of Marbles": {
-		"NAME": "Врећа кликера",
-		"FLAVOR": "Некад популарна играчка у Граду. Корисна као елемент изненађења у борби.",
-		"DESCRIPTIONS": [
-			"На почетку сваке борбе, нанеси #b",
-			" #yРањивости СВИМ непријатељима."
-		]
-	},
-	"Bag of Preparation": {
-		"NAME": "Торба припремљености",
-		"FLAVOR": "Превелики авантуристички ранац. Начичкан џеповима и каишевима.",
-		"DESCRIPTIONS": [
-			"На почетку сваке борбе, вуци #b",
-			" додатне карте."
-		]
-	},
-	"Bird Faced Urn": {
-		"NAME": "Птицолика урна",
-		"FLAVOR": "Ова урна приказује врану-бога Мазалета у враголастом расположењу.",
-		"DESCRIPTIONS": [
-			"Сваки пут када одиграш #yМоћ, зацели #b",
-			" ЗП-а."
-		]
-	},
-	"Black Blood": {
-		"NAME": "Црна крв",
-		"FLAVOR": "Бес потамљује.",
-		"DESCRIPTIONS": [
-			"Замењује #rГорућу #rКрв. На крају борбе, зацели #b",
-			" ЗП-а."
-		]
-	},
-	"Black Star": {
-		"NAME": "Црна звезда",
-		"FLAVOR": "Првобитно откривена у граду змије, поред усамљене свеће.",
-		"DESCRIPTIONS": [
-			"#yЕлите сада испуштају #b2 #yРеликвије."
-		]
-	},
-	"Blood Vial": {
-		"NAME": "Бочица крви",
-		"FLAVOR": "Садржи крв чистог и старог вампира.",
-		"DESCRIPTIONS": [
-			"На почетку сваке борбе, зацели #b",
-			" ЗП-а."
-		]
-	},
-	"Bloody Idol": {
-		"NAME": "Крвави идол",
-		"FLAVOR": "Из идола сада лије непрестана бујица крви.",
-		"DESCRIPTIONS": [
-			"Сваки пут када задобијеш #yЗлато, зацели #b",
-			" ЗП-а."
-		]
-	},
-	"Blue Candle": {
-		"NAME": "Плава свећа",
-		"FLAVOR": "Њен пламен оживљава само у мрклој тмини.",
-		"DESCRIPTIONS": [
-			"#yКлетве се сада могу одиграти. NL NL Одигравањем #yКлетве губиш #b",
-			" ЗП и #yИсцрпљујеш је."
-		]
-	},
-	"Bottled Flame": {
-		"NAME": "Пламен у тегли",
-		"FLAVOR": "У тегли пребива пламен који занавек гори.",
-		"DESCRIPTIONS": [
-			"При узимању, изабери Напад. На почетку сваког потеза, та карта ће ти бити у руци.",
-			"Изабери карту за ",
-			"На почетку сваке борбе, додај ",
-			" у руку."
-		]
-	},
-	"Bottled Lightning": {
-		"NAME": "Муња у тегли",
-		"FLAVOR": "Завиркивањем у ковитлајућу олују, примећујеш део себе како узвраћа поглед.",
-		"DESCRIPTIONS": [
-			"При узимању, изабери Умеће. На почетку сваког потеза, та карта ће ти бити у руци.",
-			"Изабери карту за ",
-			"На почетку сваке борбе, додај ",
-			" у руку."
-		]
-	},
-	"Bottled Tornado": {
-		"NAME": "Торнадо у тегли",
-		"FLAVOR": "Пробна реликвија.",
-		"DESCRIPTIONS": [
-			"При узимању, изабери Моћ. На почетку сваког потеза, та карта ће ти бити у руци.",
-			"Изабери карту за ",
-			"На почетку сваке борбе, додај ",
-			" у руку."
-		]
-	},
-	"Bronze Scales": {
-		"NAME": "Бронзана крљушт",
-		"FLAVOR": "Оштра Чуварева крљушт. Самообликује се не би ли заштитила свог корисника.",
-		"DESCRIPTIONS": [
-			"Сваки пут када примиш штету, узврати са #b",
-			" штете."
-		]
-	},
-	"Burning Blood": {
-		"NAME": "Горућа крв",
-		"FLAVOR": "Крв самог твог тела гори неугасивим бесом.",
-		"DESCRIPTIONS": [
-			"На крају борбе, зацели #b",
-			" ЗП-а."
-		]
-	},
-	"Calipers": {
-		"NAME": "Шестар",
-		"FLAVOR": "\"Механичка прецизност води до величанствености\" - Архитекта",
-		"DESCRIPTIONS": [
-			"На почетку потеза, губиш #b",
-			" #yОдбране уместо сву своју #yОдбрану."
-		]
-	},
-	"Calling Bell": {
-		"NAME": "Призивно звоно",
-		"FLAVOR": "Ово мрачно гвоздено звоно је зазвонило 3 пута када си га нашао, али је сада потпуно тихо.",
-		"DESCRIPTIONS": [
-			"Задоби #b3 #rКлетве и #b3 #yРеликвије.",
-			"Звоно одзвоњава...",
-			"Прескочи награде",
-			"Затвори"
-		]
-	},
-	"Cauldron": {
-		"NAME": "Котао",
-		"FLAVOR": "Трговац је заправо врло вешт кувач напитака. Купи 4, добијаш 1 џабе.",
-		"DESCRIPTIONS": [
-			"При узимању, скува #b5 насумичних напитака.",
-			"Бућ бљућ бућ...!"
-		]
-	},
-	"Centennial Puzzle": {
-		"NAME": "Стогодишња слагалица",
-		"FLAVOR": "Осећаш интензивну топлоту у грудима при решавању ове слагалице.",
-		"DESCRIPTIONS": [
-			"Први пут када изгубиш ЗП у борби, вуци #b",
-			" карте."
-		]
-	},
-	"Chameleon Ring": {
-		"NAME": "Chameleon Ring",
-		"FLAVOR": "Deprecated",
-		"DESCRIPTIONS": [
-			"You can now #yBrew at Rest Sites."
-		]
-	},
-	"Champion Belt": {
-		"NAME": "Шампионски појас",
-		"FLAVOR": "Само највећи могу носити овај појас.",
-		"DESCRIPTIONS": [
-			"Сваки пут када нанесеш #yРањивост, такође нанеси #b",
-			" #yСлабост."
-		]
-	},
-	"Charon's Ashes": {
-		"NAME": "Харонов пепео",
-		"FLAVOR": "За Харона је речено да је бог поновног рађања, вечно умирући и васкрсавајући у пламеној буктињи.",
-		"DESCRIPTIONS": [
-			"Сваки пут када #yИсцрпиш карту, нанеси #b",
-			" штете СВИМ непријатељима."
-		]
-	},
-	"Chemical X": {
-		"NAME": "Chemical X",
-		"FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
-		"DESCRIPTIONS": [
-			"Whenever you play a cost #bX card, its effects are increased by #b"
-		]
-	},
-	"Circlet": {
-		"NAME": "Дијадема",
-		"FLAVOR": "Пронашао си све реликвије. Импресивно!",
-		"DESCRIPTIONS": [
-			"Изгледа лепо."
-		]
-	},
-	"The Courier": {
-		"NAME": "Курир",
-		"FLAVOR": "Трговчев лични љубимац!",
-		"DESCRIPTIONS": [
-			"Трговац више не остаје без карата, реликвија, или напитака, и његове цене су умањене за #b20%."
-		]
-	},
-	"Cursed Key": {
-		"NAME": "Уклети кључ",
-		"FLAVOR": "Осећаш како из кључа зрачи злокобна енергија. Моћ увек има неку цену.",
-		"DESCRIPTIONS": [
-			" Сваки пут када отвориш не-вождовски ковчег, проклиње те једна #rКлетва.",
-			"Gain [R] at the start of each turn.",
-			"Gain [G] at the start of each turn.",
-			"Gain [B] at the start of each turn."
-		]
-	},
-	"Dead Branch": {
-		"NAME": "Мртва грана",
-		"FLAVOR": "Грана једног дрвета из заборављене ере.",
-		"DESCRIPTIONS": [
-			"Сваки пут када #yИсцрпиш карту, додај насумичну карту у руку."
-		]
-	},
-	"Discerning Monocle": {
-		"NAME": "Проницљиви монокл",
-		"FLAVOR": "Збиља један помодан монокл.",
-		"DESCRIPTIONS": [
-			"Трговчеве цене су умањене за #b20%"
-		]
-	},
-	"Dodecahedron": {
-		"NAME": "Рунски додекаедар",
-		"FLAVOR": "Руне су потпуно неразумљиве.",
-		"DESCRIPTIONS": [
-			"Ако си при пуним ЗП-има, задоби ",
-			"[R] на почетку сваког потеза.",
-			"[G] на почетку сваког потеза.",
-			"[B] на почетку сваког потеза."
-		]
-	},
-	"Dream Catcher": {
-		"NAME": "Хватач снова",
-		"FLAVOR": "Северна племена би често ноћу користила хватаче снова, верујући да воде самопобољшању.",
-		"DESCRIPTIONS": [
-			"Сваки пут кад се одмараш, можеш додати једну карту у шпил."
-		]
-	},
-	"Du-Vu Doll": {
-		"NAME": "Ду-Ву луткица",
-		"FLAVOR": "Луткица смишљена тако да црпи снагу из злокобне енергије.",
-		"DESCRIPTIONS": [
-			"За сваку #yКлетву у шпилу, започни борбу са +#b",
-			" на #yСнагу.",
-			" Немаш #yКлетве.",
-			" Имаш #yКлетве (#b",
-			")."
-		]
-	},
-	"Ectoplasm": {
-		"NAME": "Ектоплазма",
-		"FLAVOR": "Чини се да ова гомила слузи и енергије пулсира животом.",
-		"DESCRIPTIONS": [
-			" Више не можеш да покупиш #yЗлато.",
-			"Задоби [R] на почетку сваког потеза.",
-			"Задоби [G] на почетку сваког потеза.",
-			"Задоби [B] на почетку сваког потеза."
-		]
-	},
-	"Frozen Egg 2": {
-		"NAME": "Зелеђено јаје",
-		"FLAVOR": "Јаје стоји инертно и залеђено, никад да се излегне.",
-		"DESCRIPTIONS": [
-			"Сваки пут када додаш #yМоћ у шпил, #yПобољшана је."
-		]
-	},
-	"Molten Egg 2": {
-		"NAME": "Растопљено јаје",
-		"FLAVOR": "Јаје феникса. Вријућа лава сија усијаном црвеном.",
-		"DESCRIPTIONS": [
-			"Сваки пут када додаш #yНапад у шпил, #yПобољшан је."
-		]
-	},
-	"Toxic Egg 2": {
-		"NAME": "Отровно јаје",
-		"FLAVOR": "\"Какво величанствено откриће! Чини се да је ово инертно јаје неког магичног створења. Ко или шта га је створило?\" - Рануид",
-		"DESCRIPTIONS": [
-			"Сваки пут када додаш #yВештину у шпил, #yПобољшана је."
-		]
-	},
-	"Enchiridion": {
-		"NAME": "Енхиридион",
-		"FLAVOR": "Легендардни дневник једног древног лича.",
-		"DESCRIPTIONS": [
-			"На почетку борбе, додај насумичну #yМоћ у руку. Кошта #b0 до краја потеза."
-		]
-	},
-	"Eternal Feather": {
-		"NAME": "Вечно перо",
-		"FLAVOR": "Ово перо се чини потпуно неуништивим. Од какве врсте птице би уопште могло да потекне? ",
-		"DESCRIPTIONS": [
-			"За сваких #b",
-			" карата у шпилу, зацели #b",
-			" ЗП-а сваки пут када уђеш у Одмаралиште."
-		]
-	},
-	"Frozen Egg": {
-		"NAME": "Frozen Egg",
-		"FLAVOR": "The egg lies inert and frozen, never to hatch.",
-		"DESCRIPTIONS": [
-			"Upon pick up, choose and #yUpgrade a #yPower.",
-			"Choose a card for "
-		]
-	},
-	"Gambling Chip": {
-		"NAME": "Коцкарски чип",
-		"FLAVOR": "Видиш мали запис на једној страни. Каже: \"Медин талични чип!\"",
-		"DESCRIPTIONS": [
-			"На почетку сваке борбе, одбаци било који број карата, потом вуци исто толико."
-		]
-	},
-	"Ginger": {
-		"NAME": "Ђумбир",
-		"FLAVOR": "Потентна алатка у многим тоницима.",
-		"DESCRIPTIONS": [
-			"Више не можеш бити #yОслабљен."
-		]
-	},
-	"Girya": {
-		"NAME": "Гирја",
-		"FLAVOR": "Ова гирја је незамисливо тешка. Тренингом овим би могао значајно да ојачаш.",
-		"DESCRIPTIONS": [
-			"Можеш да повећаш своју #yСнагу на Одмаралиштима. (до највише трипут)"
-		]
-	},
-	"Golden Idol": {
-		"NAME": "Златни идол",
-		"FLAVOR": "Начињен од сувог злата. Само држећи га се осећаш богатије.",
-		"DESCRIPTIONS": [
-			"Непријатељи испуштају #b25% више #yЗлата."
-		]
-	},
-	"Gremlin Horn": {
-		"NAME": "Гремлински рог",
-		"FLAVOR": "\"Гремлини вође могу да расту све до смрти. Изузетно.\" - Рануид",
-		"DESCRIPTIONS": [
-			"Whenever an enemy dies, gain ",
-			"[R] and draw #b1 card.",
-			"[G] and draw #b1 card.",
-			"[B] and draw #b1 card."
-		]
-	},
-	"Happy Flower": {
-		"NAME": "Срећни цвет",
-		"FLAVOR": "Ова непрестано весела биљка је популарна новотарија међу племићима.",
-		"DESCRIPTIONS": [
-			"Свака #b",
-			" круга, задоби [R] .",
-			" круга, задоби [G] .",
-			" круга, задоби [B] ."
-		]
-	},
-	"Ice Cream": {
-		"NAME": "Сладолед",
-		"FLAVOR": "\"Преукусно!\"",
-		"DESCRIPTIONS": [
-			"Енергија се сада чува између потеза."
-		]
-	},
-	"Juzu Bracelet": {
-		"NAME": "Јузу бројаница",
-		"FLAVOR": "Заштита од непознатог.",
-		"DESCRIPTIONS": [
-			"Обични непријатељи се више не срећу у #y? собама."
-		]
-	},
-	"Kunai": {
-		"NAME": "Кунаи",
-		"FLAVOR": "Нож омиљен међу убицама због своје убојитости на даљину.",
-		"DESCRIPTIONS": [
-			"Сваки пут када одиграш #b",
-			" #yНапада у једном потезу, задоби #b",
-			" #yОкретност."
-		]
-	},
-	"Lantern": {
-		"NAME": "Фењер",
-		"FLAVOR": "Језиви фењер који осветљава само свом носиоцу.",
-		"DESCRIPTIONS": [
-			"Задоби ",
-			"[R] ",
-			"[G] ",
-			"[B] ",
-			"у првом потезу сваке борбе."
-		]
-	},
-	"Letter Opener": {
-		"NAME": "Отварач за писма",
-		"FLAVOR": "Неприродно оштар.",
-		"DESCRIPTIONS": [
-			"Сваки пут када одиграш #b3 Вештине у једном потезу, задај #b",
-			" штете СВИМ непријатељима."
-		]
-	},
-	"Living Blade": {
-		"NAME": "Living Blade",
-		"FLAVOR": "DEPRECATED",
-		"DESCRIPTIONS": [
-			"You can get any number of any card."
-		]
-	},
-	"Lizard Tail": {
-		"NAME": "Гуштеров реп",
-		"FLAVOR": "Лажни реп за замајавање непријатеља током борбе.",
-		"DESCRIPTIONS": [
-			"Уместо да умреш, зацели се до #b50% својих макс. ЗП-а (само једанпут)."
-		]
-	},
-	"Magic Flower": {
-		"NAME": "Магични цвет",
-		"FLAVOR": "Цвет за који се мислило да је одавно изумро, некако савршено очуван.",
-		"DESCRIPTIONS": [
-			"Зацељивање је #b50% делотворније током борбе."
-		]
-	},
-	"Mango": {
-		"NAME": "Манго",
-		"FLAVOR": "Најтраженије заборављено воће. Беспрекорно сачуван, без знакова торањобуђи.",
-		"DESCRIPTIONS": [
-			"Повећај своје макс. ЗП-е за #b"
-		]
-	},
-	"Mark of Pain": {
-		"NAME": "Жиг бола",
-		"FLAVOR": "Овај знак је био коришћен међу северним племенима за обележивање ратника који су овладали болом у борби.",
-		"DESCRIPTIONS": [
-			"Задоби [R] на почетку сваког круга. Започињеш борбе са #b2 #rРане у гомили за вучење."
-		]
-	},
-	"Matryoshka": {
-		"NAME": "Бабушка",
-		"FLAVOR": "Сет обојених луткица које се стављају једна у другу. Слика представља непознату птицу са белим очима и плавим перима.",
-		"DESCRIPTIONS": [
-			"Следећа #b2 ковчега која отвориш садрже #b2 #yреликвије. (Изузев вождовских ковчега)",
-			"Следећи ковчег који отвориш садржи #b2 #yреликвије. (Изузев вождовских ковчега)",
-			"Реликвија је истрошена."
-		]
-	},
-	"Meat on the Bone": {
-		"NAME": "Meat on the Bone",
-		"FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
-		"DESCRIPTIONS": [
-			"If your HP is at or below #b50% at the end of combat, heal #b",
-			" HP."
-		]
-	},
-	"Medical Kit": {
-		"NAME": "Medical Kit",
-		"FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
-		"DESCRIPTIONS": [
-			"#yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
-		]
-	},
-	"Membership Card": {
-		"NAME": "Membership Card",
-		"FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
-		"DESCRIPTIONS": [
-			"In future acts, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
-		]
-	},
-	"Mercury Hourglass": {
-		"NAME": "Mercury Hourglass",
-		"FLAVOR": "An enchanted hourglass that endlessly drips.",
-		"DESCRIPTIONS": [
-			"At the start of your turn, deal #b",
-			" damage to ALL enemies."
-		]
-	},
-	"Molten Egg": {
-		"NAME": "Molten Egg",
-		"FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
-		"DESCRIPTIONS": [
-			"Upon pick up, choose and #yUpgrade an #yAttack.",
-			"Choose a card for "
-		]
-	},
-	"Mummified Hand": {
-		"NAME": "Mummified Hand",
-		"FLAVOR": "Frequently twitches, especially when your pulse is high.",
-		"DESCRIPTIONS": [
-			"Whenever you play a #yPower, a random card in your hand costs #b0 for the turn."
-		]
-	},
-	"Necronomicon": {
-		"NAME": "Necronomicon",
-		"FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
-		"DESCRIPTIONS": [
-			"The first #yAttack played each turn that costs #b",
-			" or more is played twice. When you take this relic, become #rCursed.",
-			" or more is played twice."
-		]
-	},
-	"Nilry's Codex": {
-		"NAME": "Nilry's Codex",
-		"FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
-		"DESCRIPTIONS": [
-			"At the end of each turn, you can choose #b1 of #b3 random cards to shuffle into your draw pile."
-		]
-	},
-	"Nine Lives": {
-		"NAME": "Nine Lives",
-		"FLAVOR": "DEPRECATED.",
-		"DESCRIPTIONS": [
-			"When you would die, heal to full HP instead. NL (Works #b9 times)",
-			"When you would die, heal to full HP instead. NL (No more lives)",
-			"When you would die, heal to full HP instead. NL (Works #b",
-			" more times)"
-		]
-	},
-	"Ninja Scroll": {
-		"NAME": "Ninja Scroll",
-		"FLAVOR": "Contains the secrets of assassination.",
-		"DESCRIPTIONS": [
-			"Start each combat with #b",
-			" #yShivs in hand."
-		]
-	},
-	"Nloth's Gift": {
-		"NAME": "Nloth's Gift",
-		"FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
-		"DESCRIPTIONS": [
-			"#bTriples the chance of receiving rare cards as monster rewards."
-		]
-	},
-	"Nullstone Periapt": {
-		"NAME": "Nullstone Periapt",
-		"FLAVOR": "DEPRECATED.",
-		"DESCRIPTIONS": [
-			"Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
-		]
-	},
-	"Oddly Smooth Stone": {
-		"NAME": "Oddly Smooth Stone",
-		"FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
-		"DESCRIPTIONS": [
-			"At the start of each combat, gain #b",
-			" #yDexterity."
-		]
-	},
-	"Odd Mushroom": {
-		"NAME": "Odd Mushroom",
-		"FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
-		"DESCRIPTIONS": [
-			"When #yVulnerable, take #b25% more damage rather than #b50%."
-		]
-	},
-	"Old Coin": {
-		"NAME": "Old Coin",
-		"FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
-		"DESCRIPTIONS": [
-			"Gain #b300 #yGold."
-		]
-	},
-	"Omamori": {
-		"NAME": "Omamori",
-		"FLAVOR": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
-		"DESCRIPTIONS": [
-			"Negate the next #b2 #rCurses you obtain.",
-			"Negate the next #rCurse you obtain.",
-			"This relic is all used up."
-		]
-	},
-	"Orichalcum": {
-		"NAME": "Orichalcum",
-		"FLAVOR": "A green tinted metal of an unknown origin. Seemingly indestructible.",
-		"DESCRIPTIONS": [
-			"If you end your turn without #yBlock, gain #b",
-			" #yBlock."
-		]
-	},
-	"Ornamental Fan": {
-		"NAME": "Ornamental Fan",
-		"FLAVOR": "The fan seems to extend and harden as blood is spilled.",
-		"DESCRIPTIONS": [
-			"Every time you play #b3 #yAttacks in a single turn, gain #b",
-			" #yBlock."
-		]
-	},
-	"Orrery": {
-		"NAME": "Orrery",
-		"FLAVOR": "\"Once you understand the universe...\" - Zoroth",
-		"DESCRIPTIONS": [
-			"Choose and add #b5 cards to your deck.",
-			"Knowledge!"
-		]
-	},
-	"Pandora's Box": {
-		"NAME": "Pandora's Box",
-		"FLAVOR": "You have a bad feeling about opening this.",
-		"DESCRIPTIONS": [
-			"#bTransform all Strikes and Defends.",
-			"Pandoras Box has been opened..."
-		]
-	},
-	"Pantograph": {
-		"NAME": "Pantograph",
-		"FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
-		"DESCRIPTIONS": [
-			"At the start of boss combats, heal #b",
-			" HP."
-		]
-	},
-	"Paper Crane": {
-		"NAME": "Paper Krane",
-		"FLAVOR": "An origami of a creature from a past age.",
-		"DESCRIPTIONS": [
-			"Enemies with #yWeak deal #b50% less damage rather than #b25%."
-		]
-	},
-	"Paper Frog": {
-		"NAME": "Paper Phrog",
-		"FLAVOR": "The paper continually folds and unfolds itself into the shape of a small creature.",
-		"DESCRIPTIONS": [
-			"Enemies with #yVulnerable take #b75% more damage rather than #b50%."
-		]
-	},
-	"Peace Pipe": {
-		"NAME": "Peace Pipe",
-		"FLAVOR": "Clears the mind and cleanses the soul.",
-		"DESCRIPTIONS": [
-			"You can now remove cards from your deck at Rest Sites."
-		]
-	},
-	"Pear": {
-		"NAME": "Pear",
-		"FLAVOR": "A common fruit before the Spireblight.",
-		"DESCRIPTIONS": [
-			"Raise your Max HP by #b"
-		]
-	},
-	"Pen Nib": {
-		"NAME": "Pen Nib",
-		"FLAVOR": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.",
-		"DESCRIPTIONS": [
-			"Every #b10th #yAttack you play deals double damage."
-		]
-	},
-	"Philosopher's Stone": {
-		"NAME": "Philosopher's Stone",
-		"FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
-		"DESCRIPTIONS": [
-			" ALL enemies start with #b2 #yStrength.",
-			"Gain [R] at the start of each turn.",
-			"Gain [G] at the start of each turn.",
-			"Gain [B] at the start of each turn."
-		]
-	},
-	"Prayer Wheel": {
-		"NAME": "Prayer Wheel",
-		"FLAVOR": "The wheel continues to spin, never stopping.",
-		"DESCRIPTIONS": [
-			"Non-Boss chests now also contain cards."
-		]
-	},
-	"Question Card": {
-		"NAME": "Question Card",
-		"FLAVOR": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great",
-		"DESCRIPTIONS": [
-			"On Card Reward screens you have #y1 #yadditional #ycard to choose from."
-		]
-	},
-	"Red Circlet": {
-		"NAME": "Red Circlet",
-		"FLAVOR": "You ran out of relics. Impressive!",
-		"DESCRIPTIONS": [
-			"Looks very pretty."
-		]
-	},
-	"Red Mask": {
-		"NAME": "Red Mask",
-		"FLAVOR": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
-		"DESCRIPTIONS": [
-			"At the start of each combat, apply #b",
-			" #yWeak to ALL enemies."
-		]
-	},
-	"Red Skull": {
-		"NAME": "Red Skull",
-		"FLAVOR": "A small skull covered in ornamental paint.",
-		"DESCRIPTIONS": [
-			"While your HP is at or below #b50%, you have #b",
-			" additional #yStrength."
-		]
-	},
-	"Regal Pillow": {
-		"NAME": "Regal Pillow",
-		"FLAVOR": "Now you can get a proper night's rest.",
-		"DESCRIPTIONS": [
-			"Heal an additional #b",
-			" HP when you #yRest."
-		]
-	},
-	"Ring of the Serpent": {
-		"NAME": "Ring of the Serpent",
-		"DESCRIPTIONS": [
-			"Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
-		]
-	},
-	"Runic Cube": {
-		"NAME": "Runic Cube",
-		"FLAVOR": "The runes are indecipherable.",
-		"DESCRIPTIONS": [
-			"Whenever you lose HP, draw #b",
-			" card.",
-			""
-		]
-	},
-	"Runic Dome": {
-		"NAME": "Runic Dome",
-		"FLAVOR": "The runes are indecipherable.",
-		"DESCRIPTIONS": [
-			"at the start of each turn. You can no longer see enemy #bIntents.",
-			"Gain [R] ",
-			"Gain [G] ",
-			"Gain [B] "
-		]
-	},
-	"Runic Pyramid": {
-		"NAME": "Runic Pyramid",
-		"FLAVOR": "The runes are indecipherable.",
-		"DESCRIPTIONS": [
-			"At the end of your turn, you no longer discard your hand. NL Draw #b",
-			" less card each turn."
-		]
-	},
-	"Self Forming Clay": {
-		"NAME": "Self-Forming Clay",
-		"FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
-		"DESCRIPTIONS": [
-			"Whenever you lose HP in combat, gain #b",
-			" #yBlock next turn."
-		]
-	},
-	"Shovel": {
-		"NAME": "Shovel",
-		"FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
-		"DESCRIPTIONS": [
-			"You can now #yDig for loot at Rest Sites."
-		]
-	},
-	"Shuriken": {
-		"NAME": "Shuriken",
-		"FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
-		"DESCRIPTIONS": [
-			"Every time you play #b",
-			" #yAttacks in a single turn, gain #b",
-			" #yStrength."
-		]
-	},
-	"Singing Bowl": {
-		"NAME": "Singing Bowl",
-		"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
-		"DESCRIPTIONS": [
-			"When adding cards to your deck, you may gain #b+2 Max HP instead."
-		]
-	},
-	"Smiling Mask": {
-		"NAME": "Smiling Mask",
-		"FLAVOR": "Mask worn by the merchant. He must have spares...",
-		"DESCRIPTIONS": [
-			"The merchant's card removal service now always costs #b",
-			" #yGold."
-		]
-	},
-	"Ring of the Snake": {
-		"NAME": "Ring of the Snake",
-		"FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
-		"DESCRIPTIONS": [
-			"At the start of each combat, draw #b",
-			" additional cards."
-		]
-	},
-	"Snecko Eye": {
-		"NAME": "Snecko Eye",
-		"FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
-		"DESCRIPTIONS": [
-			"Draw #b2 additional cards each turn. Start each combat #yConfused."
-		]
-	},
-	"Snake Skull": {
-		"NAME": "Snecko Skull",
-		"FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
-		"DESCRIPTIONS": [
-			"Whenever you apply #yPoison, apply an additional #b",
-			" #yPoison."
-		]
-	},
-	"Sozu": {
-		"NAME": "Sozu",
-		"FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
-		"DESCRIPTIONS": [
-			" You can no longer obtain potions. ",
-			"Gain [R] at the start of each turn.",
-			"Gain [G] at the start of each turn.",
-			"Gain [B] at the start of each turn."
-		]
-	},
-	"Spirit Poop": {
-		"NAME": "Spirit Poop",
-		"FLAVOR": "The charred remains of your offering to the spirits.",
-		"DESCRIPTIONS": [
-			"It's unpleasant."
-		]
-	},
-	"Strange Spoon": {
-		"NAME": "Strange Spoon",
-		"FLAVOR": "Staring at the spoon, it appears to bend and twist around before your eyes.",
-		"DESCRIPTIONS": [
-			"Cards which #yExhaust when played will instead discard #b50% of the time."
-		]
-	},
-	"Strawberry": {
-		"NAME": "Strawberry",
-		"FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
-		"DESCRIPTIONS": [
-			"Raise your Max HP by #b"
-		]
-	},
-	"Sundial": {
-		"NAME": "Sundial",
-		"FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
-		"DESCRIPTIONS": [
-			"Every #b",
-			" times you shuffle your deck, gain [R] [R] .",
-			" times you shuffle your deck, gain [G] [G] .",
-			" times you shuffle your deck, gain [B] [B] ."
-		]
-	},
-	"Ancient Tea Set": {
-		"NAME": "Ancient Tea Set",
-		"FLAVOR": "The key to a refreshing night's rest.",
-		"DESCRIPTIONS": [
-			"Whenever you enter a Rest Site, start the next combat with [R] [R] .",
-			"Whenever you enter a Rest Site, start the next combat with [G] [G] .",
-			"Whenever you enter a Rest Site, start the next combat with [B] [B] ."
-		]
-	},
-	"War Paint": {
-		"NAME": "War Paint",
-		"FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
-		"DESCRIPTIONS": [
-			"Upon pick up, #yUpgrade #b",
-			" random #ySkills."
-		]
-	},
-	"Darkstone Periapt": {
-		"NAME": "Darkstone Periapt",
-		"FLAVOR": "The stone draws power from dark energy, converting it into vitality for the wearer.",
-		"DESCRIPTIONS": [
-			"Whenever you obtain a #yCurse, increase your Max HP by #b"
-		]
-	},
-	"Test 1": {
-		"NAME": "Test 1",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"Whenever you use a potion, gain ",
-			" [R] .",
-			" [G] .",
-			" [B] ."
-		]
-	},
-	"Frozen Eye": {
-		"NAME": "Frozen Eye",
-		"FLAVOR": "No description.",
-		"DESCRIPTIONS": [
-			"When viewing your #yDraw #yPile, the cards are now shown in order."
-		]
-	},
-	"Test 2": {
-		"NAME": "Test 2",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"When viewing your #yDraw #yPile, the cards are now shown in order."
-		]
-	},
-	"Test 3": {
-		"NAME": "Test 3",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"When obtained, #yUpgrade all of your #yDefend cards."
-		]
-	},
-	"Test 4": {
-		"NAME": "Test 4",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"At the start of combat, the cost of all #yStrike cards are set to #b0."
-		]
-	},
-	"Test 5": {
-		"NAME": "Test 5",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"Upon pick up, #yUpgrade #b",
-			" random #ySkills."
-		]
-	},
-	"Test 6": {
-		"NAME": "Test 6",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"At the end of each turn, gain #b",
-			" #yBlock for every #b",
-			" #yGold you have."
-		]
-	},
-	"Test 7": {
-		"NAME": "Test 7",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"#yElites now drop #b2 #yRelics when defeated."
-		]
-	},
-	"Test 8": {
-		"NAME": "Test 8",
-		"FLAVOR": "Test relic for beta. If you like it, let the devs know.",
-		"DESCRIPTIONS": [
-			"Draw #b2 additional cards each turn. Start each combat #yConfused."
-		]
-	},
-	"The Specimen": {
-		"NAME": "The Specimen",
-		"FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
-		"DESCRIPTIONS": [
-			"Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
-		]
-	},
-	"Thread and Needle": {
-		"NAME": "Thread and Needle",
-		"FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
-		"DESCRIPTIONS": [
-			"At the start of each combat, gain #b",
-			" #yPlated #yArmor."
-		]
-	},
-	"Tingsha": {
-		"NAME": "Tingsha",
-		"FLAVOR": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
-		"DESCRIPTIONS": [
-			"Whenever you discard a card during your turn, deal #b",
-			" damage to a random enemy for each card discarded."
-		]
-	},
-	"Tiny Chest": {
-		"NAME": "Tiny Chest",
-		"FLAVOR": "\"A fine prototype.\" - The Architect",
-		"DESCRIPTIONS": [
-			"Gain #b",
-			" #yGold. You are #b10% more likely to find treasure in ? rooms.",
-			"You are #b10% more likely to find treasure in ? rooms."
-		]
-	},
-	"Tiny House": {
-		"NAME": "Tiny House",
-		"FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
-		"DESCRIPTIONS": [
-			"Obtain #b1 potion. NL Gain #b",
-			" #yGold. NL Raise your Max HP by #b",
-			". NL Obtain #b1 card. NL Upgrade #b1 random card.",
-			"Tiny House!"
-		]
-	},
-	"Toolbox": {
-		"NAME": "Toolbox",
-		"FLAVOR": "A tool for every job.",
-		"DESCRIPTIONS": [
-			"At the start of each combat, add a random colorless card to your hand."
-		]
-	},
-	"Torii": {
-		"NAME": "Torii",
-		"FLAVOR": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
-		"DESCRIPTIONS": [
-			"Whenever you would receive #b",
-			" or less unblocked #yAttack damage, reduce it to #b1."
-		]
-	},
-	"Tough Bandages": {
-		"NAME": "Tough Bandages",
-		"FLAVOR": "Loss gives strength.",
-		"DESCRIPTIONS": [
-			"Whenever you discard a card during your turn, gain #b",
-			" #yBlock."
-		]
-	},
-	"Toxic Egg": {
-		"NAME": "Toxic Egg",
-		"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
-		"DESCRIPTIONS": [
-			"Upon pick up, choose and #yUpgrade a #ySkill.",
-			"Choose a card for "
-		]
-	},
-	"Toy Ornithopter": {
-		"NAME": "Toy Ornithopter",
-		"FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
-		"DESCRIPTIONS": [
-			"Whenever you use a potion, heal #b",
-			" HP."
-		]
-	},
-	"Unceasing Top": {
-		"NAME": "Unceasing Top",
-		"FLAVOR": "The top continues to spin effortlessly as if you were in a dream.",
-		"DESCRIPTIONS": [
-			"Whenever you have no cards in hand during your turn, draw a card."
-		]
-	},
-	"Vajra": {
-		"NAME": "Vajra",
-		"FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
-		"DESCRIPTIONS": [
-			"At the start of each combat, gain #b",
-			" #yStrength."
-		]
-	},
-	"Velvet Choker": {
-		"NAME": "Velvet Choker",
-		"FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
-		"DESCRIPTIONS": [
-			"You cannot play more than #b",
-			" cards per turn.",
-			"Gain [R] at the start of each turn. ",
-			"Gain [G] at the start of each turn. ",
-			"Gain [B] at the start of each turn. ",
-			"I can only play up to NL #r"
-		]
-	},
-	"Lee's Waffle": {
-		"NAME": "Lee's Waffle",
-		"FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
-		"DESCRIPTIONS": [
-			"Raise your Max HP by #b",
-			" and heal all of your HP."
-		]
-	},
-	"Whetstone": {
-		"NAME": "Whetstone",
-		"FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
-		"DESCRIPTIONS": [
-			"Upon pick up, #yUpgrade #b",
-			" random #yAttacks."
-		]
-	},
-	"Derp Rock": {
-		"NAME": "Derp Rock",
-		"FLAVOR": "Placeholder",
-		"DESCRIPTIONS": [
-			"At the start of each turn, gain #b",
-			" Charge. NL (Cannot be removed or transformed.)"
-		]
-	},
-	"NeowsBlessing": {
-		"NAME": "Neow's Lament",
-		"FLAVOR": "The blessing of lamentation bestowed by Neow.",
-		"DESCRIPTIONS": [
-			"Enemies in your first #b3 combats will have 1 HP.",
-			"The blessing is used up."
-		]
-	},
-	"White Beast Statue": {
-		"NAME": "White Beast Statue",
-		"FLAVOR": "A small white statue of a creature you have never seen before.",
-		"DESCRIPTIONS": [
-			"Potions always drop after combat."
-		]
-	}
+  "Anchor": {
+    "NAME": "Сидро",
+    "FLAVOR": "Држећи ову минијатурну дрангулију, осећаш се теже и стабилније.",
+    "DESCRIPTIONS": [
+      "Започни сваку борбу са #b",
+      " #yОдбране."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Умеће ратовања",
+    "FLAVOR": "Овај древни рукопис садржи мудрост из минулих времена.",
+    "DESCRIPTIONS": [
+      "Ако не одиграш ниједан #yНапад током свог потеза, задоби додатну ",
+      "[R] следећи потез.",
+      "[G] следећи потез.",
+      "[B] следећи потез."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Астролаб",
+    "FLAVOR": "Алатка којом се од звезда дознаје непроцењиво знање.",
+    "DESCRIPTIONS": [
+      "При узимању, изабери и #yПреобрази #b3 карте, а потом их #yПобољшај.",
+      "Изабери 3 карте за "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Врећа кликера",
+    "FLAVOR": "Некад популарна играчка у Граду. Корисна као елемент изненађења у борби.",
+    "DESCRIPTIONS": [
+      "На почетку сваке борбе, нанеси #b",
+      " #yРањивости СВИМ непријатељима."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Торба припремљености",
+    "FLAVOR": "Превелики авантуристички ранац. Начичкан џеповима и каишевима.",
+    "DESCRIPTIONS": [
+      "На почетку сваке борбе, вуци #b",
+      " додатне карте."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Птицолика урна",
+    "FLAVOR": "Ова урна приказује врану-бога Мазалета у враголастом расположењу.",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #yМоћ, зацели #b",
+      " ЗП-а."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Црна крв",
+    "FLAVOR": "Бес потамљује.",
+    "DESCRIPTIONS": [
+      "Замењује #rГорућу #rКрв. На крају борбе, зацели #b",
+      " ЗП-а."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Црна звезда",
+    "FLAVOR": "Првобитно откривена у граду змије, поред усамљене свеће.",
+    "DESCRIPTIONS": [
+      "#yЕлите сада испуштају #b2 #yРеликвије."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Бочица крви",
+    "FLAVOR": "Садржи крв чистог и старог вампира.",
+    "DESCRIPTIONS": [
+      "На почетку сваке борбе, зацели #b",
+      " ЗП-а."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Крвави идол",
+    "FLAVOR": "Из идола сада лије непрестана бујица крви.",
+    "DESCRIPTIONS": [
+      "Сваки пут када задобијеш #yЗлато, зацели #b",
+      " ЗП-а."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Плава свећа",
+    "FLAVOR": "Њен пламен оживљава само у мрклој тмини.",
+    "DESCRIPTIONS": [
+      "#yКлетве се сада могу одиграти. NL NL Одигравањем #yКлетве губиш #b",
+      " ЗП и #yИсцрпљујеш је."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Пламен у тегли",
+    "FLAVOR": "У тегли пребива пламен који занавек гори.",
+    "DESCRIPTIONS": [
+      "При узимању, изабери Напад. На почетку сваког потеза, та карта ће ти бити у руци.",
+      "Изабери карту за ",
+      "На почетку сваке борбе, додај ",
+      " у руку."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Муња у тегли",
+    "FLAVOR": "Завиркивањем у ковитлајућу олују, примећујеш део себе како узвраћа поглед.",
+    "DESCRIPTIONS": [
+      "При узимању, изабери Умеће. На почетку сваког потеза, та карта ће ти бити у руци.",
+      "Изабери карту за ",
+      "На почетку сваке борбе, додај ",
+      " у руку."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Торнадо у тегли",
+    "FLAVOR": "Пробна реликвија.",
+    "DESCRIPTIONS": [
+      "При узимању, изабери Моћ. На почетку сваког потеза, та карта ће ти бити у руци.",
+      "Изабери карту за ",
+      "На почетку сваке борбе, додај ",
+      " у руку."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Бронзана крљушт",
+    "FLAVOR": "Оштра Чуварева крљушт. Самообликује се не би ли заштитила свог корисника.",
+    "DESCRIPTIONS": [
+      "Сваки пут када примиш штету, узврати са #b",
+      " штете."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Горућа крв",
+    "FLAVOR": "Крв самог твог тела гори неугасивим бесом.",
+    "DESCRIPTIONS": [
+      "На крају борбе, зацели #b",
+      " ЗП-а."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Шестар",
+    "FLAVOR": "\"Механичка прецизност води до величанствености\" - Архитекта",
+    "DESCRIPTIONS": [
+      "На почетку потеза, губиш #b",
+      " #yОдбране уместо сву своју #yОдбрану."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Призивно звоно",
+    "FLAVOR": "Ово мрачно гвоздено звоно је зазвонило 3 пута када си га нашао, али је сада потпуно тихо.",
+    "DESCRIPTIONS": [
+      "Задоби #b3 #rКлетве и #b3 #yРеликвије.",
+      "Звоно одзвоњава...",
+      "Прескочи награде",
+      "Затвори"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Котао",
+    "FLAVOR": "Трговац је заправо врло вешт кувач напитака. Купи 4, добијаш 1 џабе.",
+    "DESCRIPTIONS": [
+      "При узимању, скува #b5 насумичних напитака.",
+      "Бућ бљућ бућ...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Стогодишња слагалица",
+    "FLAVOR": "Осећаш интензивну топлоту у грудима при решавању ове слагалице.",
+    "DESCRIPTIONS": [
+      "Први пут када изгубиш ЗП у борби, вуци #b",
+      " карте."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Chameleon Ring",
+    "FLAVOR": "Deprecated",
+    "DESCRIPTIONS": [
+      "You can now #yBrew at Rest Sites."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Шампионски појас",
+    "FLAVOR": "Само највећи могу носити овај појас.",
+    "DESCRIPTIONS": [
+      "Сваки пут када нанесеш #yРањивост, такође нанеси #b",
+      " #yСлабост."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Харонов пепео",
+    "FLAVOR": "За Харона је речено да је бог поновног рађања, вечно умирући и васкрсавајући у пламеној буктињи.",
+    "DESCRIPTIONS": [
+      "Сваки пут када #yИсцрпиш карту, нанеси #b",
+      " штете СВИМ непријатељима."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Chemical X",
+    "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
+    "DESCRIPTIONS": [
+      "Whenever you play a cost #bX card, its effects are increased by #b"
+    ]
+  },
+  "Circlet": {
+    "NAME": "Дијадема",
+    "FLAVOR": "Пронашао си све реликвије. Импресивно!",
+    "DESCRIPTIONS": [
+      "Изгледа лепо."
+    ]
+  },
+  "The Courier": {
+    "NAME": "Курир",
+    "FLAVOR": "Трговчев лични љубимац!",
+    "DESCRIPTIONS": [
+      "Трговац више не остаје без карата, реликвија, или напитака, и његове цене су умањене за #b20%."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Уклети кључ",
+    "FLAVOR": "Осећаш како из кључа зрачи злокобна енергија. Моћ увек има неку цену.",
+    "DESCRIPTIONS": [
+      " Сваки пут када отвориш не-вождовски ковчег, проклиње те једна #rКлетва.",
+      "Gain [R] at the start of each turn.",
+      "Gain [G] at the start of each turn.",
+      "Gain [B] at the start of each turn."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Мртва грана",
+    "FLAVOR": "Грана једног дрвета из заборављене ере.",
+    "DESCRIPTIONS": [
+      "Сваки пут када #yИсцрпиш карту, додај насумичну карту у руку."
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Проницљиви монокл",
+    "FLAVOR": "Збиља један помодан монокл.",
+    "DESCRIPTIONS": [
+      "Трговчеве цене су умањене за #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "Рунски додекаедар",
+    "FLAVOR": "Руне су потпуно неразумљиве.",
+    "DESCRIPTIONS": [
+      "Ако си при пуним ЗП-има, задоби ",
+      "[R] на почетку сваког потеза.",
+      "[G] на почетку сваког потеза.",
+      "[B] на почетку сваког потеза."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Хватач снова",
+    "FLAVOR": "Северна племена би често ноћу користила хватаче снова, верујући да воде самопобољшању.",
+    "DESCRIPTIONS": [
+      "Сваки пут кад се одмараш, можеш додати једну карту у шпил."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Ду-Ву луткица",
+    "FLAVOR": "Луткица смишљена тако да црпи снагу из злокобне енергије.",
+    "DESCRIPTIONS": [
+      "За сваку #yКлетву у шпилу, започни борбу са +#b",
+      " на #yСнагу.",
+      " Немаш #yКлетве.",
+      " Имаш #yКлетве (#b",
+      ")."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ектоплазма",
+    "FLAVOR": "Чини се да ова гомила слузи и енергије пулсира животом.",
+    "DESCRIPTIONS": [
+      " Више не можеш да покупиш #yЗлато.",
+      "Задоби [R] на почетку сваког потеза.",
+      "Задоби [G] на почетку сваког потеза.",
+      "Задоби [B] на почетку сваког потеза."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Зелеђено јаје",
+    "FLAVOR": "Јаје стоји инертно и залеђено, никад да се излегне.",
+    "DESCRIPTIONS": [
+      "Сваки пут када додаш #yМоћ у шпил, #yПобољшана је."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Растопљено јаје",
+    "FLAVOR": "Јаје феникса. Вријућа лава сија усијаном црвеном.",
+    "DESCRIPTIONS": [
+      "Сваки пут када додаш #yНапад у шпил, #yПобољшан је."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Отровно јаје",
+    "FLAVOR": "\"Какво величанствено откриће! Чини се да је ово инертно јаје неког магичног створења. Ко или шта га је створило?\" - Рануид",
+    "DESCRIPTIONS": [
+      "Сваки пут када додаш #yВештину у шпил, #yПобољшана је."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Енхиридион",
+    "FLAVOR": "Легендардни дневник једног древног лича.",
+    "DESCRIPTIONS": [
+      "На почетку борбе, додај насумичну #yМоћ у руку. Кошта #b0 до краја потеза."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Вечно перо",
+    "FLAVOR": "Ово перо се чини потпуно неуништивим. Од какве врсте птице би уопште могло да потекне? ",
+    "DESCRIPTIONS": [
+      "За сваких #b",
+      " карата у шпилу, зацели #b",
+      " ЗП-а сваки пут када уђеш у Одмаралиште."
+    ]
+  },
+  "Frozen Egg": {
+    "NAME": "Frozen Egg",
+    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+      "Upon pick up, choose and #yUpgrade a #yPower.",
+      "Choose a card for "
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Коцкарски чип",
+    "FLAVOR": "Видиш мали запис на једној страни. Каже: \"Медин талични чип!\"",
+    "DESCRIPTIONS": [
+      "На почетку сваке борбе, одбаци било који број карата, потом вуци исто толико."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Ђумбир",
+    "FLAVOR": "Потентна алатка у многим тоницима.",
+    "DESCRIPTIONS": [
+      "Више не можеш бити #yОслабљен."
+    ]
+  },
+  "Girya": {
+    "NAME": "Гирја",
+    "FLAVOR": "Ова гирја је незамисливо тешка. Тренингом овим би могао значајно да ојачаш.",
+    "DESCRIPTIONS": [
+      "Можеш да повећаш своју #yСнагу на Одмаралиштима. (до највише трипут)"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Златни идол",
+    "FLAVOR": "Начињен од сувог злата. Само држећи га се осећаш богатије.",
+    "DESCRIPTIONS": [
+      "Непријатељи испуштају #b25% више #yЗлата."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Гремлински рог",
+    "FLAVOR": "\"Гремлини вође могу да расту све до смрти. Изузетно.\" - Рануид",
+    "DESCRIPTIONS": [
+      "Whenever an enemy dies, gain ",
+      "[R] and draw #b1 card.",
+      "[G] and draw #b1 card.",
+      "[B] and draw #b1 card."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Срећни цвет",
+    "FLAVOR": "Ова непрестано весела биљка је популарна новотарија међу племићима.",
+    "DESCRIPTIONS": [
+      "Свака #b",
+      " круга, задоби [R] .",
+      " круга, задоби [G] .",
+      " круга, задоби [B] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Сладолед",
+    "FLAVOR": "\"Преукусно!\"",
+    "DESCRIPTIONS": [
+      "Енергија се сада чува између потеза."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Јузу бројаница",
+    "FLAVOR": "Заштита од непознатог.",
+    "DESCRIPTIONS": [
+      "Обични непријатељи се више не срећу у #y? собама."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Кунаи",
+    "FLAVOR": "Нож омиљен међу убицама због своје убојитости на даљину.",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #b",
+      " #yНапада у једном потезу, задоби #b",
+      " #yОкретност."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Фењер",
+    "FLAVOR": "Језиви фењер који осветљава само свом носиоцу.",
+    "DESCRIPTIONS": [
+      "Задоби ",
+      "[R] ",
+      "[G] ",
+      "[B] ",
+      "у првом потезу сваке борбе."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Отварач за писма",
+    "FLAVOR": "Неприродно оштар.",
+    "DESCRIPTIONS": [
+      "Сваки пут када одиграш #b3 Вештине у једном потезу, задај #b",
+      " штете СВИМ непријатељима."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Living Blade",
+    "FLAVOR": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "You can get any number of any card."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Гуштеров реп",
+    "FLAVOR": "Лажни реп за замајавање непријатеља током борбе.",
+    "DESCRIPTIONS": [
+      "Уместо да умреш, зацели се до #b50% својих макс. ЗП-а (само једанпут)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Магични цвет",
+    "FLAVOR": "Цвет за који се мислило да је одавно изумро, некако савршено очуван.",
+    "DESCRIPTIONS": [
+      "Зацељивање је #b50% делотворније током борбе."
+    ]
+  },
+  "Mango": {
+    "NAME": "Манго",
+    "FLAVOR": "Најтраженије заборављено воће. Беспрекорно сачуван, без знакова торањобуђи.",
+    "DESCRIPTIONS": [
+      "Повећај своје макс. ЗП-е за #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Жиг бола",
+    "FLAVOR": "Овај знак је био коришћен међу северним племенима за обележивање ратника који су овладали болом у борби.",
+    "DESCRIPTIONS": [
+      "Задоби [R] на почетку сваког круга. Започињеш борбе са #b2 #rРане у гомили за вучење."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Бабушка",
+    "FLAVOR": "Сет обојених луткица које се стављају једна у другу. Слика представља непознату птицу са белим очима и плавим перима.",
+    "DESCRIPTIONS": [
+      "Следећа #b2 ковчега која отвориш садрже #b2 #yреликвије. (Изузев вождовских ковчега)",
+      "Следећи ковчег који отвориш садржи #b2 #yреликвије. (Изузев вождовских ковчега)",
+      "Реликвија је истрошена."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Meat on the Bone",
+    "FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
+    "DESCRIPTIONS": [
+      "If your HP is at or below #b50% at the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Medical Kit",
+    "FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
+    "DESCRIPTIONS": [
+      "#yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Membership Card",
+    "FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
+    "DESCRIPTIONS": [
+      "In future acts, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Mercury Hourglass",
+    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Molten Egg": {
+    "NAME": "Molten Egg",
+    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+      "Upon pick up, choose and #yUpgrade an #yAttack.",
+      "Choose a card for "
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Mummified Hand",
+    "FLAVOR": "Frequently twitches, especially when your pulse is high.",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, a random card in your hand costs #b0 for the turn."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicon",
+    "FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
+    "DESCRIPTIONS": [
+      "The first #yAttack played each turn that costs #b",
+      " or more is played twice. When you take this relic, become #rCursed.",
+      " or more is played twice."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Nilry's Codex",
+    "FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
+    "DESCRIPTIONS": [
+      "At the end of each turn, you can choose #b1 of #b3 random cards to shuffle into your draw pile."
+    ]
+  },
+  "Nine Lives": {
+    "NAME": "Nine Lives",
+    "FLAVOR": "DEPRECATED.",
+    "DESCRIPTIONS": [
+      "When you would die, heal to full HP instead. NL (Works #b9 times)",
+      "When you would die, heal to full HP instead. NL (No more lives)",
+      "When you would die, heal to full HP instead. NL (Works #b",
+      " more times)"
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Ninja Scroll",
+    "FLAVOR": "Contains the secrets of assassination.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yShivs in hand."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Nloth's Gift",
+    "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
+    "DESCRIPTIONS": [
+      "#bTriples the chance of receiving rare cards as monster rewards."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nullstone Periapt",
+    "FLAVOR": "DEPRECATED.",
+    "DESCRIPTIONS": [
+      "Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Oddly Smooth Stone",
+    "FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b",
+      " #yDexterity."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Odd Mushroom",
+    "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "When #yVulnerable, take #b25% more damage rather than #b50%."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Old Coin",
+    "FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
+    "DESCRIPTIONS": [
+      "Gain #b300 #yGold."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamori",
+    "FLAVOR": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
+    "DESCRIPTIONS": [
+      "Negate the next #b2 #rCurses you obtain.",
+      "Negate the next #rCurse you obtain.",
+      "This relic is all used up."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orichalcum",
+    "FLAVOR": "A green tinted metal of an unknown origin. Seemingly indestructible.",
+    "DESCRIPTIONS": [
+      "If you end your turn without #yBlock, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Ornamental Fan",
+    "FLAVOR": "The fan seems to extend and harden as blood is spilled.",
+    "DESCRIPTIONS": [
+      "Every time you play #b3 #yAttacks in a single turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Orrery",
+    "FLAVOR": "\"Once you understand the universe...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Choose and add #b5 cards to your deck.",
+      "Knowledge!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Pandora's Box",
+    "FLAVOR": "You have a bad feeling about opening this.",
+    "DESCRIPTIONS": [
+      "#bTransform all Strikes and Defends.",
+      "Pandoras Box has been opened..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantograph",
+    "FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
+    "DESCRIPTIONS": [
+      "At the start of boss combats, heal #b",
+      " HP."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Paper Krane",
+    "FLAVOR": "An origami of a creature from a past age.",
+    "DESCRIPTIONS": [
+      "Enemies with #yWeak deal #b50% less damage rather than #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Paper Phrog",
+    "FLAVOR": "The paper continually folds and unfolds itself into the shape of a small creature.",
+    "DESCRIPTIONS": [
+      "Enemies with #yVulnerable take #b75% more damage rather than #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Peace Pipe",
+    "FLAVOR": "Clears the mind and cleanses the soul.",
+    "DESCRIPTIONS": [
+      "You can now remove cards from your deck at Rest Sites."
+    ]
+  },
+  "Pear": {
+    "NAME": "Pear",
+    "FLAVOR": "A common fruit before the Spireblight.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Pen Nib",
+    "FLAVOR": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.",
+    "DESCRIPTIONS": [
+      "Every #b10th #yAttack you play deals double damage."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Philosopher's Stone",
+    "FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
+    "DESCRIPTIONS": [
+      " ALL enemies start with #b2 #yStrength.",
+      "Gain [R] at the start of each turn.",
+      "Gain [G] at the start of each turn.",
+      "Gain [B] at the start of each turn."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Prayer Wheel",
+    "FLAVOR": "The wheel continues to spin, never stopping.",
+    "DESCRIPTIONS": [
+      "Non-Boss chests now also contain cards."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Question Card",
+    "FLAVOR": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great",
+    "DESCRIPTIONS": [
+      "On Card Reward screens you have #y1 #yadditional #ycard to choose from."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Red Circlet",
+    "FLAVOR": "You ran out of relics. Impressive!",
+    "DESCRIPTIONS": [
+      "Looks very pretty."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Red Mask",
+    "FLAVOR": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b",
+      " #yWeak to ALL enemies."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Red Skull",
+    "FLAVOR": "A small skull covered in ornamental paint.",
+    "DESCRIPTIONS": [
+      "While your HP is at or below #b50%, you have #b",
+      " additional #yStrength."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Regal Pillow",
+    "FLAVOR": "Now you can get a proper night's rest.",
+    "DESCRIPTIONS": [
+      "Heal an additional #b",
+      " HP when you #yRest."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Ring of the Serpent",
+    "DESCRIPTIONS": [
+      "Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Runic Cube",
+    "FLAVOR": "The runes are indecipherable.",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, draw #b",
+      " card.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Runic Dome",
+    "FLAVOR": "The runes are indecipherable.",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer see enemy #bIntents.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Runic Pyramid",
+    "FLAVOR": "The runes are indecipherable.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, you no longer discard your hand. NL Draw #b",
+      " less card each turn."
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Self-Forming Clay",
+    "FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP in combat, gain #b",
+      " #yBlock next turn."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Shovel",
+    "FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
+    "DESCRIPTIONS": [
+      "You can now #yDig for loot at Rest Sites."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks in a single turn, gain #b",
+      " #yStrength."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Singing Bowl",
+    "FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
+    "DESCRIPTIONS": [
+      "When adding cards to your deck, you may gain #b+2 Max HP instead."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Smiling Mask",
+    "FLAVOR": "Mask worn by the merchant. He must have spares...",
+    "DESCRIPTIONS": [
+      "The merchant's card removal service now always costs #b",
+      " #yGold."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Ring of the Snake",
+    "FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, draw #b",
+      " additional cards."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Snecko Eye",
+    "FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
+    "DESCRIPTIONS": [
+      "Draw #b2 additional cards each turn. Start each combat #yConfused."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Snecko Skull",
+    "FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
+    "DESCRIPTIONS": [
+      "Whenever you apply #yPoison, apply an additional #b",
+      " #yPoison."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
+    "DESCRIPTIONS": [
+      " You can no longer obtain potions. ",
+      "Gain [R] at the start of each turn.",
+      "Gain [G] at the start of each turn.",
+      "Gain [B] at the start of each turn."
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Spirit Poop",
+    "FLAVOR": "The charred remains of your offering to the spirits.",
+    "DESCRIPTIONS": [
+      "It's unpleasant."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Strange Spoon",
+    "FLAVOR": "Staring at the spoon, it appears to bend and twist around before your eyes.",
+    "DESCRIPTIONS": [
+      "Cards which #yExhaust when played will instead discard #b50% of the time."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Strawberry",
+    "FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Sundial",
+    "FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Every #b",
+      " times you shuffle your deck, gain [R] [R] .",
+      " times you shuffle your deck, gain [G] [G] .",
+      " times you shuffle your deck, gain [B] [B] ."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Ancient Tea Set",
+    "FLAVOR": "The key to a refreshing night's rest.",
+    "DESCRIPTIONS": [
+      "Whenever you enter a Rest Site, start the next combat with [R] [R] .",
+      "Whenever you enter a Rest Site, start the next combat with [G] [G] .",
+      "Whenever you enter a Rest Site, start the next combat with [B] [B] ."
+    ]
+  },
+  "War Paint": {
+    "NAME": "War Paint",
+    "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
+    "DESCRIPTIONS": [
+      "Upon pick up, #yUpgrade #b",
+      " random #ySkills."
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Darkstone Periapt",
+    "FLAVOR": "The stone draws power from dark energy, converting it into vitality for the wearer.",
+    "DESCRIPTIONS": [
+      "Whenever you obtain a #yCurse, increase your Max HP by #b"
+    ]
+  },
+  "Test 1": {
+    "NAME": "Test 1",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Whenever you use a potion, gain ",
+      " [R] .",
+      " [G] .",
+      " [B] ."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Frozen Eye",
+    "FLAVOR": "No description.",
+    "DESCRIPTIONS": [
+      "When viewing your #yDraw #yPile, the cards are now shown in order."
+    ]
+  },
+  "Test 2": {
+    "NAME": "Test 2",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "When viewing your #yDraw #yPile, the cards are now shown in order."
+    ]
+  },
+  "Test 3": {
+    "NAME": "Test 3",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "When obtained, #yUpgrade all of your #yDefend cards."
+    ]
+  },
+  "Test 4": {
+    "NAME": "Test 4",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "At the start of combat, the cost of all #yStrike cards are set to #b0."
+    ]
+  },
+  "Test 5": {
+    "NAME": "Test 5",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Upon pick up, #yUpgrade #b",
+      " random #ySkills."
+    ]
+  },
+  "Test 6": {
+    "NAME": "Test 6",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "At the end of each turn, gain #b",
+      " #yBlock for every #b",
+      " #yGold you have."
+    ]
+  },
+  "Test 7": {
+    "NAME": "Test 7",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "#yElites now drop #b2 #yRelics when defeated."
+    ]
+  },
+  "Test 8": {
+    "NAME": "Test 8",
+    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "DESCRIPTIONS": [
+      "Draw #b2 additional cards each turn. Start each combat #yConfused."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "The Specimen",
+    "FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Thread and Needle",
+    "FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
+    "DESCRIPTIONS": [
+      "Whenever you discard a card during your turn, deal #b",
+      " damage to a random enemy for each card discarded."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Tiny Chest",
+    "FLAVOR": "\"A fine prototype.\" - The Architect",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yGold. You are #b10% more likely to find treasure in ? rooms.",
+      "You are #b10% more likely to find treasure in ? rooms."
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Tiny House",
+    "FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
+    "DESCRIPTIONS": [
+      "Obtain #b1 potion. NL Gain #b",
+      " #yGold. NL Raise your Max HP by #b",
+      ". NL Obtain #b1 card. NL Upgrade #b1 random card.",
+      "Tiny House!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Toolbox",
+    "FLAVOR": "A tool for every job.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a random colorless card to your hand."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
+    "DESCRIPTIONS": [
+      "Whenever you would receive #b",
+      " or less unblocked #yAttack damage, reduce it to #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Tough Bandages",
+    "FLAVOR": "Loss gives strength.",
+    "DESCRIPTIONS": [
+      "Whenever you discard a card during your turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Toxic Egg": {
+    "NAME": "Toxic Egg",
+    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pick up, choose and #yUpgrade a #ySkill.",
+      "Choose a card for "
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Toy Ornithopter",
+    "FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
+    "DESCRIPTIONS": [
+      "Whenever you use a potion, heal #b",
+      " HP."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Unceasing Top",
+    "FLAVOR": "The top continues to spin effortlessly as if you were in a dream.",
+    "DESCRIPTIONS": [
+      "Whenever you have no cards in hand during your turn, draw a card."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b",
+      " #yStrength."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Velvet Choker",
+    "FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
+    "DESCRIPTIONS": [
+      "You cannot play more than #b",
+      " cards per turn.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. ",
+      "I can only play up to NL #r"
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Lee's Waffle",
+    "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b",
+      " and heal all of your HP."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Whetstone",
+    "FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
+    "DESCRIPTIONS": [
+      "Upon pick up, #yUpgrade #b",
+      " random #yAttacks."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b",
+      " Charge. NL (Cannot be removed or transformed.)"
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Neow's Lament",
+    "FLAVOR": "The blessing of lamentation bestowed by Neow.",
+    "DESCRIPTIONS": [
+      "Enemies in your first #b3 combats will have 1 HP.",
+      "The blessing is used up."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "White Beast Statue",
+    "FLAVOR": "A small white statue of a creature you have never seen before.",
+    "DESCRIPTIONS": [
+      "Potions always drop after combat."
+    ]
+  }
 }

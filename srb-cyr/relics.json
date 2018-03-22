@@ -454,11 +454,11 @@
     ]
   },
   "Meat on the Bone": {
-    "NAME": "Meat on the Bone",
-    "FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
+    "NAME": "Месо и кост",
+    "FLAVOR": "Месо се стално обнавља, чини се да му нема краја.",
     "DESCRIPTIONS": [
-      "If your HP is at or below #b50% at the end of combat, heal #b",
-      " HP."
+      "Ако су ти ЗП на или испод #b50% на крају борбе, зацели #b",
+      " ЗП."
     ]
   },
   "Medical Kit": {
@@ -653,13 +653,13 @@
     ]
   },
   "Philosopher's Stone": {
-    "NAME": "Philosopher's Stone",
-    "FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
+    "NAME": "Камен мудрости",
+    "FLAVOR": "Из камена исијава чиста енергија, напајајући све око себе.",
     "DESCRIPTIONS": [
-      " ALL enemies start with #b2 #yStrength.",
-      "Gain [R] at the start of each turn.",
-      "Gain [G] at the start of each turn.",
-      "Gain [B] at the start of each turn."
+      " СВИ непријатељи почињу са #b+2 на #yСнагу.",
+      "Задоби [R] на почетку сваког потеза.",
+      "Задоби [G] на почетку сваког потеза.",
+      "Задоби [B] на почетку сваког потеза."
     ]
   },
   "Prayer Wheel": {

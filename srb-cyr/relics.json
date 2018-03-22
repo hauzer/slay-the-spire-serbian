@@ -154,18 +154,18 @@
 	},
 	"Cauldron": {
 		"NAME": "Котао",
-		"FLAVOR": "Трговац је заправо врло вешт кувач напитака. Купи 4 добијеш 1 џабе.",
+		"FLAVOR": "Трговац је заправо врло вешт кувач напитака. Купи 4, добијаш 1 џабе.",
 		"DESCRIPTIONS": [
 			"При узимању, скува #b5 насумичних напитака.",
-			"Блуп блип блеуп...!"
+			"Бућ бљућ бућ...!"
 		]
 	},
 	"Centennial Puzzle": {
-		"NAME": "Centennial Puzzle",
-		"FLAVOR": "Upon solving the puzzle you feel a powerful warmth in your chest.",
+		"NAME": "Стогодишња слагалица",
+		"FLAVOR": "Осећаш интензивну топлоту у грудима при решавању ове слагалице.",
 		"DESCRIPTIONS": [
-			"The first time you lose HP each combat, draw #b",
-			" cards."
+			"Први пут када изгубиш ЗП у борби, вуци #b",
+			" карте."
 		]
 	},
 	"Chameleon Ring": {
@@ -176,19 +176,19 @@
 		]
 	},
 	"Champion Belt": {
-		"NAME": "Champion Belt",
-		"FLAVOR": "Only the greatest may wear this belt.",
+		"NAME": "Шампионски појас",
+		"FLAVOR": "Само највећи могу носити овај појас.",
 		"DESCRIPTIONS": [
-			"Whenever you apply #yVulnerable, also apply #b",
-			" #yWeak."
+			"Сваки пут када нанесеш #yРањивост, такође нанеси #b",
+			" #yСлабост."
 		]
 	},
 	"Charon's Ashes": {
-		"NAME": "Charon's Ashes",
-		"FLAVOR": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.",
+		"NAME": "Харонов пепео",
+		"FLAVOR": "За Харона је речено да је бог поновног рађања, вечно умирући и васкрсавајући у пламеној буктињи.",
 		"DESCRIPTIONS": [
-			"Whenever you #yExhaust a card, deal #b",
-			" damage to ALL enemies."
+			"Сваки пут када #yИсцрпиш карту, нанеси #b",
+			" штете СВИМ непријатељима."
 		]
 	},
 	"Chemical X": {
@@ -199,116 +199,116 @@
 		]
 	},
 	"Circlet": {
-		"NAME": "Circlet",
-		"FLAVOR": "You ran out of relics to find. Impressive!",
+		"NAME": "Дијадема",
+		"FLAVOR": "Пронашао си све реликвије. Импресивно!",
 		"DESCRIPTIONS": [
-			"Looks pretty."
+			"Изгледа лепо."
 		]
 	},
 	"The Courier": {
-		"NAME": "The Courier",
-		"FLAVOR": "The merchant's personal pet!",
+		"NAME": "Курир",
+		"FLAVOR": "Трговчев лични љубимац!",
 		"DESCRIPTIONS": [
-			"The merchant no longer runs out of cards, relics, or potions and his prices are reduced by #b20%."
+			"Трговац више не остаје без карата, реликвија, или напитака, и његове цене су умањене за #b20%."
 		]
 	},
 	"Cursed Key": {
-		"NAME": "Cursed Key",
-		"FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
+		"NAME": "Уклети кључ",
+		"FLAVOR": "Осећаш како из кључа зрачи злокобна енергија. Моћ увек има неку цену.",
 		"DESCRIPTIONS": [
-			" Whenever you open a non-boss chest, obtain a #rCurse.",
+			" Сваки пут када отвориш не-вождовски ковчег, проклиње те једна #rКлетва.",
 			"Gain [R] at the start of each turn.",
 			"Gain [G] at the start of each turn.",
 			"Gain [B] at the start of each turn."
 		]
 	},
 	"Dead Branch": {
-		"NAME": "Dead Branch",
-		"FLAVOR": "The branch of a tree from a forgotten era.",
+		"NAME": "Мртва грана",
+		"FLAVOR": "Грана једног дрвета из заборављене ере.",
 		"DESCRIPTIONS": [
-			"Whenever you #yExhaust a card, add a random card to your hand."
+			"Сваки пут када #yИсцрпиш карту, додај насумичну карту у руку."
 		]
 	},
 	"Discerning Monocle": {
-		"NAME": "Discerning Monocle",
-		"FLAVOR": "A very dapper looking monocle indeed.",
+		"NAME": "Проницљиви монокл",
+		"FLAVOR": "Збиља један помодан монокл.",
 		"DESCRIPTIONS": [
-			"Merchant prices are reduced by #b20%"
+			"Трговчеве цене су умањене за #b20%"
 		]
 	},
 	"Dodecahedron": {
-		"NAME": "Runic Dodecahedron",
-		"FLAVOR": "The runes are indecipherable.",
+		"NAME": "Рунски додекаедар",
+		"FLAVOR": "Руне су потпуно неразумљиве.",
 		"DESCRIPTIONS": [
-			"If your HP is full, gain ",
-			"[R] at the start of each turn.",
-			"[G] at the start of each turn.",
-			"[B] at the start of each turn."
+			"Ако си при пуним ЗП-има, задоби ",
+			"[R] на почетку сваког потеза.",
+			"[G] на почетку сваког потеза.",
+			"[B] на почетку сваког потеза."
 		]
 	},
 	"Dream Catcher": {
-		"NAME": "Dream Catcher",
-		"FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
+		"NAME": "Хватач снова",
+		"FLAVOR": "Северна племена би често ноћу користила хватаче снова, верујући да воде самопобољшању.",
 		"DESCRIPTIONS": [
-			"Whenever you rest, you may add a card to your deck."
+			"Сваки пут кад се одмараш, можеш додати једну карту у шпил."
 		]
 	},
 	"Du-Vu Doll": {
-		"NAME": "Du-Vu Doll",
-		"FLAVOR": "A doll devised to gain strength from malicious energy.",
+		"NAME": "Ду-Ву луткица",
+		"FLAVOR": "Луткица смишљена тако да црпи снагу из злокобне енергије.",
 		"DESCRIPTIONS": [
-			"For each #yCurse in your deck, start each combat with #b",
-			" additional #yStrength.",
-			" You have no #yCurses.",
-			" You have #b",
-			" #yCurses."
+			"За сваку #yКлетву у шпилу, започни борбу са +#b",
+			" на #yСнагу.",
+			" Немаш #yКлетве.",
+			" Имаш #yКлетве (#b",
+			")."
 		]
 	},
 	"Ectoplasm": {
-		"NAME": "Ectoplasm",
-		"FLAVOR": "This blob of slime and energy seems to pulse with life.",
+		"NAME": "Ектоплазма",
+		"FLAVOR": "Чини се да ова гомила слузи и енергије пулсира животом.",
 		"DESCRIPTIONS": [
-			" You can no longer gain #yGold.",
-			"Gain [R] at the start of each turn.",
-			"Gain [G] at the start of each turn.",
-			"Gain [B] at the start of each turn."
+			" Више не можеш да покупиш #yЗлато.",
+			"Задоби [R] на почетку сваког потеза.",
+			"Задоби [G] на почетку сваког потеза.",
+			"Задоби [B] на почетку сваког потеза."
 		]
 	},
 	"Frozen Egg 2": {
-		"NAME": "Frozen Egg",
-		"FLAVOR": "The egg lies inert and frozen, never to hatch.",
+		"NAME": "Зелеђено јаје",
+		"FLAVOR": "Јаје стоји инертно и залеђено, никад да се излегне.",
 		"DESCRIPTIONS": [
-			"Whenever you add a #yPower card to your deck, it is #yUpgraded."
+			"Сваки пут када додаш #yМоћ у шпил, #yПобољшана је."
 		]
 	},
 	"Molten Egg 2": {
-		"NAME": "Molten Egg",
-		"FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+		"NAME": "Растопљено јаје",
+		"FLAVOR": "Јаје феникса. Вријућа лава сија усијаном црвеном.",
 		"DESCRIPTIONS": [
-			"Whenever you add an #yAttack card to your deck, it is #yUpgraded."
+			"Сваки пут када додаш #yНапад у шпил, #yПобољшан је."
 		]
 	},
 	"Toxic Egg 2": {
-		"NAME": "Toxic Egg",
-		"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+		"NAME": "Отровно јаје",
+		"FLAVOR": "\"Какво величанствено откриће! Чини се да је ово инертно јаје неког магичног створења. Ко или шта га је створило?\" - Рануид",
 		"DESCRIPTIONS": [
-			"Whenever you add a #ySkill card to your deck, it is #yUpgraded."
+			"Сваки пут када додаш #yВештину у шпил, #yПобољшана је."
 		]
 	},
 	"Enchiridion": {
-		"NAME": "Enchiridion",
-		"FLAVOR": "The legendary journal of an ancient lich.",
+		"NAME": "Енхиридион",
+		"FLAVOR": "Легендардни дневник једног древног лича.",
 		"DESCRIPTIONS": [
-			"At the start of each combat, add a random #yPower card to your hand. It costs #b0 until the end of turn."
+			"На почетку борбе, додај насумичну #yМоћ у руку. Кошта #b0 до краја потеза."
 		]
 	},
 	"Eternal Feather": {
-		"NAME": "Eternal Feather",
-		"FLAVOR": "This feather appears to be completely indestructible. What bird does this possibly come from? ",
+		"NAME": "Вечно перо",
+		"FLAVOR": "Ово перо се чини потпуно неуништивим. Од какве врсте птице би уопште могло да потекне? ",
 		"DESCRIPTIONS": [
-			"For every #b",
-			" cards in your deck, heal #b",
-			" HP whenever you enter a Rest Site."
+			"За сваких #b",
+			" карата у шпилу, зацели #b",
+			" ЗП-а сваки пут када уђеш у Одмаралиште."
 		]
 	},
 	"Frozen Egg": {
@@ -320,36 +320,36 @@
 		]
 	},
 	"Gambling Chip": {
-		"NAME": "Gambling Chip",
-		"FLAVOR": "You can see a small inscription on one side. It reads: \"Bear's Lucky Chip!\"",
+		"NAME": "Коцкарски чип",
+		"FLAVOR": "Видиш мали запис на једној страни. Каже: \"Медин талични чип!\"",
 		"DESCRIPTIONS": [
-			"At the start of each combat, discard any number of cards then draw that many."
+			"На почетку сваке борбе, одбаци било који број карата, потом вуци исто толико."
 		]
 	},
 	"Ginger": {
-		"NAME": "Ginger",
-		"FLAVOR": "A potent tool in many tonics.",
+		"NAME": "Ђумбир",
+		"FLAVOR": "Потентна алатка у многим тоницима.",
 		"DESCRIPTIONS": [
-			"You can no longer become #yWeakened."
+			"Више не можеш бити #yОслабљен."
 		]
 	},
 	"Girya": {
-		"NAME": "Girya",
-		"FLAVOR": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.",
+		"NAME": "Гирја",
+		"FLAVOR": "Ова гирја је незамисливо тешка. Тренингом овим би могао значајно да ојачаш.",
 		"DESCRIPTIONS": [
-			"You can now gain #yStrength at Rest Sites. (3 times max)"
+			"Можеш да повећаш своју #yСнагу на Одмаралиштима. (до највише трипут)"
 		]
 	},
 	"Golden Idol": {
-		"NAME": "Golden Idol",
-		"FLAVOR": "Made of solid gold, you feel richer just holding it.",
+		"NAME": "Златни идол",
+		"FLAVOR": "Начињен од сувог злата. Само држећи га се осећаш богатије.",
 		"DESCRIPTIONS": [
-			"Enemies drop #b25% more #yGold."
+			"Непријатељи испуштају #b25% више #yЗлата."
 		]
 	},
 	"Gremlin Horn": {
-		"NAME": "Gremlin Horn",
-		"FLAVOR": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
+		"NAME": "Гремлински рог",
+		"FLAVOR": "\"Гремлини вође могу да расту све до смрти. Изузетно.\" - Рануид",
 		"DESCRIPTIONS": [
 			"Whenever an enemy dies, gain ",
 			"[R] and draw #b1 card.",
@@ -358,55 +358,55 @@
 		]
 	},
 	"Happy Flower": {
-		"NAME": "Happy Flower",
-		"FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
+		"NAME": "Срећни цвет",
+		"FLAVOR": "Ова непрестано весела биљка је популарна новотарија међу племићима.",
 		"DESCRIPTIONS": [
-			"Every #b",
-			" turns, gain [R] .",
-			" turns, gain [G] .",
-			" turns, gain [B] ."
+			"Свака #b",
+			" круга, задоби [R] .",
+			" круга, задоби [G] .",
+			" круга, задоби [B] ."
 		]
 	},
 	"Ice Cream": {
-		"NAME": "Ice Cream",
-		"FLAVOR": "\"Delicious!\"",
+		"NAME": "Сладолед",
+		"FLAVOR": "\"Преукусно!\"",
 		"DESCRIPTIONS": [
-			"Energy is now conserved between turns."
+			"Енергија се сада чува између потеза."
 		]
 	},
 	"Juzu Bracelet": {
-		"NAME": "Juzu Bracelet",
-		"FLAVOR": "A ward against the unknown.",
+		"NAME": "Јузу бројаница",
+		"FLAVOR": "Заштита од непознатог.",
 		"DESCRIPTIONS": [
-			"Regular enemy combats are no longer encountered in #y? rooms."
+			"Обични непријатељи се више не срећу у #y? собама."
 		]
 	},
 	"Kunai": {
-		"NAME": "Kunai",
-		"FLAVOR": "A blade favored by assassins for its lethality at range.",
+		"NAME": "Кунаи",
+		"FLAVOR": "Нож омиљен међу убицама због своје убојитости на даљину.",
 		"DESCRIPTIONS": [
-			"Every time you play #b",
-			" #yAttacks in a single turn, gain #b",
-			" #yDexterity."
+			"Сваки пут када одиграш #b",
+			" #yНапада у једном потезу, задоби #b",
+			" #yОкретност."
 		]
 	},
 	"Lantern": {
-		"NAME": "Lantern",
-		"FLAVOR": "An eerie lantern which illuminates only for the wielder.",
+		"NAME": "Фењер",
+		"FLAVOR": "Језиви фењер који осветљава само свом носиоцу.",
 		"DESCRIPTIONS": [
-			"Gain ",
+			"Задоби ",
 			"[R] ",
 			"[G] ",
 			"[B] ",
-			"on the first turn of each combat."
+			"у првом потезу сваке борбе."
 		]
 	},
 	"Letter Opener": {
-		"NAME": "Letter Opener",
-		"FLAVOR": "Unnaturally sharp.",
+		"NAME": "Отварач за писма",
+		"FLAVOR": "Неприродно оштар.",
 		"DESCRIPTIONS": [
-			"Every time you play #b3 Skills in a single turn, deal #b",
-			" damage to ALL enemies."
+			"Сваки пут када одиграш #b3 Вештине у једном потезу, задај #b",
+			" штете СВИМ непријатељима."
 		]
 	},
 	"Living Blade": {
@@ -417,40 +417,40 @@
 		]
 	},
 	"Lizard Tail": {
-		"NAME": "Lizard Tail",
-		"FLAVOR": "A fake tail to trick enemies during combat.",
+		"NAME": "Гуштеров реп",
+		"FLAVOR": "Лажни реп за замајавање непријатеља током борбе.",
 		"DESCRIPTIONS": [
-			"When you would die, heal to #b50% of your Max HP instead (works once)."
+			"Уместо да умреш, зацели се до #b50% својих макс. ЗП-а (само једанпут)."
 		]
 	},
 	"Magic Flower": {
-		"NAME": "Magic Flower",
-		"FLAVOR": "A flower long thought extinct, somehow preserved in perfect condition.",
+		"NAME": "Магични цвет",
+		"FLAVOR": "Цвет за који се мислило да је одавно изумро, некако савршено очуван.",
 		"DESCRIPTIONS": [
-			"Healing is #b50% more effective during combat."
+			"Зацељивање је #b50% делотворније током борбе."
 		]
 	},
 	"Mango": {
-		"NAME": "Mango",
-		"FLAVOR": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
+		"NAME": "Манго",
+		"FLAVOR": "Најтраженије заборављено воће. Беспрекорно сачуван, без знакова торањобуђи.",
 		"DESCRIPTIONS": [
-			"Raise your Max HP by #b"
+			"Повећај своје макс. ЗП-е за #b"
 		]
 	},
 	"Mark of Pain": {
-		"NAME": "Mark of Pain",
-		"FLAVOR": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.",
+		"NAME": "Жиг бола",
+		"FLAVOR": "Овај знак је био коришћен међу северним племенима за обележивање ратника који су овладали болом у борби.",
 		"DESCRIPTIONS": [
-			"Gain [R] at the start of each turn. Start combats with #b2 #rWounds in your draw pile."
+			"Задоби [R] на почетку сваког круга. Започињеш борбе са #b2 #rРане у гомили за вучење."
 		]
 	},
 	"Matryoshka": {
-		"NAME": "Matryoshka",
-		"FLAVOR": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
+		"NAME": "Бабушка",
+		"FLAVOR": "Сет обојених луткица које се стављају једна у другу. Слика представља непознату птицу са белим очима и плавим перима.",
 		"DESCRIPTIONS": [
-			"The next #b2 chests you open contain #b2 #yRelics. (Excludes boss chests)",
-			"The next chest you open contains #b2 #yRelics. (Excludes boss chests)",
-			"This relic has been used up."
+			"Следећа #b2 ковчега која отвориш садрже #b2 #yреликвије. (Изузев вождовских ковчега)",
+			"Следећи ковчег који отвориш садржи #b2 #yреликвије. (Изузев вождовских ковчега)",
+			"Реликвија је истрошена."
 		]
 	},
 	"Meat on the Bone": {

@@ -251,7 +251,7 @@
       "In #b",
       " turns, explodes dealing #b",
 	  " damage.",
-	  "At the end of its turn, explodes dealing #b"
+	  "At the start of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {
@@ -344,6 +344,12 @@
     "NAME": "Intangible",
     "DESCRIPTIONS": [
       "Reduce ALL damage taken and HP loss to #b1 this turn. Intangible is reapplied every other turn."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
     ]
   },
   "Inverted": {

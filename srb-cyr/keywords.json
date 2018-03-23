@@ -171,6 +171,13 @@
       ],
       "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
     },
+    "INTANGIBLE": {
+      "NAMES":[
+        "неопипљив",
+        "неопипљивост"
+      ],
+      "DESCRIPTION": "Смањује СВУ примљену штету и губитак ЗП на #b1."
+    },
     "TODO": {
       "NAMES": [
         "todo",

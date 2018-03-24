@@ -216,7 +216,7 @@
     "NAME": "Уклети кључ",
     "FLAVOR": "Осећаш како из кључа зрачи злокобна енергија. Моћ увек има неку цену.",
     "DESCRIPTIONS": [
-      " Сваки пут када отвориш не-вождовски ковчег, проклиње те једна #rКлетва.",
+      " Сваки пут када отвориш не-вождовски ковчег, уклиње те једна #rКлетва.",
       "Gain [R] at the start of each turn.",
       "Gain [G] at the start of each turn.",
       "Gain [B] at the start of each turn."
@@ -454,33 +454,33 @@
     ]
   },
   "Meat on the Bone": {
-    "NAME": "Месо и кост",
-    "FLAVOR": "Месо се стално обнавља, чини се да му нема краја.",
+    "NAME": "Месо на кости",
+    "FLAVOR": "Месо се вазда обнавља око кости, и чини се да му нема краја.",
     "DESCRIPTIONS": [
       "Ако су ти ЗП на или испод #b50% на крају борбе, зацели #b",
       " ЗП."
     ]
   },
   "Medical Kit": {
-    "NAME": "Medical Kit",
-    "FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
+    "NAME": "Комплет за прву помоћ",
+    "FLAVOR": "\"Садржи све што вам је потребно! Спрејеви против свраба, опекотина, отрова, и још!\"",
     "DESCRIPTIONS": [
-      "#yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
+      "#yСтања се сада могу одиграти. Одигравање #yСтатуса #yИсцрпљује карту."
     ]
   },
   "Membership Card": {
-    "NAME": "Membership Card",
-    "FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
+    "NAME": "Чланска картица",
+    "FLAVOR": "\"Ексклузивне чланске понуде за моје највредније муштерије!\"",
     "DESCRIPTIONS": [
-      "In future acts, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
+      "У будућим чиновима, тржнице се појављују #b50% чешће. #yДОДАТАК: #b20% попуста на све производе!"
     ]
   },
   "Mercury Hourglass": {
-    "NAME": "Mercury Hourglass",
-    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "NAME": "Живин пешчаник",
+    "FLAVOR": "Омађијани пешчаник који бескрајно тече.",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal #b",
-      " damage to ALL enemies."
+      "На почетку свог потеза, задај #b",
+      " штете СВИМ непријатељима."
     ]
   },
   "Molten Egg": {
@@ -492,26 +492,26 @@
     ]
   },
   "Mummified Hand": {
-    "NAME": "Mummified Hand",
-    "FLAVOR": "Frequently twitches, especially when your pulse is high.",
+    "NAME": "Мумифицирана шака",
+    "FLAVOR": "Често се трза, поготово када ти је пулс висок.",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, a random card in your hand costs #b0 for the turn."
+      "Сваки пут када одиграш #yМоћ, насумична карта из руке кошта #b0 до краја потеза."
     ]
   },
   "Necronomicon": {
-    "NAME": "Necronomicon",
-    "FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
+    "NAME": "Некрономикон",
+    "FLAVOR": "Само би будала покушала да искористи ову злу моћ. Ноћу си у сновима ухођен призорима у којима ти ова књига прождире ум.",
     "DESCRIPTIONS": [
-      "The first #yAttack played each turn that costs #b",
-      " or more is played twice. When you take this relic, become #rCursed.",
-      " or more is played twice."
+      "Први #yНапад одигран сваког потеза који кошта #b",
+      " или више се одиграва двапут. Када узимаш ову реликвију, проклиње те #rКлетва.",
+      " или више се одиграва двапут."
     ]
   },
   "Nilry's Codex": {
-    "NAME": "Nilry's Codex",
-    "FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
+    "NAME": "Нилријев кодекс",
+    "FLAVOR": "Сачинио га је озлоглашени господар игара лично. Сматра се да проширује ум.",
     "DESCRIPTIONS": [
-      "At the end of each turn, you can choose #b1 of #b3 random cards to shuffle into your draw pile."
+      "На крају сваког потеза, можеш да изабереш #b1 од #b3 насумичне карте да измешаш у гомилу за вучење."
     ]
   },
   "Nine Lives": {
@@ -525,18 +525,18 @@
     ]
   },
   "Ninja Scroll": {
-    "NAME": "Ninja Scroll",
-    "FLAVOR": "Contains the secrets of assassination.",
+    "NAME": "Нинџа списи",
+    "FLAVOR": "Садржи тајне атентирања.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yShivs in hand."
+      "Започни сваку борбу са #b",
+      " #yНожа у руци."
     ]
   },
   "Nloth's Gift": {
-    "NAME": "Nloth's Gift",
-    "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
+    "NAME": "Нлотов поклон",
+    "FLAVOR": "Чудан поклон од Нлота. Сваки пут када покушаш да га отвориш, унутра лежи још једна упакована кутија исте величине.",
     "DESCRIPTIONS": [
-      "#bTriples the chance of receiving rare cards as monster rewards."
+      "#bУтростручује шансе добијања ретке карте као награде за борбе."
     ]
   },
   "Nullstone Periapt": {
@@ -547,102 +547,102 @@
     ]
   },
   "Oddly Smooth Stone": {
-    "NAME": "Oddly Smooth Stone",
-    "FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
+    "NAME": "Изванредно гладак камен",
+    "FLAVOR": "Никад ниси видео нешто тако глатко и беспрекорно. Ово мора да је дело Древних.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yDexterity."
+      "На почетку сваке борбе, задоби #b",
+      " #yОкретност."
     ]
   },
   "Odd Mushroom": {
-    "NAME": "Odd Mushroom",
-    "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
+    "NAME": "Чудна печурка",
+    "FLAVOR": "\"Након једења trichella parastius осећао сам се већим и мање... подложним.\" - Рануид ",
     "DESCRIPTIONS": [
-      "When #yVulnerable, take #b25% more damage rather than #b50%."
+      "Као #yРањив, примаш #b25% више штете уместо #b50%."
     ]
   },
   "Old Coin": {
-    "NAME": "Old Coin",
-    "FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
+    "NAME": "Стари новчић",
+    "FLAVOR": "Трговци високо цене јединствене новчиће због њихове историјске вредности и ретких особина метала.",
     "DESCRIPTIONS": [
-      "Gain #b300 #yGold."
+      "Задоби #b300 #yЗлата."
     ]
   },
   "Omamori": {
-    "NAME": "Omamori",
-    "FLAVOR": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
+    "NAME": "Омамори",
+    "FLAVOR": "Учестала амајлија за одбрану од мрачних духова. Чини се да ова има искру божанске енергије.",
     "DESCRIPTIONS": [
-      "Negate the next #b2 #rCurses you obtain.",
-      "Negate the next #rCurse you obtain.",
-      "This relic is all used up."
+      "Негирај следеће #b2 #rКлетве који би ти уклеле.",
+      "Негирај следећу #rКлетву која би ти уклела.",
+      "Ова реликвија је скроз искоришћена."
     ]
   },
   "Orichalcum": {
-    "NAME": "Orichalcum",
-    "FLAVOR": "A green tinted metal of an unknown origin. Seemingly indestructible.",
+    "NAME": "Орихалк",
+    "FLAVOR": "Зеленонијансирани метал непознатог порекла. Наизглед неуништив.",
     "DESCRIPTIONS": [
-      "If you end your turn without #yBlock, gain #b",
-      " #yBlock."
+      "Ако завриш свој потез без #yОдбране, задоби #b",
+      " #yОдбране."
     ]
   },
   "Ornamental Fan": {
-    "NAME": "Ornamental Fan",
-    "FLAVOR": "The fan seems to extend and harden as blood is spilled.",
+    "NAME": "Украсна лепеза",
+    "FLAVOR": "Чини се да се лепеза шири и очвршћује како се пролива крв.",
     "DESCRIPTIONS": [
-      "Every time you play #b3 #yAttacks in a single turn, gain #b",
-      " #yBlock."
+      "Сваки пут када одиграш #b3 #yНапада у једном потезу, задоби #b",
+      " #yОдбране."
     ]
   },
   "Orrery": {
-    "NAME": "Orrery",
-    "FLAVOR": "\"Once you understand the universe...\" - Zoroth",
+    "NAME": "Планетеријум",
+    "FLAVOR": "\"Једном када схватиш васиону...\" - Зорот",
     "DESCRIPTIONS": [
-      "Choose and add #b5 cards to your deck.",
-      "Knowledge!"
+      "Изабери и додај #b5 карата у шпил.",
+      "Знање!"
     ]
   },
   "Pandora's Box": {
-    "NAME": "Pandora's Box",
-    "FLAVOR": "You have a bad feeling about opening this.",
+    "NAME": "Пандорина кутија",
+    "FLAVOR": "Имаш лош предосећај око отварања овога.",
     "DESCRIPTIONS": [
-      "#bTransform all Strikes and Defends.",
-      "Pandoras Box has been opened..."
+      "#bПреобрази све Нападе и Одбране.",
+      "Пандорина кутија је отворена..."
     ]
   },
   "Pantograph": {
-    "NAME": "Pantograph",
-    "FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
+    "NAME": "Пантограф",
+    "FLAVOR": "\"Чврсти темељи нису случајни. Алати за планирање су нужни.\" - Архитекта",
     "DESCRIPTIONS": [
-      "At the start of boss combats, heal #b",
-      " HP."
+      "На почетку вождовских борби, зацели #b",
+      " ЗП."
     ]
   },
   "Paper Crane": {
-    "NAME": "Paper Krane",
-    "FLAVOR": "An origami of a creature from a past age.",
+    "NAME": "Папирни ждрал",
+    "FLAVOR": "Оригами створења из прошлог доба.",
     "DESCRIPTIONS": [
-      "Enemies with #yWeak deal #b50% less damage rather than #b25%."
+      "#yОслабљени непријатељи задају #b50% мање штете уместо #b25%."
     ]
   },
   "Paper Frog": {
-    "NAME": "Paper Phrog",
-    "FLAVOR": "The paper continually folds and unfolds itself into the shape of a small creature.",
+    "NAME": "Папирна жшаба",
+    "FLAVOR": "Папир се стално увија и одвија у облик малог створења.",
     "DESCRIPTIONS": [
-      "Enemies with #yVulnerable take #b75% more damage rather than #b50%."
+      "#yРањиви непријатељи примају #b75% више штете уместо #b50%."
     ]
   },
   "Peace Pipe": {
-    "NAME": "Peace Pipe",
-    "FLAVOR": "Clears the mind and cleanses the soul.",
+    "NAME": "Лула мира",
+    "FLAVOR": "Разбистрава ум и чисти душу.",
     "DESCRIPTIONS": [
-      "You can now remove cards from your deck at Rest Sites."
+      "Сада можеш да уклониш карте из шпила на Одмаралиштима."
     ]
   },
   "Pear": {
-    "NAME": "Pear",
-    "FLAVOR": "A common fruit before the Spireblight.",
+    "NAME": "Крушка",
+    "FLAVOR": "Честа вођка пре торањобуђи.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Повећај своје макс. ЗП за #b"
     ]
   },
   "Pen Nib": {
@@ -663,62 +663,62 @@
     ]
   },
   "Prayer Wheel": {
-    "NAME": "Prayer Wheel",
-    "FLAVOR": "The wheel continues to spin, never stopping.",
+    "NAME": "Молитвени точак",
+    "FLAVOR": "Точак се окреће, никад не стајући.",
     "DESCRIPTIONS": [
-      "Non-Boss chests now also contain cards."
+      "Не-вождовски ковчези сада такође садрже карте."
     ]
   },
   "Question Card": {
-    "NAME": "Question Card",
-    "FLAVOR": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great",
+    "NAME": "Упитна карта",
+    "FLAVOR": "\"Они са више избора умањују недостатке хаоса.\" - Кублај Велики",
     "DESCRIPTIONS": [
-      "On Card Reward screens you have #y1 #yadditional #ycard to choose from."
+      "При бирању наградне карте у избору имаш још #y1 #yдодатну #yкарту."
     ]
   },
   "Red Circlet": {
-    "NAME": "Red Circlet",
-    "FLAVOR": "You ran out of relics. Impressive!",
+    "NAME": "Црвена тијара",
+    "FLAVOR": "Понестало је реликвија. Импресивно!",
     "DESCRIPTIONS": [
-      "Looks very pretty."
+      "Изгледа дивно."
     ]
   },
   "Red Mask": {
-    "NAME": "Red Mask",
-    "FLAVOR": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
+    "NAME": "Црвена маска",
+    "FLAVOR": "Ова кицошка маска припада вођи Црвеномаскираних Бандита. Технички то сада тебе чини њиховим вођом?",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b",
-      " #yWeak to ALL enemies."
+      "На почетку сваке борбе, нанеси #b",
+      " #yСлабост СВИМ непријатељима."
     ]
   },
   "Red Skull": {
-    "NAME": "Red Skull",
-    "FLAVOR": "A small skull covered in ornamental paint.",
+    "NAME": "Црвена лобања",
+    "FLAVOR": "Мала лобања покривена украсном бојом.",
     "DESCRIPTIONS": [
-      "While your HP is at or below #b50%, you have #b",
-      " additional #yStrength."
+      "Све док су ти ЗП на или испод #b50%, имаш +#b",
+      " на #yСнагу."
     ]
   },
   "Regal Pillow": {
-    "NAME": "Regal Pillow",
-    "FLAVOR": "Now you can get a proper night's rest.",
+    "NAME": "Краљевски јастук",
+    "FLAVOR": "Сада можеш прописно да се одмориш.",
     "DESCRIPTIONS": [
-      "Heal an additional #b",
-      " HP when you #yRest."
+      "Зацели додатних #b",
+      " ЗП када се #yОдмараш."
     ]
   },
   "Ring of the Serpent": {
-    "NAME": "Ring of the Serpent",
+    "NAME": "Прстен гује",
     "DESCRIPTIONS": [
-      "Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
+      "Замењује #gПрстен #gзмије. Сваки пут када поразиш #yЕлитног непријатеља, повећај своје макс. ЗП за #b"
     ]
   },
   "Runic Cube": {
-    "NAME": "Runic Cube",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Рунска коцка",
+    "FLAVOR": "Руне су потпуно неразумљиве.",
     "DESCRIPTIONS": [
-      "Whenever you lose HP, draw #b",
-      " card.",
+      "Сваки пут када изгубиш ЗП, вуци #b",
+      " карту.",
       ""
     ]
   },

@@ -723,148 +723,148 @@
     ]
   },
   "Runic Dome": {
-    "NAME": "Runic Dome",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Рунска купола",
+    "FLAVOR": "Руне су потпуно неразумљиве",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer see enemy #bIntents.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "на почетку сваког потеза. Више не можеш да видиш #bнамере непријатеља.",
+      "Задоби [R] ",
+      "Задоби [G] ",
+      "Задоби [B] "
     ]
   },
   "Runic Pyramid": {
-    "NAME": "Runic Pyramid",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Рунска пирамида",
+    "FLAVOR": "Руне су потпуно неразумљиве.",
     "DESCRIPTIONS": [
-      "At the end of your turn, you no longer discard your hand. NL Draw #b",
-      " less card each turn."
+      "На крају свог потеза, више не одбацујеш руку. NL Вуци #b",
+      " мање карту сваки потез."
     ]
   },
   "Self Forming Clay": {
-    "NAME": "Self-Forming Clay",
-    "FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
+    "NAME": "Самообликујућа глина",
+    "FLAVOR": "\"Врло необично! Чини се да се обликује отприлике према мојим мислима! Теле-глина?\" - Рануид",
     "DESCRIPTIONS": [
       "Whenever you lose HP in combat, gain #b",
       " #yBlock next turn."
     ]
   },
   "Shovel": {
-    "NAME": "Shovel",
-    "FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
+    "NAME": "Лопата",
+    "FLAVOR": "Торањ садржи свакакав број реликвија из прошлих цивилизација и од моћних пустолова, све изгубљено у времену. Време је да се ископају!",
     "DESCRIPTIONS": [
-      "You can now #yDig for loot at Rest Sites."
+      "Сада можеш да #yКопаш блага на Одмаралиштима."
     ]
   },
   "Shuriken": {
-    "NAME": "Shuriken",
-    "FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
+    "NAME": "Шурикен",
+    "FLAVOR": "Лагана бацачка оружја. Предлаже се циљање у очи.",
     "DESCRIPTIONS": [
-      "Every time you play #b",
-      " #yAttacks in a single turn, gain #b",
-      " #yStrength."
+      "Сваки пут када одиграш #b",
+      " #yНапада у једном потезу, задоби +#b",
+      " на #yСнагу."
     ]
   },
   "Singing Bowl": {
-    "NAME": "Singing Bowl",
-    "FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
+    "NAME": "Певајућа чинија",
+    "FLAVOR": "Овај добро коришћен артефакт при ударцу звони прелепом мелодијом.",
     "DESCRIPTIONS": [
-      "When adding cards to your deck, you may gain #b+2 Max HP instead."
+      "Уместо додавања карте у шпил, можеш да изабереш #b+2 макс. ЗП."
     ]
   },
   "Smiling Mask": {
-    "NAME": "Smiling Mask",
-    "FLAVOR": "Mask worn by the merchant. He must have spares...",
+    "NAME": "Насмејана маска",
+    "FLAVOR": "Маска коју носи трговац. Мора да има резерве...",
     "DESCRIPTIONS": [
-      "The merchant's card removal service now always costs #b",
-      " #yGold."
+      "Трговчева услуга уклањања карата сада увек кошта #b",
+      " #yЗлата."
     ]
   },
   "Ring of the Snake": {
-    "NAME": "Ring of the Snake",
-    "FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
+    "NAME": "Прстен змије",
+    "FLAVOR": "Начињен од фосилизоване змије. Представља велику ловчеву вештину.",
     "DESCRIPTIONS": [
-      "At the start of each combat, draw #b",
-      " additional cards."
+      "На почетку сваке борбе, вуци #b",
+      " додатне карте."
     ]
   },
   "Snecko Eye": {
-    "NAME": "Snecko Eye",
-    "FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
+    "NAME": "Змијково око",
+    "FLAVOR": "Око палог змијка. Веће него што си мислио.",
     "DESCRIPTIONS": [
-      "Draw #b2 additional cards each turn. Start each combat #yConfused."
+      "Вуци #b2 додатне карте сваки потез. Почињеш сваку борбу #yЗбуњен."
     ]
   },
   "Snake Skull": {
-    "NAME": "Snecko Skull",
-    "FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
+    "NAME": "Змијкова лобања",
+    "FLAVOR": "Беспрекорна лобања змијка. Мистериозно чиста и глатка, прљавштина и прашина необјашњиво спадају.",
     "DESCRIPTIONS": [
-      "Whenever you apply #yPoison, apply an additional #b",
-      " #yPoison."
+      "Сваки пут када нанесеш #yОтров, нанеси додатан #b",
+      " #yОтров."
     ]
   },
   "Sozu": {
-    "NAME": "Sozu",
-    "FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
+    "NAME": "Содзу",
+    "FLAVOR": "Примећујеш да магичне течности губе своја својства близу ове реликвије.",
     "DESCRIPTIONS": [
-      " You can no longer obtain potions. ",
-      "Gain [R] at the start of each turn.",
-      "Gain [G] at the start of each turn.",
-      "Gain [B] at the start of each turn."
+      " Више не можеш да задобијеш напитке. ",
+      "Задоби [R] на почетку сваког потеза.",
+      "Задоби [G] на почетку сваког потеза.",
+      "Задоби [B] на почетку сваког потеза."
     ]
   },
   "Spirit Poop": {
-    "NAME": "Spirit Poop",
-    "FLAVOR": "The charred remains of your offering to the spirits.",
+    "NAME": "Гованце духова",
+    "FLAVOR": "Угљенисани остаци твог приноса духовима.",
     "DESCRIPTIONS": [
-      "It's unpleasant."
+      "Непријатно је."
     ]
   },
   "Strange Spoon": {
-    "NAME": "Strange Spoon",
-    "FLAVOR": "Staring at the spoon, it appears to bend and twist around before your eyes.",
+    "NAME": "Чудна кашика",
+    "FLAVOR": "Зурећи у кашику, чини се да се криви и увија пред твојим очима.",
     "DESCRIPTIONS": [
-      "Cards which #yExhaust when played will instead discard #b50% of the time."
+      "Карте који се #yИсцрпљују при одигравању се сада одбацују #b50% времена."
     ]
   },
   "Strawberry": {
-    "NAME": "Strawberry",
-    "FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
+    "NAME": "Јагода",
+    "FLAVOR": "\"Преукусно! Нисам наишао ни на једну још од буђи.\" - Рануид",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Повећај своје макс. ЗП за #b"
     ]
   },
   "Sundial": {
-    "NAME": "Sundial",
-    "FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
+    "NAME": "Сунчани часовник",
+    "FLAVOR": "\"Будаласта опсесија раног човека временом их је терала да упере своје погледе ка небу, надајући се нечем сталном.\" - Зорот",
     "DESCRIPTIONS": [
-      "Every #b",
-      " times you shuffle your deck, gain [R] [R] .",
-      " times you shuffle your deck, gain [G] [G] .",
-      " times you shuffle your deck, gain [B] [B] ."
+      "Свака #b",
+      " пута када измешаш свој шпил, задоби [R] [R] .",
+      " пута када измешаш свој шпил, задоби [G] [G] .",
+      " пута када измешаш свој шпил, задоби [B] [B] ."
     ]
   },
   "Ancient Tea Set": {
-    "NAME": "Ancient Tea Set",
-    "FLAVOR": "The key to a refreshing night's rest.",
+    "NAME": "Древни чајни прибор",
+    "FLAVOR": "Кључ освежавајућег одмора ноћу.",
     "DESCRIPTIONS": [
-      "Whenever you enter a Rest Site, start the next combat with [R] [R] .",
-      "Whenever you enter a Rest Site, start the next combat with [G] [G] .",
-      "Whenever you enter a Rest Site, start the next combat with [B] [B] ."
+      "Сваки пут када уђеш у Одмаралиште, започни следећу борбу са [R] [R] .",
+      "Сваки пут када уђеш у Одмаралиште, започни следећу борбу са [G] [G] .",
+      "Сваки пут када уђеш у Одмаралиште, започни следећу борбу са [B] [B] ."
     ]
   },
   "War Paint": {
-    "NAME": "War Paint",
-    "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
+    "NAME": "Ратна боја",
+    "FLAVOR": "У прошлости, Железни би правили одбране користећи магијску ратну боју пре јуриша у битку.",
     "DESCRIPTIONS": [
-      "Upon pick up, #yUpgrade #b",
-      " random #ySkills."
+      "По узимању, #yПобошљај #b",
+      " насумичне #yВештине."
     ]
   },
   "Darkstone Periapt": {
-    "NAME": "Darkstone Periapt",
-    "FLAVOR": "The stone draws power from dark energy, converting it into vitality for the wearer.",
+    "NAME": "Тамнокамен амајлија",
+    "FLAVOR": "Камен исисава моћ из мрачне енергије, претварајући је у животност за носиоца.",
     "DESCRIPTIONS": [
-      "Whenever you obtain a #yCurse, increase your Max HP by #b"
+      "Сваки пут када задобијеш #yКлетву, повећај своје макс. ЗП за #b"
     ]
   },
   "Test 1": {
@@ -878,10 +878,10 @@
     ]
   },
   "Frozen Eye": {
-    "NAME": "Frozen Eye",
-    "FLAVOR": "No description.",
+    "NAME": "Залеђено око",
+    "FLAVOR": "Без описа.",
     "DESCRIPTIONS": [
-      "When viewing your #yDraw #yPile, the cards are now shown in order."
+      "При прегледавању #yгомиле #yза #yвучу, карте су сада приказане по реду."
     ]
   },
   "Test 2": {
@@ -937,68 +937,68 @@
     ]
   },
   "The Specimen": {
-    "NAME": "The Specimen",
-    "FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
+    "NAME": "Примерак",
+    "FLAVOR": "\"Фасцинантно! Нашао сам мутирано створење са запањујућим отровним особинама. Чувам узорак за касније испитивање.\" - Рануид",
     "DESCRIPTIONS": [
-      "Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
+      "Сваки пут када непријатељ умре, пребаци сав #yОтров који је имао на насумичног непријатеља."
     ]
   },
   "Thread and Needle": {
-    "NAME": "Thread and Needle",
-    "FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
+    "NAME": "Конац и игла",
+    "FLAVOR": "Обавијањем магичног конца око свог тела, чиниш се тврђим на додир.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yPlated #yArmor."
+      "На почетку сваке борбе, задоби #b",
+      " #yОпточеног #yоклопа."
     ]
   },
   "Tingsha": {
-    "NAME": "Tingsha",
-    "FLAVOR": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
+    "NAME": "Тингша",
+    "FLAVOR": "Звук који овај инструмент прави је изгледа способан да јечи до болних нивоа буке.",
     "DESCRIPTIONS": [
-      "Whenever you discard a card during your turn, deal #b",
-      " damage to a random enemy for each card discarded."
+      "Сваки пут када одбациш карту током свог потеза, нанеси #b",
+      " штете насумичном непријатељу за сваку одбачену карту."
     ]
   },
   "Tiny Chest": {
-    "NAME": "Tiny Chest",
-    "FLAVOR": "\"A fine prototype.\" - The Architect",
+    "NAME": "Ковчежић",
+    "FLAVOR": "\"Фин прототип.\" - Архитекта",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yGold. You are #b10% more likely to find treasure in ? rooms.",
-      "You are #b10% more likely to find treasure in ? rooms."
+      "Задоби #b",
+      " #yЗлата. Имаш #b10% више шансе да нађеш благо у ? собама.",
+      "Имаш #b10% више шансе да нађеш благо у ? собама."
     ]
   },
   "Tiny House": {
-    "NAME": "Tiny House",
-    "FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
+    "NAME": "Кућица",
+    "FLAVOR": "\"Скоро савршена имплементација минијатуризације. Моје најфиније дело до сад, али и даље неадекватно.\" - Архитекта",
     "DESCRIPTIONS": [
-      "Obtain #b1 potion. NL Gain #b",
-      " #yGold. NL Raise your Max HP by #b",
-      ". NL Obtain #b1 card. NL Upgrade #b1 random card.",
-      "Tiny House!"
+      "Задоби #b1 напитак. NL Задоби #b",
+      " #yЗлата. NL Повећај своје макс. ЗП за #b",
+      ". NL Задоби #b1 карту. NL Побољшај #b1 насумичну карту.",
+      "Кућица!"
     ]
   },
   "Toolbox": {
-    "NAME": "Toolbox",
-    "FLAVOR": "A tool for every job.",
+    "NAME": "Кутија са алатом",
+    "FLAVOR": "Алат за сваки посао.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a random colorless card to your hand."
+      "На почетку сваке борбе, додај насумилну безбојну карту у руку."
     ]
   },
   "Torii": {
-    "NAME": "Torii",
-    "FLAVOR": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
+    "NAME": "Тории",
+    "FLAVOR": "Држећи мали тории, наслућујеш осећај мира и сигурности како плови кроз твој ум.",
     "DESCRIPTIONS": [
-      "Whenever you would receive #b",
-      " or less unblocked #yAttack damage, reduce it to #b1."
+      "Сваки пут када би примио #b",
+      " или мање неодбрањене штете од #yНапада, смањи је на #b1."
     ]
   },
   "Tough Bandages": {
-    "NAME": "Tough Bandages",
-    "FLAVOR": "Loss gives strength.",
+    "NAME": "Жестоки завоји",
+    "FLAVOR": "Губици те јачају.",
     "DESCRIPTIONS": [
-      "Whenever you discard a card during your turn, gain #b",
-      " #yBlock."
+      "Сваки пут када одбациш карту током свог потеза, задоби #b",
+      " #yОдбране."
     ]
   },
   "Toxic Egg": {
@@ -1010,54 +1010,54 @@
     ]
   },
   "Toy Ornithopter": {
-    "NAME": "Toy Ornithopter",
-    "FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
+    "NAME": "Играчка махокрилац",
+    "FLAVOR": "\"Ова мала играчка је савршени сапутник усамљеном пустолову!\"",
     "DESCRIPTIONS": [
-      "Whenever you use a potion, heal #b",
-      " HP."
+      "Сваки пут када искористиш напитак, зацели #b",
+      " ЗП."
     ]
   },
   "Unceasing Top": {
-    "NAME": "Unceasing Top",
-    "FLAVOR": "The top continues to spin effortlessly as if you were in a dream.",
+    "NAME": "Непрестајућа чигра",
+    "FLAVOR": "Чигра наставља да се врти без икаквог напора, као да си у сну.",
     "DESCRIPTIONS": [
-      "Whenever you have no cards in hand during your turn, draw a card."
+      "Сваки пут када останеш без карата у свом потезу, вуци карту."
     ]
   },
   "Vajra": {
-    "NAME": "Vajra",
-    "FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
+    "NAME": "Вајра",
+    "FLAVOR": "Украсна реликвија дата ратницима који су се прославили у бици.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yStrength."
+      "На почетку сваке борбе, задоби #b",
+      " на #yСнагу."
     ]
   },
   "Velvet Choker": {
-    "NAME": "Velvet Choker",
-    "FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
+    "NAME": "Сомотни оковратник",
+    "FLAVOR": "\"Невероваатна моћ, али превише ограничена.\" - Кублај Велики",
     "DESCRIPTIONS": [
-      "You cannot play more than #b",
-      " cards per turn.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. ",
-      "I can only play up to NL #r"
+      "Не може да одиграш више од #b",
+      " карата по потезу.",
+      "Задоби [R] на почетку сваког потеза. ",
+      "Задоби [G] на почетку сваког потеза. ",
+      "Задоби [B] на почетку сваког потеза. ",
+      "Могу да одиграм само још NL #r"
     ]
   },
   "Lee's Waffle": {
-    "NAME": "Lee's Waffle",
-    "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+    "NAME": "Лијев вафл",
+    "FLAVOR": "\"Најукуснија посластица коју ће те наћи у Торњу! Умешена данас само за вас.\"",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b",
-      " and heal all of your HP."
+      "Повећај своје макс. ЗП за #b",
+      " и зацели све своје ЗП."
     ]
   },
   "Whetstone": {
-    "NAME": "Whetstone",
-    "FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
+    "NAME": "Тоцило",
+    "FLAVOR": "\"Тело никад не побеђује челик.\" - Кублај Велики",
     "DESCRIPTIONS": [
-      "Upon pick up, #yUpgrade #b",
-      " random #yAttacks."
+      "По узимању, #yПобољшај #b",
+      " насумична #yНапада."
     ]
   },
   "Derp Rock": {
@@ -1069,18 +1069,18 @@
     ]
   },
   "NeowsBlessing": {
-    "NAME": "Neow's Lament",
-    "FLAVOR": "The blessing of lamentation bestowed by Neow.",
+    "NAME": "Њовов плач",
+    "FLAVOR": "Благослов оплакивања дарован од Њова.",
     "DESCRIPTIONS": [
-      "Enemies in your first #b3 combats will have 1 HP.",
-      "The blessing is used up."
+      "Непријатељи у прве #b3 борбе имају 1 ЗП.",
+      "Благослов је искоришћен."
     ]
   },
   "White Beast Statue": {
-    "NAME": "White Beast Statue",
-    "FLAVOR": "A small white statue of a creature you have never seen before.",
+    "NAME": "Статуа беле звери",
+    "FLAVOR": "Бела статуица створења које никад раније ниси видео.",
     "DESCRIPTIONS": [
-      "Potions always drop after combat."
+      "Напици увек испадају после борбе."
     ]
   }
 }

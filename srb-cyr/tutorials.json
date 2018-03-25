@@ -1,219 +1,219 @@
 {
   "Main Tutorial": {
     "TEXT": [
-      "Defeat enemies by playing cards from your hand! NL NL Cards require #yEnergy to play. NL Once you are out, end your turn. NL NL At the start of your turn, new cards are drawn and your #yEnergy is replenished.",
-      "Play defensive cards to gain #yBlock when enemies are about to attack you. NL NL #yBlock reduces incoming attack damage but NL #rwears #roff at the start of your next turn.",
-      "During your turn, you can observe an enemy's #yIntent above them. NL NL If an enemy is intent on attacking you, be sure to gain some #yBlock!"
+      "Порази непријатеље одигравањем карата из руке! NL NL Карте захтевају #yЕнергију како би се одиграле. NL Када останеш без, заврши свој потез. NL NL На почетку свог потеза, вучеш нове карте и #yЕнергија се обнавља.",
+      "Играј дефанзиве карте да задобијеш #yОдбрану када непријатељи намеравају да те нападну. NL NL #yОдбрана умањује надолазећу штету али NL #rистиче на почетку твог следећег потеза.",
+      "Током твог потеза, можеш да опазиш непријатељеву #yНамеру изнад њега. NL NL Ако непријатељ намерава да нападне, осигурај се са барем нешто #yОдбране!"
     ],
     "LABEL": [
-      "Next",
-      "I'm Ready!",
-      "Tutorial",
-      "(Page ",
-      " of 3)"
+      "Даље",
+      "Среман сам!",
+      "Водич",
+      "(Страна ",
+      " од 3)"
     ]
   },
   "FTUE Tips": {
     "TEXT": [],
     "LABEL": [
-      "Tip: ",
-      "Got It"
+      "Савет: ",
+      "Схватам"
     ]
   },
   "Potion Tip": {
     "TEXT": [
-      "Drink or throw potions during combat! NL Potions stay with you between rooms."
+      "Испиј или баци напитке током борбе! NL Напици остају на теби између соба."
     ],
     "LABEL": [
-      "Potions"
+      "Напици"
     ]
   },
   "Energy Tip": {
     "TEXT": [
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn."
+      "Карте захтевају енергију за одигравање! NL Ова сфера доле лево показује колико ти је преостало енергије у овом потезу."
     ],
     "LABEL": [
-      "Energy Cost"
+      "Трошак енергије"
     ]
   },
   "Shuffle Tip": {
     "TEXT": [
-      "NL If there are no cards to draw, your discard pile is shuffled into the draw pile."
+      "NL Ако нема више карата за вучење, гомила за одбацивање се меша у нову гомилу за вучење."
     ],
     "LABEL": [
-      "No More Cards?"
+      "Нема више карата?"
     ]
   },
   "Player Tips": {
     "TEXT": [
-      "This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn.",
-      "My #rHand #ris #rFull!"
+      "Ова карта примењује Моћ на тебе када се одигра. NL Моћи су пасивне способности које остаје током целе борбе.",
+      "Карте захтевају енергију за одигравање! NL Ова сфера доле лево показује колико ти је преостало енергије у овом потезу.",
+      "Моја #rрука #rје #rпуна!"
     ],
     "LABEL": [
-      "Power Cards",
-      "Energy Cost"
+      "Моћи",
+      "Трошак енергије"
     ]
   },
   "Relic Tip": {
     "TEXT": [
-      "Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
-      "This relic remains to be seen.",
-      "Its power is all used up."
+      "Реликвије нађене по целом Торњу дају јединствене бонусе и остају кроз цео твој поход. NL Могу се наћи победом моћних непријатеља или у ковчезима.",
+      "На ову реликвију тек треба наићи.",
+      "Њена моћ је скроз истрошена."
     ],
     "LABEL": [
-      "Relics",
-      "Unknown",
-      "This relic has yet to be unlocked.",
-      "Locked"
+      "Реликвије",
+      "Непознато",
+      "Ову реликвију тек треба откључати.",
+      "Закључано"
     ]
   },
   "Rewards Tip": {
     "TEXT": [
-      "Don't forget your rewards! NL Just click on them to pick them up."
+      "Не заборави своје награде! NL Само притисни на њих да би их покупио."
     ],
     "LABEL": [
-      "Rewards"
+      "Награде"
     ]
   },
   "Draw Tip": {
     "TEXT": [
-      "At the start of each turn, NL #b",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      "На почетку сваког потеза, NL #b",
+      " карата се вуче одавде. NL NL Притисни да прегледаш карте у својој гомили за вучење (измешане).",
+      " карата се вуче одавде. NL NL Притисни да прегледаш карте у својој гомили за вучење."
     ],
     "LABEL": [
-      "Draw Pile"
+      "Гомила за вучење"
     ]
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Притисни да прегледаш карте Исцрпљене током ове борбе."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Исцрпљене карте"
     ]
   },
   "Options Tip": {
     "TEXT": [
-      "Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
-      "Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
-      "As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
-      "Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate."
+      "Подаци играња и записи грешака се шаљу Мега Криту зарад балансирања игре. NL NL Личне информације се НЕ скупљају.",
+      "Поход на Торањ најбрже ради у пуном екрану. Препоручљиво за OSX с обзиром да су Док и Менибар скривени. NL НАПОМЕНА: На PC-у, алт-табовање назад у Поход на Торањ неће увек радити у пуном екрану.",
+      "С обзиром да Поход на Торањ није захтевна игра, предлажемо безоквирни пун прозор за брже функионисање алт-таба. Најбоље ради на PC-у.",
+      "Напомена: Ако је вертикална синхронизација упаљена, број макс. слика у секунди не може да превазиђе учесталост освежавања монитора."
     ],
     "LABEL": [
-      "Metrics",
-      "Fullscreen",
-      "Borderless Fullscreen",
-      "Max Framerate"
+      "Метрика",
+      "Пун екран",
+      "Безоквирни пун прозор",
+      "Макс. слика у секунди"
     ]
   },
   "Shop Tip": {
     "TEXT": [
-      "Remove a card from your deck. The cost of this service increases by #b",
-      " for the rest of this run."
+      "Уклони карту из шпила. Цена ове услуге се повећава за #b",
+      " до краја овог похода."
     ],
     "LABEL": [
-      "Card Removal Service"
+      "Сервис уклањања карата"
     ]
   },
   "End Turn Tip": {
     "TEXT": [
-      "Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
-      " cards, then it will be your turn again."
+      "Притиском на ово дугме завршаваш свој потез. NL NL Одбацујеш своју руку, непријатељи играју свој потез, вучеш ",
+      " карата, и онда поново долазиш на ред."
     ],
     "LABEL": [
-      "End Turn"
+      "Заврши потез"
     ]
   },
   "Discard Tip": {
     "TEXT": [
-      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
+      "Ако је твоја гомила за вучење празна, гомила за одбацивање се меша у нову гомилу за вучење. NL NL Притисни да прегледаш карте у својој гомили за одбацивање."
     ],
     "LABEL": [
-      "Discard Pile"
+      "Гомила за одбацивање"
     ]
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Your current energy count. Cards require energy to play."
+      "Твој тренутна количина енергије. Карте захтевају енергију за одигравање."
     ],
     "LABEL": [
-      "Energy"
+      "Енергија"
     ]
   },
   "Potion Panel Tip": {
     "TEXT": [
-      "Throws this potion at your enemy.",
-      "Consume this potion.",
-      "Discards this potion NL #r(cannot #rbe #rundone)"
+      "Баци овај напитак на непријатеља.",
+      "Испиј овај напитак.",
+      "Одбацуј овај напитак NL #r(не може #rсе #rповратити)"
     ],
     "LABEL": [
-      "Throw",
-      "Drink",
-      "Discard"
+      "Баци",
+      "Испиј",
+      "Одбаци"
     ]
   },
   "Top Panel Tips": {
     "TEXT": [
-      "Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
-      "View all of the cards in your deck.",
-      "View this current dungeon's map.",
-      "If you run out of HP, you die.",
-      "Shows how much gold you are carrying. Gold is the currency within the Spire.",
+      "Отвара мени игре. NL NL Промени или ажурирај графику, аудио, и опције овде.",
+      "Прегледај све карте у свом шпилу.",
+      "Прегледај мапу тренутног доњона.",
+      "Ако останеш без ЗП, умиреш.",
+      "Приказује колико злата носиш. Злато је валута унутар Торња.",
       "",
       "",
-      "Elapsed time for this run."
+      "Време од почетка тренутног похода."
     ],
     "LABEL": [
-      "Settings",
-      "Deck",
-      "Map",
-      "Hit Points (HP)",
-      "Money Pouch",
-      "Run Timer"
+      "Поставке",
+      "Шпил",
+      "Мапа",
+      "Здравствени поени (ЗП)",
+      "Торбица за новац",
+      "Времена у походу"
     ]
   },
   "Random Tips": {
     "TEXT": [
-      "Engage with other players to discover new and effective strategies.",
-      "There is always a rest site before a boss.",
-      "Spend gold at shops! (Tip paid for by Merchant)",
-      "Take a break every now and then.",
-      "No enemy will use the same move 3 times in a row.",
-      "Percentage-based calculations always round down at the end.",
-      "During combat, you can view the contents of your draw and discard piles.",
-      "Useful information can be revealed by hovering over most objects.",
-      "Toggle tips on/off by clicking on the ? button in the top right corner.",
-      "Right click will release any cards you are dragging.",
-      "Hover over an enemy to see their name and Power information.",
-      "Use the scroll wheel or click and drag the screen to scroll.",
-      "If you can inspect an item, your cursor will become a magnifying glass.",
-      "There is no limit to how many relics you can carry.",
-      "Chests will always drop a relic.",
-      "Every path you take will always have at least 1 treasure room.",
-      "Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
-      "Elite enemies will always drop a relic.",
-      "You will never see the same relic twice in one run.",
-      "Uncommon cards have a blue frame and banner.",
-      "Rare cards have a golden frame and banner.",
-      "The rarity of a card is visible on the card itself.",
-      "It is not always wise to add cards to your deck.",
-      "Cards exhausted during combat are not removed from your deck.",
-      "You can only have up to 10 cards in your hand.",
-      "Status cards go away at the end of combat.",
-      "Curses cannot be upgraded. Why would you?",
-      "Upgraded cards may appear in rewards past Act 1.",
-      "Potions can only be used during combat.",
-      "Potions cannot be discarded during combat.",
-      "Unknown rooms may contain treasures, monsters, shops, or events.",
-      "The Merchant doesn't offer refunds. He is a jerk.",
-      "The card removal service increases in price whenever you use it.",
-      "The card removal service can only be used once at each shop.",
-      "Damage from potions, relics, and powers are not considered attack damage."
+      "Укључи се са другим играчима како би открио нове и делотворне стратегије.",
+      "Пре вожда је увек одмаралиште.",
+      "Потроши злато на тржници! (Овај савет платио Трговац)",
+      "Узми паузу с времена на време.",
+      "Ниједан непријатељ неће искористи исти потез три пута заредом.",
+      "Проценутална рачунања се на крају увек заокружују на доле.",
+      "Током борбе, можеш да прегледаш садржину својих гомила за вучење и одбацивање.",
+      "Могу се открити корисне информације прелажењем преко већине предмета.",
+      "Упали или угаси савете притиском на ? тастер у горњем десном углу.",
+      "Десни притисак отпушта било карте које тренутно превлачиш.",
+      "Пређи преко непријатеља како да видиш његово име и информације о Моћима.",
+      "Користи точкић или притисни и вуци по екрану не би ли се померао.",
+      "У случају да можеш да испиташ предмет, миш на екрану ће постати лупа.",
+      "Не постоји границеа у количини реликвија које можеш да носиш.",
+      "Кочвези увек садрже реликвију.",
+      "Свака стаза на коју се денеш ће увек имати барем једно благо.",
+      "Користи токчић или притисни и вуци како би прегледавао мапе, приказе карата, и друго.",
+      "Челници увек испуштају реликвију.",
+      "Никад нећеш видети исту реликвију двапут у једном походу.",
+      "Неуобичајене карте имају плави оквир и заглавље.",
+      "Ретке карте имају златни оквир и заглавље.",
+      "Раритет карте је видљив на самој карти.",
+      "Није увек мудро додавати карте у шпил.",
+      "Карте исцрпљене током борбе нису уклоњене из шпила.",
+      "Можеш имати само до 10 карата у руци одјендом.",
+      "Карте Стања нестају на крају борбе.",
+      "Клетве не можеш побољшати. Зашто би уопште хтео?",
+      "Побољшане карте се појављују после првог Чина.",
+      "Напици се могу користити само током борбе.",
+      "Напици се не могу одбацити током борбе.",
+      "Непознате собе могу садржати блага, чудовишта, тржнице, или догађаје.",
+      "Трговац не нуди повраћај. Кретен.",
+      "Цена сервиса за уклањање карата се повећава са сваким коришћењем.",
+      "Сервис за уклањање карата се може искористити само једном по тржници.",
+      "Штета од напитака, реликвија, и моћи се не сматра штетом од напада."
     ],
     "LABEL": [
-      "You can discard potions to make room for others."
+      "Можеш да одбацујеш напитке како би направио места за друге."
     ]
   }
 }

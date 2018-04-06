@@ -87,7 +87,7 @@
   },
   "Exhume": {
     "NAME": "Exhume",
-    "DESCRIPTION": "Choose an exhausted card and put it in your hand. NL Exhaust."
+    "DESCRIPTION": "Choose an exhausted card and place it in your hand. NL Exhaust."
   },
   "Power Through": {
     "NAME": "Power Through",
@@ -491,7 +491,7 @@
   },
   "AscendersBane": {
     "NAME": "Ascender’s Bane",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
   },
   "Barricade": {
     "NAME": "Barricade",
@@ -808,7 +808,7 @@
     ]
   },
   "Ghostly": {
-    "NAME": "Ghostly",
+    "NAME": "Apparition",
     "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
     "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   },
@@ -830,8 +830,8 @@
   },
   "Evolve": {
     "NAME": "Evolve",
-    "DESCRIPTION": "Shuffle 2 Wounds into your draw pile. NL Whenever you draw a Wound, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Shuffle 2 Wounds into your draw pile. NL Whenever you draw a Wound, draw !M! cards."
+    "DESCRIPTION": "Whenever you draw a Status, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Whenever you draw a Status, draw !M! cards."
   },
   "Burn": {
     "NAME": "Burn",
@@ -853,8 +853,8 @@
   },
   "Thinking Ahead": {
     "NAME": "Thinking Ahead",
-    "DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
+    "DESCRIPTION": "Draw 2 cards. NL Place a card from your hand on top of your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Place a card from your hand on top of your draw pile."
   },
   "Distraction": {
     "NAME": "Distraction",

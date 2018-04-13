@@ -41,7 +41,8 @@
         "исцрпи",
         "исцрпиш",
         "исцрпљена",
-        "исцрпљену"
+        "исцрпљену",
+        "исцрпљујеш"
       ],
       "DESCRIPTION": "Уклони карту до краја борбе."
     },
@@ -143,6 +144,19 @@
       ],
       "DESCRIPTION": "Ране су неодигрива Стања."
     },
+    "DAZED": {
+      "NAMES":[
+        "ошамућеност"
+      ],
+      "DESCRIPTION": "Ошамућености су неодигрива Стања."
+    },
+    "BURN": {
+      "NAMES":[
+        "опекотина",
+        "опекотину"
+      ],
+      "DESCRIPTION": "Опекотине су неодигрива Стања која ти наносе штету."
+    },
     "FRAIL": {
       "NAMES": [
         "оронуо"
@@ -159,17 +173,7 @@
       "NAMES": [
         "растројен"
       ],
-      "DESCRIPTION": "Цена сваке карте коју вучеш је насумична."
-    },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
+      "DESCRIPTION": "Трошак сваке карте коју вучеш је насумична."
     },
     "INTANGIBLE": {
       "NAMES":[

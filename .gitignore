@@ -2,3 +2,4 @@ eng-old
 srb-lat
 validate_localization.py
 *.code-workspace
+*.zip

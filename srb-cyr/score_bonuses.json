@@ -6,7 +6,7 @@
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Убијених челника у Вани",
+    "NAME": "Убиј. челника у Вани",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
@@ -14,7 +14,7 @@
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "Убијених челника у Граду",
+    "NAME": "Убиј. челника у Граду",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
@@ -126,13 +126,13 @@
   "Librarian": {
     "NAME": "Библиотекар",
     "DESCRIPTIONS": [
-      "Величина шпила је већа од 35 карата."
+      "Имаш више од 35 карата у шпилу."
     ]
   },
   "Encyclopedian": {
     "NAME": "Енциклопедиста",
     "DESCRIPTIONS": [
-      "Шпил ти садржи више од 50 карата."
+      "Имаш више од 50 карата у шпилу."
     ]
   },
   "Well Fed": {
@@ -150,7 +150,7 @@
   "Curses": {
     "NAME": "Судбо клета!",
     "DESCRIPTIONS": [
-      "Шпил ти садржи пет клетви."
+      "Имаш барем пет клетви."
     ]
   },
   "Alchemist": {

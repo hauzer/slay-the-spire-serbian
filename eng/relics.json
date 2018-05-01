@@ -212,6 +212,13 @@
       "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by #b20%."
     ]
   },
+  "Cracked Core": {
+    "NAME": "Cracked Core",
+    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yLightning."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Cursed Key",
     "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
@@ -550,7 +557,7 @@
     "NAME": "Oddly Smooth Stone",
     "FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
+      "Start each combat with #b",
       " #yDexterity."
     ]
   },
@@ -1028,7 +1035,7 @@
     "NAME": "Vajra",
     "FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
+      "Start each combat with #b",
       " #yStrength."
     ]
   },
@@ -1081,6 +1088,63 @@
     "FLAVOR": "A small white statue of a creature you have never seen before.",
     "DESCRIPTIONS": [
       "Potions always drop after combat."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Push. Pull. Stack. Repeat.",
+    "DESCRIPTIONS": [
+      "Every #b2 turns, gain #b1 Orb slot."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit of bad can do a lot of good...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yDark."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yPlasma."
+    ]
+  },
+  "Cables": {
+    "NAME": "Gold-Plated Cables",
+    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Your rightmost Orb triggers its passive an additional time."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runic Capacitor",
+    "FLAVOR": "More is better.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 additional Orb slots."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Data Disk",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yFocus."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
     ]
   }
 }

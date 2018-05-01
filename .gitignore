@@ -1,5 +1,7 @@
+__pycache__
 eng-old
 srb-lat
+fill_empty_fields.py
 validate_localization.py
 *.code-workspace
 *.zip

@@ -159,16 +159,16 @@
       "Alexandr \"LiaNdrY\" Mazistov"
     ]
   },
-  "LOC_TUR": {
-    "HEADER": "Turkish Localization",
-    "NAMES": [
-      "Erdem Gürbüz"
-    ]
-  },
   "LOC_SRB": {
     "HEADER": "Serbian Localization",
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Turkish Localization",
+    "NAMES": [
+      "Erdem Gürbüz"
     ]
   },
   "LOC_ADDITIONAL": {

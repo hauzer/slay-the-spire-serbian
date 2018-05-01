@@ -409,13 +409,13 @@
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Сваку битку почињеш овим картама.",
+      "Сваку битку почињеш са овим картама.",
       "Назад"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "Овде су све карте које су исцрпљене у овој борби.",
+      "Овде су све карте које су исцрпљене у тренутној борби.",
       "Назад"
     ]
   },
@@ -699,33 +699,33 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "Контроле",
+      "Поставке",
+      "Назад",
+      "Команда",
+      "Тастатура",
+      "Контролер (тренутно недоступно)",
+      "Врати на оригинална подешавања",
+      "Потврди",
+      "Откажи / Изађи",
+      "Мапа",
+      "Шпил",
+      "Гомила за вучење",
+      "Гомила за одбацивање",
+      "Гомила за исцрпљене",
+      "Заврши потез",
+      "Лево",
+      "Десно",
+      "Одабери карту #1",
+      "Одабери карту #2",
+      "Одабери карту #3",
+      "Одабери карту #4",
+      "Одабери карту #5",
+      "Одабери карту #6",
+      "Одабери карту #7",
+      "Одабери карту #8",
+      "Одабери карту #9",
+      "Одабери карту #10"
     ]
   },
   "InputKeyNames": {
@@ -1096,8 +1096,8 @@
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "Изабери карту коју ћеш ставити на врх гомиле за вучење.",
+      "Изабери карте које ћеш ставити на врх гомиле за вучење."
     ]
   }
 }

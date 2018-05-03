@@ -155,9 +155,14 @@
       "заменити (коцкарски чип)"
     ]
   },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Изабери карту коју ћеш вратити у руку."
+    ]
+  },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "Одбаци"
     ]
   },
   "RetainCardsAction": {
@@ -203,7 +208,7 @@
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
       "Изабери карту коју ћеш додати у руку",
-      "Изабере карте коју ћеш додати у руку"
+      "Изабере карте које ћеш додати у руку"
     ]
   },
   "AttackFromDeckToHandAction": {

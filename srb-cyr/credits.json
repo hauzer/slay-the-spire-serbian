@@ -74,7 +74,7 @@
   "LOC_DEU": {
     "HEADER": "Немачки превод",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
+      "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
       "Jonas Trodler",
       "Hongkong Koma",
@@ -232,11 +232,11 @@
     "NAMES": []
   },
   "LOC_CAT": {
-    "HEADER": "Catalan Localization",
+    "HEADER": "Каталонски превод",
     "NAMES": []
   },
   "LOC_UKR": {
-    "HEADER": "Ukrainian Localization",
+    "HEADER": "Украјински превод",
     "NAMES": []
   }
 }

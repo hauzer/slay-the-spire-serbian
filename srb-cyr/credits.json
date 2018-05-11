@@ -1,42 +1,16 @@
 {
-  "DEV": {
-    "HEADER": "Развој & дизајн",
-    "NAMES": [
-      "Anthony Giovannetti",
-      "Casey Yano"
-    ]
-  },
-  "OPS": {
-    "HEADER": "Операције & метрика",
-    "NAMES": [
-      "Danielle Jenkins",
-      "Jake Rabinowitz"
-    ]
-  },
-  "SOUND": {
-    "HEADER": "Музика & звук",
-    "NAMES": [
-      "Clark Aboud"
-    ]
-  },
-  "VOICE": {
-    "HEADER": "Гласовна глума",
-    "NAMES": [
-      "Tamara Ryan",
-      "Michael Schwalbe"
-    ]
-  },
-  "PORTRAITS": {
-    "HEADER": "Визуелни дизајн карата & догађаја",
-    "NAMES": [
-      "Anailis Dorta"
-    ]
-  },
   "ANIMATION": {
     "HEADER": "Анимација ликова",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Развој & дизајн",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
@@ -45,15 +19,25 @@
       "Bruce Brenneise"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "Кинески (поједностављен) превод",
+  "LOC_ADDITIONAL": {
+    "HEADER": "Остали преводи",
     "NAMES": [
-      "Sound of Mystery"
+      "MoGi Group"
     ]
   },
-  "LOC_ZHT": {
-    "HEADER": "Кинески (традиционалан) превод",
+  "LOC_CAT": {
+    "HEADER": "Каталонски превод",
     "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Немачки превод",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
+    ]
   },
   "LOC_FRA": {
     "HEADER": "Француски превод",
@@ -69,16 +53,6 @@
       "Corentin \"Tchus\" Monfort",
       "Zachary \"WyvernZed\" Janisse",
       "Zachary \"WyvernZed\" Janisse"
-    ]
-  },
-  "LOC_DEU": {
-    "HEADER": "Немачки превод",
-    "NAMES": [
-      "Joshua \"Joshipon\" Wiegand",
-      "Dustin \"Skrelpoid\" Kristen",
-      "Jonas Trodler",
-      "Hongkong Koma",
-      "Moly"
     ]
   },
   "LOC_ITA": {
@@ -163,22 +137,63 @@
       "Alexandr \"LiaNdrY\" Mazistov"
     ]
   },
-  "LOC_TUR": {
-    "HEADER": "Турски превод",
-    "NAMES": [
-      "Erdem Gürbüz"
-    ]
-  },
   "LOC_SRB": {
     "HEADER": "Српски превод",
     "NAMES": [
       "Никола \"hauzer\" Вукосављевић"
     ]
   },
-  "LOC_ADDITIONAL": {
-    "HEADER": "Остали преводи",
+  "LOC_TUR": {
+    "HEADER": "Турски превод",
     "NAMES": [
-      "MoGi Group"
+      "Erdem Gürbüz"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Украјински превод",
+    "NAMES": []
+  },
+  "LOC_ZHS": {
+    "HEADER": "Кинески (поједностављен) превод",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Кинески (традиционалан) превод",
+    "NAMES": []
+  },
+  "OPS": {
+    "HEADER": "Операције & метрика",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Визуелни дизајн карата & догађаја",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Музика & звук",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Посебна захвалност",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper"
     ]
   },
   "TEST": {
@@ -213,30 +228,15 @@
       "Conor Watson"
     ]
   },
-  "SPECIAL": {
-    "HEADER": "Посебна захвалност",
-    "NAMES": [
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
-      "feedbackbot",
-      "Evan Howell",
-      "Justin Myhres",
-      "robojumper"
-    ]
-  },
   "THANKS_MSG": {
     "HEADER": "...и хвала ТЕБИ на игрању!",
     "NAMES": []
   },
-  "LOC_CAT": {
-    "HEADER": "Каталонски превод",
-    "NAMES": []
-  },
-  "LOC_UKR": {
-    "HEADER": "Украјински превод",
-    "NAMES": []
+  "VOICE": {
+    "HEADER": "Гласовна глума",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
   }
 }

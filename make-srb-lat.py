@@ -6,8 +6,8 @@ import subprocess
 
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
-srb_cyr_dir = os.path.join(root_dir, 'srb-cyr')
-srb_lat_dir = os.path.join(root_dir, 'srb-lat')
+srb_cyr_dir = os.path.join(root_dir, 'srp')
+srb_lat_dir = os.path.join(root_dir, 'srb')
 
 shutil.rmtree(srb_lat_dir, ignore_errors=True)
 os.makedirs(srb_lat_dir)

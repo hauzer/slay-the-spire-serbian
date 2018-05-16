@@ -1,6 +1,6 @@
 __pycache__
 eng-old
-srb-lat
+srb
 fill_empty_fields.py
 validate_localization.py
 *.code-workspace

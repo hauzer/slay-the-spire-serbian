@@ -3,5 +3,6 @@ eng-old
 srb
 fill_empty_fields.py
 validate_localization.py
+validation_results.txt
 *.code-workspace
 *.zip

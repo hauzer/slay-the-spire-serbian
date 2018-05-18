@@ -154,9 +154,9 @@
   "Regen Potion": {
     "NAME": "Regen Potion",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " #yHP at the end of each turn for #b",
-      " turns."
+      "Gain #b",
+      " #yRegen.",
+      ""
     ]
   },
   "SkillPotion": {
@@ -175,7 +175,8 @@
     "NAME": "Snecko Oil",
     "DESCRIPTIONS": [
       " Become #yConfused. Draw #b",
-      " cards."
+      " cards.",
+	  "card."
     ]
   },
   "SpeedPotion": {

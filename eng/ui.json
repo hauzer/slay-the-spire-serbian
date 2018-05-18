@@ -912,9 +912,19 @@
       "#r%s Turns",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "Picked:",
-      "Skipped:",
-      "Missing Info"
+      "#yObtained:",
+      "#ySkipped:",
+      "Missing Info",
+      "+2 Max HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS ",
+      "#bRested",
+      "#bUpgraded %s",
+      "#bRemoved %s",
+      "#bDug",
+      "#bLifted %s/%s"
     ]
   },
   "RunHistoryScreen": {

@@ -70,7 +70,7 @@
     "NAME": "Black Star",
     "FLAVOR": "Originally discovered in the town of the serpent, aside a solitary candle.",
     "DESCRIPTIONS": [
-      "#yElites now drop #b2 #yRelics when defeated."
+      "#yElites drop an additional relic when defeated."
     ]
   },
   "Blood Vial": {
@@ -172,7 +172,7 @@
     "NAME": "Cauldron",
     "FLAVOR": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
     "DESCRIPTIONS": [
-      "When obtained, brews #b5 random potions.",
+      "Upon pick up, brews #b5 random potions.",
       "Blup blip bloop...!"
     ]
   },
@@ -451,7 +451,7 @@
     "NAME": "Lee's Waffle",
     "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b",
+      "Upon pick up, raise your Max HP by #b",
       " and heal all of your HP."
     ]
   },
@@ -488,7 +488,7 @@
     "NAME": "Mango",
     "FLAVOR": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Upon pick up, raise your Max HP by #b"
     ]
   },
   "Mark of Pain": {
@@ -641,7 +641,7 @@
     "NAME": "Old Coin",
     "FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
     "DESCRIPTIONS": [
-      "Gain #b300 #yGold."
+      "Upon pick up, gain #b300 #yGold."
     ]
   },
   "Omamori": {
@@ -718,7 +718,7 @@
     "NAME": "Pear",
     "FLAVOR": "A common fruit before the Spireblight.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Upon pick up, raise your Max HP by #b"
     ]
   },
   "Pen Nib": {
@@ -742,14 +742,14 @@
     "NAME": "Potion Belt",
     "FLAVOR": "I can hold more Potions using this belt!",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b1 Potion slot."
+      "Upon pick up, gain #b2 Potion slots."
     ]
   },
   "Prayer Wheel": {
     "NAME": "Prayer Wheel",
     "FLAVOR": "The wheel continues to spin, never stopping.",
     "DESCRIPTIONS": [
-      "Non-Boss chests now also contain cards."
+      "Normal enemies drop an additional card reward."
     ]
   },
   "Question Card": {
@@ -920,7 +920,7 @@
     "NAME": "Strawberry",
     "FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Upon pick up, raise your Max HP by #b"
     ]
   },
   "Sundial": {
@@ -1045,7 +1045,7 @@
     "NAME": "Tiny House",
     "FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
     "DESCRIPTIONS": [
-      "Obtain #b1 potion. NL Gain #b",
+      "Upon pick up, obtain #b1 potion. NL Gain #b",
       " #yGold. NL Raise your Max HP by #b",
       ". NL Obtain #b1 card. NL Upgrade #b1 random card.",
       "Tiny House!"
@@ -1152,6 +1152,14 @@
     "FLAVOR": "A small white statue of a creature you have never seen before.",
     "DESCRIPTIONS": [
       "Potions always drop after combat."
+    ]
+  },
+  "Boot": {
+    "NAME": "The Boot",
+    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "DESCRIPTIONS": [
+      "Whenever you would deal #b",
+      " or less unblocked #yAttack damage, increase it to #b5."
     ]
   }
 }

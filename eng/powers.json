@@ -162,7 +162,8 @@
     "NAME": "Creative AI",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b",
-      " random Power card into your hand."
+      " random Power card into your hand.",
+      " random Power cards into your hand."
     ]
   },
   "Curiosity": {
@@ -280,8 +281,8 @@
     "NAME": "Electro",
     "DESCRIPTIONS": [
       "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
+      "",
+      ""
     ]
   },
 

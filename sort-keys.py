@@ -5,7 +5,7 @@ import json
 import os
 
 
-dir_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'srb-cyr')
+dir_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'srp')
 
 _, _, files = next(os.walk(dir_path))
 for f in files:

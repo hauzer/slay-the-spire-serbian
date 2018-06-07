@@ -294,6 +294,15 @@
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Енергизован",
+    "DESCRIPTIONS": [
+      "Задоби #b",
+      " додатну [B] следећи потез.",
+      " додатне [B] следећи потез.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Entangled": {
     "NAME": "Упетљан",
     "DESCRIPTIONS": [

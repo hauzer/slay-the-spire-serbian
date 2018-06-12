@@ -214,7 +214,7 @@
   },
   "Capacitor": {
     "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
+    "DESCRIPTION": "Gain !M! Orb slots.",
     "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
   },
   "Carnage": {
@@ -529,7 +529,7 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked."
+    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked. NL Exhaust."
   },
   "Flame Barrier": {
     "NAME": "Flame Barrier",

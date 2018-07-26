@@ -57,9 +57,17 @@
     ]
   },
   "LOC_GRE": {
-    "HEADER": "Greek Localization",
+    "HEADER": "Грчки превод",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Индонежански превод",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Szaal"
     ]
   },
   "LOC_ITA": {
@@ -247,7 +255,7 @@
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...и хвала ТЕБИ на игрању!",
+    "HEADER": "...и хвала ТЕБИ што играш!",
     "NAMES": []
   },
   "VOICE": {

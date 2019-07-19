@@ -19,6 +19,14 @@
       "Bruce Brenneise"
     ]
   },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (званичан превод):",
+      "Подршка за јапанско издаваштво:  Kakehashi Games",
+      "Јапански превод:  Rie Ihara"
+    ]
+  },
   "LOC_ADDITIONAL": {
     "HEADER": "Остали преводи",
     "NAMES": [
@@ -59,7 +67,8 @@
   "LOC_EPO": {
     "HEADER": "Есперанто превод",
     "NAMES": [
-      "Vincent \"Babelismoj\" Oostelbos"
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
     ]
   },
   "LOC_FRA": {
@@ -365,14 +374,6 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
-    ]
-  },
-  "KAKEHASHI": {
-    "HEADER": "Kakehashi Games",
-    "NAMES": [
-      "Kakehashi Games (званичан превод):",
-      "Подршка за јапанско издаваштво:  Kakehashi Games",
-      "Јапански превод:  Rie Ihara"
     ]
   }
 }

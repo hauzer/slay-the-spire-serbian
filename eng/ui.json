@@ -835,6 +835,17 @@
       "Oh no!"
     ]
   },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Press ",
+      " to Start",
+      "Switch Profile",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
+    ]
+  },
   "OpeningAction": {
     "TEXT": [
       "That enemy does not intend to attack!"

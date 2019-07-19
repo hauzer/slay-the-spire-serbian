@@ -615,6 +615,21 @@
       ""
     ]
   },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Штит Торња",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Копље Торња"
+  },
   "TheCollector": {
     "MOVES": [
       ""
@@ -675,28 +690,13 @@
       ""
     ]
   },
-  "SpireShield": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Штит Торња",
-    "DIALOG": [
-	  ""
-    ]
-  },
-  "SpireSpear": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Копље Торња"
-  },
   "WrithingMass": {
     "MOVES": [
       ""
     ],
     "NAME": "Врвећа маса",
     "DIALOG": [
-	  ""
+      ""
     ]
-}
+  }
 }

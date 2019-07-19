@@ -29,16 +29,38 @@
     "HEADER": "Catalan Localization",
     "NAMES": [
     ]
-  },  
+  },
   "LOC_DEU": {
     "HEADER": "German Localization",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
+      "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
-      "koykoy13"
+      "koykoy13",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Dutch Localization",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Esperanto Localization",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
     ]
   },
   "LOC_FRA": {
@@ -68,13 +90,14 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Szaal"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_ITA": {
     "HEADER": "Italian Localization",
     "NAMES": [
-      "Hob",
+      "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
       "Luigi Squarzina"
     ]
@@ -82,7 +105,8 @@
   "LOC_JPN": {
     "HEADER": "Japanese Localization",
     "NAMES": [
-      "Grezzz"
+      "Grezzz (Community Translation)",
+      "Kakehashi Games (Official Translation)"
     ]
   },
   "LOC_KOR": {
@@ -111,19 +135,20 @@
     "HEADER": "Polish Localization",
     "NAMES": [
       "Translation and Coordination:",
-      "Stanis³aw \"ST4H\" Borkowski",
+      "Stanisław \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Additional Translations:",
       "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
       "Proofreading:",
       "Oskar \"volf3n\" Nowak",
       "Suggestions and Feedback:",
       "Kasper \"Awokado\" Beræ",
-      "Pawe³ \"BASTIL\" Kaleta",
-      "Grzegorz \"GregPL\" Bogus³awski",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
-      "Rafa³ \"SponTon83\" Szyszko"
+      "Rafał \"SponTon83\" Szyszko"
     ]
   },
   "LOC_PTB": {
@@ -140,11 +165,13 @@
   "LOC_RUS": {
     "HEADER": "Russian Localization",
     "NAMES": [
-      "Translation and Coordination:",
+      "Translation:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Translation and Repository:",
       "Vladislav \"Vlad-00003\" Bolshakov",
-      "Suggestions and Feedback:",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Additional Translation:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -152,9 +179,23 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
-      "Dmitry \"Regallion\" Zhiryakov",
       "Shop Asset Translation:",
       "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Spanish Localization",
+    "NAMES": [
+      "Translation and Coordination:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Translation:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro J. \"PJJLegend\" Jiménez",
+      "Grammar and Cleanup:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer"
     ]
   },
   "LOC_SRB": {
@@ -163,22 +204,43 @@
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
+  "LOC_THA": {
+    "HEADER": "Thai Localization",
+    "NAMES": [
+      "Translation and Coordination:",
+      "Noppon Varapaiboon (PlearnGaming)",
+      "Additional Translations:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Fonts:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "Turkish Localization",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
-    	"Vladyslav \"DarkXylese\" Kashtelyanov"
+      "Translation and Coordination:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Corrections and Translation:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {
     "HEADER": "Chinese (Simplified) Localization",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
@@ -196,10 +258,42 @@
       "Jake Rabinowitz"
     ]
   },
+  "PORTING": {
+    "HEADER": "Console and Mobile Ports",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
   "PORTRAITS": {
     "HEADER": "Card Portraits & Event Art",
     "NAMES": [
       "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release Manager: Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
     ]
   },
   "SOUND": {
@@ -219,7 +313,12 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
     ]
   },
   "TEST": {
@@ -252,7 +351,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-	  "David \"divadus\" Withington"
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
     ]
   },
   "THANKS_MSG": {
@@ -264,6 +366,14 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Official Translation):",
+      "Japanese Publishing Support:  Kakehashi Games",
+      "Japanese Localization:  Rie Ihara"
     ]
   }
 }

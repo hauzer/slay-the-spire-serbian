@@ -661,7 +661,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Гориоглави",
+    "NAME": "Бакљоглави",
     "DIALOG": [
       ""
     ]
@@ -674,5 +674,29 @@
     "DIALOG": [
       ""
     ]
-  }
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Штит Торња",
+    "DIALOG": [
+	  ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Копље Торња"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Врвећа маса",
+    "DIALOG": [
+	  ""
+    ]
+}
 }

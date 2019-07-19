@@ -34,10 +34,32 @@
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
-      "koykoy13"
+      "koykoy13",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Холандски превод",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Есперанто превод",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
     ]
   },
   "LOC_FRA": {
@@ -67,13 +89,14 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Szaal"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_ITA": {
     "HEADER": "Италијански превод",
     "NAMES": [
-      "Hob",
+      "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
       "Luigi Squarzina"
     ]
@@ -81,7 +104,8 @@
   "LOC_JPN": {
     "HEADER": "Јапански превод",
     "NAMES": [
-      "Grezzz"
+      "Grezzz (Community Translation)",
+      "Kakehashi Games (Official Translation)"
     ]
   },
   "LOC_KOR": {
@@ -110,19 +134,20 @@
     "HEADER": "Пољски превод",
     "NAMES": [
       "Превод и руководство:",
-      "Stanis³aw \"ST4H\" Borkowski",
+      "Stanisław \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Додатно превођење:",
       "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
       "Лектурисање:",
       "Oskar \"volf3n\" Nowak",
       "Предлози и повратне информације:",
       "Kasper \"Awokado\" Beræ",
-      "Pawe³ \"BASTIL\" Kaleta",
-      "Grzegorz \"GregPL\" Bogus³awski",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
-      "Rafa³ \"SponTon83\" Szyszko"
+      "Rafał \"SponTon83\" Szyszko"
     ]
   },
   "LOC_PTB": {
@@ -139,11 +164,13 @@
   "LOC_RUS": {
     "HEADER": "Руски превод",
     "NAMES": [
-      "Превод и руководство:",
+      "Превод:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Превод и спремиште:",
       "Vladislav \"Vlad-00003\" Bolshakov",
-      "Предлози и повратне информације:",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Додатан превод:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -151,9 +178,23 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
-      "Dmitry \"Regallion\" Zhiryakov",
-      "Shop Asset Translation:",
+      "Превод тржничких слика:",
       "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Шпански превод",
+    "NAMES": [
+      "Превод и руководство:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Превод:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro J. \"PJJLegend\" Jiménez",
+      "Граматика и помоћ:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer"
     ]
   },
   "LOC_SRB": {
@@ -162,22 +203,43 @@
       "Никола \"hauzer\" Вукосављевић"
     ]
   },
+  "LOC_THA": {
+    "HEADER": "Тајски превод",
+    "NAMES": [
+      "Превод и руководство:",
+      "Noppon Varapaiboon (PlearnGaming)",
+      "Додатан превод:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Фонтови:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "Турски превод",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
     "HEADER": "Украјински превод",
     "NAMES": [
-      "Vladyslav \"DarkXylese\" Kashtelyanov"
+      "Превод и руководство:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Исправке и превод:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {
     "HEADER": "Кинески (поједностављен) превод",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
@@ -195,10 +257,42 @@
       "Jake Rabinowitz"
     ]
   },
+  "PORTING": {
+    "HEADER": "Пребацивање на конзоле и мобилне",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
   "PORTRAITS": {
     "HEADER": "Визуелни дизајн карата & догађаја",
     "NAMES": [
       "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release Manager: Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
     ]
   },
   "SOUND": {
@@ -218,7 +312,12 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
     ]
   },
   "TEST": {
@@ -251,7 +350,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-      "David \"divadus\" Withington"
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
     ]
   },
   "THANKS_MSG": {
@@ -263,6 +365,14 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (званичан превод):",
+      "Подршка за јапанско издаваштво:  Kakehashi Games",
+      "Јапански превод:  Rie Ihara"
     ]
   }
 }

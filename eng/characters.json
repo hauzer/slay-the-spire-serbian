@@ -45,6 +45,16 @@
       "~*YAWN*~",
       "I like gold.",
       "My favorite color is blue. NL How bout you?"
+    ],
+    "OPTIONS": [
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
     ]
   },
   "Neow Event": {
@@ -56,7 +66,7 @@
       "~Hello...~ NL ~Again..~",
       "~Greetings...~",
       "~Another~ NL ~try...?~",
-      "~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
+      "~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~more..~ ~blessings...~",
       "~At~ ~least...~ ~confront~ NL ~the~ ~first~ ~boss...~",
       "~I~ ~brought~ ~you~ ~back...~",
       "~Choose...~",
@@ -75,7 +85,8 @@
       "[Continue]",
       "[Talk]",
       "[Skip]",
-      "[Leave]"
+      "[Leave]",
+	  "Choose 10 cards to add to your deck."
     ]
   },
   "Neow Reward": {
@@ -102,14 +113,17 @@
       " #rMax #rHP ",
       "[ #rLose #rall #rGold ",
       "[ #rObtain #ra #rCurse ",
-      "[ #rLose #r50% #rof #ryour #rcurrent #rHP ",
+      "[ #rTake #r",
       "Choose a Card",
       "Select a Card to Remove",
       "Select 2 Cards to Remove",
       "Select a Card to Transform",
       "Select 2 Cards to Transform",
       "Select a Card to Upgrade",
-      "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]"
+      "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]",
+      " #rdamage",
+      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+      "#gObtain #g2 #grandom #gcolorless #gCards ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"
@@ -157,6 +171,14 @@
     ],
     "TEXT": [
       "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps.....",
+      "..and so...... shall... NL ....I......"
     ]
   }
 }

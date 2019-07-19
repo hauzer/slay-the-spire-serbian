@@ -69,6 +69,12 @@
     "NAME": "Убиј. челника у Прелуд.",
     "DESCRIPTIONS": []
   },
+  "Heartbreaker": {
+    "NAME": "Срцоломац",
+    "DESCRIPTIONS": [
+      "Порази Срце."
+    ]
+  },
   "Highlander": {
     "NAME": "Брђанин",
     "DESCRIPTIONS": [

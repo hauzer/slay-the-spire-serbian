@@ -40,7 +40,13 @@
       "Neon",
       "Energy is Overrated",
       "My Lucky Day",
-      "The Transient"
+      "The Transient",
+      "Ascend 20",
+      "Ruby+",
+      "Emerald+",
+      "Sapphire+",
+      "The End?",
+      "Eternal One"
     ],
     "TEXT": [
       "Win a battle with 1 HP remaining.",
@@ -82,7 +88,13 @@
       "Channel 9 Plasma in a single turn.",
       "Play 10 or more cost 0 cards in a single turn.",
       "Win a Daily Climb.",
-      "Defeat the Transient before it fades away."
+      "Defeat the Transient before it fades away.",
+      "Complete Ascension Level 20.",
+      "Complete the Ending with the Ironclad.",
+      "Complete the Ending with the Silent.",
+      "Complete the Ending with the Defect.",
+      "Complete the Ending with the Ironclad, Silent, and Defect.",
+      "Obtain all other Achievements."
     ]
   },
   "CharStat": {
@@ -94,7 +106,7 @@
       "Total Floors Climbed: #y",
       "Total Bosses Slain: #y",
       "Total Enemies Slain: #y",
-      "Total Crystals Fed: #y",
+      "",
       "Cards Discovered: #y",
       "Cards Unlocked: #y",
       "Relics Discovered: #y",
@@ -124,6 +136,14 @@
     ],
     "TEXT": [
       "Return"
+    ]
+  },
+  "PS4Trophy": {
+    "NAMES": [
+      "Eternal One"
+    ],
+    "TEXT": [
+      "Obtain all other Trophies."
     ]
   }
 }

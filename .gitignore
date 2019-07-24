@@ -1,4 +1,5 @@
 __pycache__
+.vscode
 eng-old
 srb
 fill_empty_fields.py

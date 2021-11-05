@@ -1,0 +1,321 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "DESCRIPTION": "Negates the next debuff.",
+      "NAMES": [
+        "artifact"
+      ]
+    },
+    "BLOCK": {
+      "DESCRIPTION": "Until next turn, prevents damage.",
+      "NAMES": [
+        "block",
+        "blocks"
+      ]
+    },
+    "BURN": {
+      "DESCRIPTION": "Burns are unplayable status cards that damage you.",
+      "NAMES": [
+        "burn",
+        "burns"
+      ]
+    },
+    "CALM": {
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] .",
+      "NAMES": [
+        "calm"
+      ]
+    },
+    "CHANNEL": {
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room.",
+      "NAMES": [
+        "channel",
+        "channeled"
+      ]
+    },
+    "CONFUSED": {
+      "DESCRIPTION": "Whenever you draw a card, randomize its cost.",
+      "NAMES": [
+        "confused"
+      ]
+    },
+    "CURSE": {
+      "DESCRIPTION": "Curse cards are negative cards that stay in your deck.",
+      "NAMES": [
+        "curse"
+      ]
+    },
+    "DARK": {
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP.",
+      "NAMES": [
+        "dark",
+        "dark+"
+      ]
+    },
+    "DAZED": {
+      "DESCRIPTION": "Dazed are unplayable status cards.",
+      "NAMES": [
+        "dazed"
+      ]
+    },
+    "DEXTERITY": {
+      "DESCRIPTION": "Dexterity improves Block gained from cards.",
+      "NAMES": [
+        "dexterity"
+      ]
+    },
+    "DIVINITY": {
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn.",
+      "NAMES": [
+        "divinity"
+      ]
+    },
+    "ETHEREAL": {
+      "DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat.",
+      "NAMES": [
+        "ethereal"
+      ]
+    },
+    "EVOKE": {
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect.",
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ]
+    },
+    "EXHAUST": {
+      "DESCRIPTION": "Removed until end of combat.",
+      "NAMES": [
+        "exhaust",
+        "exhausted",
+        "exhausts"
+      ]
+    },
+    "FATAL": {
+      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy.",
+      "NAMES": [
+        "fatal"
+      ]
+    },
+    "FOCUS": {
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs.",
+      "NAMES": [
+        "focus"
+      ]
+    },
+    "FRAIL": {
+      "DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards.",
+      "NAMES": [
+        "frail"
+      ]
+    },
+    "FROST": {
+      "DESCRIPTION": "Orb: Gains #yBlock.",
+      "NAMES": [
+        "frost",
+        "frost+"
+      ]
+    },
+    "INNATE": {
+      "DESCRIPTION": "Start each combat with this card in your hand.",
+      "NAMES": [
+        "innate"
+      ]
+    },
+    "INTANGIBLE": {
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1.",
+      "NAMES": [
+        "intangible"
+      ]
+    },
+    "LIGHTNING": {
+      "DESCRIPTION": "Orb: Deals damage to random enemies.",
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ]
+    },
+    "LOCKED": {
+      "DESCRIPTION": "This card has yet to be unlocked.",
+      "NAMES": [
+        "locked"
+      ]
+    },
+    "LOCK_ON": {
+      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs.",
+      "NAMES": [
+        "lock-on"
+      ]
+    },
+    "OPENER": {
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn.",
+      "NAMES": [
+        "opener"
+      ]
+    },
+    "PLASMA": {
+      "DESCRIPTION": "Orb: Gains Energy.",
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ]
+    },
+    "POISON": {
+      "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1.",
+      "NAMES": [
+        "poison",
+        "poisoned"
+      ]
+    },
+    "PRAYER": {
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity.",
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ]
+    },
+    "REGEN": {
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1.",
+      "NAMES": [
+        "regen"
+      ]
+    },
+    "RETAIN": {
+      "DESCRIPTION": "Retained cards are not discarded at the end of turn.",
+      "NAMES": [
+        "retain",
+        "retains",
+        "retained"
+      ]
+    },
+    "RITUAL": {
+      "DESCRIPTION": "Gain #yStrength at the end of your turn.",
+      "NAMES": [
+        "ritual"
+      ]
+    },
+    "SCRY": {
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them.",
+      "NAMES": [
+        "scry"
+      ]
+    },
+    "SHIV": {
+      "DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust.",
+      "NAMES": [
+        "shiv",
+        "shivs"
+      ]
+    },
+    "STANCE": {
+      "DESCRIPTION": "You can only have one stance at a time.",
+      "NAMES": [
+        "stance",
+        "stances"
+      ]
+    },
+    "STATUS": {
+      "DESCRIPTION": "Status cards are removed at the end of combat.",
+      "NAMES": [
+        "status"
+      ]
+    },
+    "STRENGTH": {
+      "DESCRIPTION": "Strength adds additional damage to attacks.",
+      "NAMES": [
+        "strength"
+      ]
+    },
+    "STRIKE": {
+      "DESCRIPTION": "Any card with the word \"Strike\" in its name.",
+      "NAMES": [
+        "strike"
+      ]
+    },
+    "TEXT": [
+      "Energy is used to play cards from your hand."
+    ],
+    "THORNS": {
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back.",
+      "NAMES": [
+        "thorns"
+      ]
+    },
+    "TODO": {
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that...",
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ]
+    },
+    "TRANSFORM": {
+      "DESCRIPTION": "Transformed cards become a random card of any rarity.",
+      "NAMES": [
+        "transform"
+      ]
+    },
+    "UNKNOWN": {
+      "DESCRIPTION": "This card has yet to be encountered.",
+      "NAMES": [
+        "unknown"
+      ]
+    },
+    "UNPLAYABLE": {
+      "DESCRIPTION": "Unplayable cards cannot be played from your hand.",
+      "NAMES": [
+        "unplayable"
+      ]
+    },
+    "UPGRADE": {
+      "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once.",
+      "NAMES": [
+        "upgrade",
+        "upgraded"
+      ]
+    },
+    "VIGOR": {
+      "DESCRIPTION": "Your next Attack deals additional damage.",
+      "NAMES": [
+        "vigor"
+      ]
+    },
+    "VOID": {
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn.",
+      "NAMES": [
+        "void",
+        "voids"
+      ]
+    },
+    "VULNERABLE": {
+      "DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks.",
+      "NAMES": [
+        "vulnerable"
+      ]
+    },
+    "WEAK": {
+      "DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks.",
+      "NAMES": [
+        "weak",
+        "weaken",
+        "weakened",
+        "weakens"
+      ]
+    },
+    "WOUND": {
+      "DESCRIPTION": "Wounds are unplayable status cards.",
+      "NAMES": [
+        "wound",
+        "wounds"
+      ]
+    },
+    "WRATH": {
+      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage.",
+      "NAMES": [
+        "wrath"
+      ]
+    }
+  }
+}

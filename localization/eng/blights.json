@@ -1,0 +1,98 @@
+{
+  "Accursed": {
+    "DESCRIPTION": [
+      "Whenever you defeat a Boss, obtain #b",
+      " random #yCurses.",
+      ""
+    ],
+    "NAME": "Accursed"
+  },
+  "BlightedDurian": {
+    "DESCRIPTION": [
+      "Lose #b",
+      "% of your Max HP."
+    ],
+    "NAME": "Post-Durian"
+  },
+  "DeadlyEnemies": {
+    "DESCRIPTION": [
+      "Enemies deal #b",
+      "% more damage."
+    ],
+    "NAME": "Spear of Blight"
+  },
+  "FullBelly": {
+    "DESCRIPTION": [
+      "You can no longer increase your Max HP. All healing is halved."
+    ],
+    "NAME": "Muzzle"
+  },
+  "GraspOfShadows": {
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yIntangible."
+    ],
+    "NAME": "Hauntings"
+  },
+  "GrotesqueTrophy": {
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " #rPrides.",
+      "Your Pride is twisted..."
+    ],
+    "NAME": "Grotesque Trophy"
+  },
+  "MetallicRebirth": {
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yArtifact, #b",
+      " #yPlated #yArmor, and #b",
+      " #yRegenerate."
+    ],
+    "NAME": "Ancient Augmentation"
+  },
+  "MimicInfestation": {
+    "DESCRIPTION": [
+      "Treasure rooms in future acts are replaced by Elites. Elites no longer drop relics."
+    ],
+    "NAME": "Mimic Infestation"
+  },
+  "Scatterbrain": {
+    "DESCRIPTION": [
+      "Draw #b",
+      " less card a turn.",
+      ""
+    ],
+    "NAME": "Scatterbrain"
+  },
+  "TimeMaze": {
+    "DESCRIPTION": [
+      "You cannot play more than #b",
+      " cards per turn.",
+      "I can only play up to NL #r"
+    ],
+    "NAME": "Time Maze"
+  },
+  "ToughEnemies": {
+    "DESCRIPTION": [
+      "Enemies have #b",
+      "% more HP."
+    ],
+    "NAME": "Shield of Blight"
+  },
+  "TwistingMind": {
+    "DESCRIPTION": [
+      "At the end of your turn, add #b",
+      " random Status card to the top of your draw pile.",
+      ""
+    ],
+    "NAME": "Twisting Mind"
+  },
+  "VoidEssence": {
+    "DESCRIPTION": [
+      "Gain #b",
+      " less [E] at the start of each turn."
+    ],
+    "NAME": "Void Essence"
+  }
+}

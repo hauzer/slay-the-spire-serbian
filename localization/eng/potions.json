@@ -1,0 +1,320 @@
+{
+  "Ambrosia": {
+    "DESCRIPTIONS": [
+      "Enter #yDivinity #yStance."
+    ],
+    "NAME": "Ambrosia"
+  },
+  "Ancient Potion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yArtifact."
+    ],
+    "NAME": "Ancient Potion"
+  },
+  "AttackPotion": {
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ],
+    "NAME": "Attack Potion"
+  },
+  "BlessingOfTheForge": {
+    "DESCRIPTIONS": [
+      "Upgrade all cards in your hand for the rest of combat."
+    ],
+    "NAME": "Blessing of the Forge"
+  },
+  "Block Potion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yBlock."
+    ],
+    "NAME": "Block Potion"
+  },
+  "BloodPotion": {
+    "DESCRIPTIONS": [
+      "Heal for #b",
+      "% of your Max HP."
+    ],
+    "NAME": "Blood Potion"
+  },
+  "BottledMiracle": {
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMiracles to your hand."
+    ],
+    "NAME": "Bottled Miracle"
+  },
+  "ColorlessPotion": {
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ],
+    "NAME": "Colorless Potion"
+  },
+  "CultistPotion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRitual."
+    ],
+    "NAME": "Cultist Potion"
+  },
+  "CunningPotion": {
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yShiv+ to your hand."
+    ],
+    "NAME": "Cunning Potion"
+  },
+  "Dexterity Potion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yDexterity."
+    ],
+    "NAME": "Dexterity Potion"
+  },
+  "DistilledChaos": {
+    "DESCRIPTIONS": [
+      "Play the top #b",
+      " cards of your draw pile."
+    ],
+    "NAME": "Distilled Chaos"
+  },
+  "DuplicationPotion": {
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice.",
+      "This turn, your next #b2 cards are played twice."
+    ],
+    "NAME": "Duplication Potion"
+  },
+  "Elixir": {
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
+    ],
+    "NAME": "Elixir"
+  },
+  "ElixirPotion": {
+    "DESCRIPTIONS": [
+      "#yExhaust any number of cards in your hand."
+    ],
+    "NAME": "Elixir"
+  },
+  "Energy Potion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Energy."
+    ],
+    "NAME": "Energy Potion"
+  },
+  "EntropicBrew": {
+    "DESCRIPTIONS": [
+      "Fill all your empty potion slots with random potions."
+    ],
+    "NAME": "Entropic Brew"
+  },
+  "EssenceOfDarkness": {
+    "DESCRIPTIONS": [
+      "#yChannel #b",
+      " #yDark for each orb slot."
+    ],
+    "NAME": "Essence Of Darkness"
+  },
+  "EssenceOfSteel": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yPlated #yArmor."
+    ],
+    "NAME": "Essence of Steel"
+  },
+  "Explosive Potion": {
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage to ALL enemies."
+    ],
+    "NAME": "Explosive Potion"
+  },
+  "FairyPotion": {
+    "DESCRIPTIONS": [
+      "When you would die, heal to #b",
+      "% of your Max HP instead and discard this potion."
+    ],
+    "NAME": "Fairy in a Bottle"
+  },
+  "FearPotion": {
+    "DESCRIPTIONS": [
+      "Apply #b",
+      " #yVulnerable."
+    ],
+    "NAME": "Fear Potion"
+  },
+  "Fire Potion": {
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage."
+    ],
+    "NAME": "Fire Potion"
+  },
+  "FocusPotion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yFocus."
+    ],
+    "NAME": "Focus Potion"
+  },
+  "Fruit Juice": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Max HP."
+    ],
+    "NAME": "Fruit Juice"
+  },
+  "GamblersBrew": {
+    "DESCRIPTIONS": [
+      "Discard any number of cards then draw that many."
+    ],
+    "NAME": "Gambler's Brew"
+  },
+  "GhostInAJar": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yIntangible."
+    ],
+    "NAME": "Ghost in a Jar"
+  },
+  "Health Potion": {
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ],
+    "NAME": "Health Potion"
+  },
+  "HeartOfIron": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yMetallicize."
+    ],
+    "NAME": "Heart of Iron"
+  },
+  "LiquidBronze": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yThorns."
+    ],
+    "NAME": "Liquid Bronze"
+  },
+  "LiquidMemories": {
+    "DESCRIPTIONS": [
+      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b",
+      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+    ],
+    "NAME": "Liquid Memories"
+  },
+  "Poison Potion": {
+    "DESCRIPTIONS": [
+      "Apply #b",
+      " #yPoison."
+    ],
+    "NAME": "Poison Potion"
+  },
+  "Potion Slot": {
+    "DESCRIPTIONS": [
+      "Use potions during combat to gain #gbonuses or #rhinder enemies.",
+      "Potion Slot"
+    ],
+    "NAME": "Potion Slot"
+  },
+  "PotionOfCapacity": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Orb slots."
+    ],
+    "NAME": "Potion Of Capacity"
+  },
+  "PowerPotion": {
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ],
+    "NAME": "Power Potion"
+  },
+  "Regen Potion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRegen.",
+      ""
+    ],
+    "NAME": "Regen Potion"
+  },
+  "SkillPotion": {
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ],
+    "NAME": "Skill Potion"
+  },
+  "SmokeBomb": {
+    "DESCRIPTIONS": [
+      "Escape from a non-boss combat. Receive no rewards.",
+      "I'm Surrounded!"
+    ],
+    "NAME": "Smoke Bomb"
+  },
+  "SneckoOil": {
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " cards. Randomize the cost of cards in your hand.",
+      ""
+    ],
+    "NAME": "Snecko Oil"
+  },
+  "SpeedPotion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yDexterity. At the end of your turn, lose #b",
+      " #yDexterity."
+    ],
+    "NAME": "Speed Potion"
+  },
+  "StancePotion": {
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
+    ],
+    "NAME": "Stance Potion"
+  },
+  "SteroidPotion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength. At the end of your turn, lose #b",
+      " #yStrength."
+    ],
+    "NAME": "Flex Potion"
+  },
+  "Strength Potion": {
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength."
+    ],
+    "NAME": "Strength Potion"
+  },
+  "Swift Potion": {
+    "DESCRIPTIONS": [
+      "",
+      "Draw #b",
+      " cards."
+    ],
+    "NAME": "Swift Potion"
+  },
+  "Weak Potion": {
+    "DESCRIPTIONS": [
+      "Apply #b",
+      " #yWeak."
+    ],
+    "NAME": "Weak Potion"
+  }
+}

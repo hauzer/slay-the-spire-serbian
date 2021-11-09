@@ -1,0 +1,1 @@
+cyrtranslit==1.0.*

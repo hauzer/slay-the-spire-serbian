@@ -2,8 +2,6 @@
 /.vscode
 /localization/eng-old
 /localization/srb
-/recode-sr-latin*
-/scripts
 /validation_results.txt
 /*.code-workspace
 /*.zip

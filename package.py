@@ -6,7 +6,7 @@ from util import get_loc_dir_path
 
 
 
-VERSION = '2.2.1'
+VERSION = '2.3.0'
 CYRILLIC_CODE = 'srp'
 LATIN_CODE = 'srb'
 

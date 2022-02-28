@@ -6,7 +6,7 @@ from util import get_loc_dir_path
 
 
 
-VERSION = '2.2.0'
+VERSION = '2.2.1'
 CYRILLIC_CODE = 'srp'
 LATIN_CODE = 'srb'
 
@@ -26,13 +26,6 @@ def main():
     for file in files:
         with open(cyrillic_path / file, 'r', encoding='utf-8') as cyrillic, open(latin_path / file, 'w', encoding='utf-8') as latin:
             text = cyrillic.read()
-
-            if file == 'ui.json':
-                text = text.replace(
-                    f'"Tajlandski",\n{" " * 6}"Srpski"',
-                    f'"Tajlandski",\n{" " * 6}"Српски"'
-                )
-            
             latin.write(to_latin(text))
 
     cyrillic_zip_path = working_path / f'{CYRILLIC_CODE}-{VERSION}'
